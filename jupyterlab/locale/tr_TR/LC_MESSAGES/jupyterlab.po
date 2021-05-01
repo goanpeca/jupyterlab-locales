@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2021-04-27 13:12\n"
+"PO-Revision-Date: 2021-05-01 14:27\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -919,7 +919,7 @@ msgstr "Sunum Modu"
 
 #: packages/application-extension/src/index.tsx:821 packages/statusbar-extension/src/index.ts:379
 msgid "Simple Interface"
-msgstr ""
+msgstr "Basit arayüz"
 
 #: packages/application-extension/src/index.tsx:935
 msgid "Property Inspector"
@@ -942,7 +942,8 @@ msgstr "Yükleniyor..."
 #: packages/apputils-extension/src/index.ts:213
 msgid "The loading screen is taking a long time. \n"
 "Would you like to clear the workspace or keep waiting?"
-msgstr ""
+msgstr "Ekranı yüklemek uzun zaman alıyor.\n"
+"Çalışma alanını temizlemek mi yada beklemeye devam etmek mi istersin?"
 
 #: packages/apputils-extension/src/index.ts:216
 msgid "Keep Waiting"
@@ -1457,15 +1458,15 @@ msgstr "Değişkenler"
 
 #: packages/debugger/src/panels/variables/index.ts:73
 msgid "Tree View"
-msgstr ""
+msgstr "Ağaç Görünümü"
 
 #: packages/debugger/src/panels/variables/index.ts:80
 msgid "Table View"
-msgstr ""
+msgstr "Tablo Görünümü"
 
 #: packages/debugger/src/panels/variables/scope.tsx:53
 msgid "Scope"
-msgstr ""
+msgstr "Kapsam"
 
 #: packages/docmanager-extension/src/index.ts:235
 msgid "Overrides for the default viewers for file types.\n"
@@ -1938,7 +1939,7 @@ msgstr "Sil"
 
 #: packages/extensionmanager/src/widget.tsx:367
 msgid "About"
-msgstr ""
+msgstr "Hakkında"
 
 #: packages/extensionmanager/src/widget.tsx:386
 msgid "This is a prebuilt extension. To uninstall it, please\n"
@@ -3393,15 +3394,15 @@ msgstr "Açılan Sekmeler"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr ""
+msgstr "Tümünü Kapat"
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
-msgstr ""
+msgstr "Tüm sekmeleri kapatmak istediğinizden emin misiniz?"
 
 #: packages/running/src/index.tsx:294
 msgid "Refresh List"
