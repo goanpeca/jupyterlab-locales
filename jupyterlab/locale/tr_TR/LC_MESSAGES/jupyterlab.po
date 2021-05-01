@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2021-05-01 14:27\n"
+"PO-Revision-Date: 2021-05-01 15:24\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -3486,7 +3486,7 @@ msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr ""
+msgstr "Basit"
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
