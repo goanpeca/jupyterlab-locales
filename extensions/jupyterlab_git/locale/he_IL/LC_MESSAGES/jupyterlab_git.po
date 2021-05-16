@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2021-04-29 08:57\n"
+"PO-Revision-Date: 2021-05-16 22:55\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -116,7 +116,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:117
 msgid "Commit from the Commit Box"
-msgstr ""
+msgstr "הגשה מתיבת ההגשות"
 
 #: src/commandsAndMenu.tsx:1172
 msgid "Git credentials required"
@@ -128,7 +128,7 @@ msgstr "נא למלא את פרטי הגישה למאגר המרוחק"
 
 #: src/commandsAndMenu.tsx:1176
 msgid "Incorrect username or password."
-msgstr ""
+msgstr "שם משתמש או ססמה שגויים."
 
 #: src/commandsAndMenu.tsx:118
 msgid "Submit the commit using the summary and description from commit box"
@@ -136,23 +136,23 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:129
 msgid "Open Git Repository in Terminal"
-msgstr ""
+msgstr "פתיחת מאגר Git במסוף"
 
 #: src/commandsAndMenu.tsx:130
 msgid "Open a New Terminal to the Git Repository"
-msgstr ""
+msgstr "פתיחת מסוף חדש במאגר ה־Git"
 
 #: src/commandsAndMenu.tsx:159
 msgid "Git Interface"
-msgstr ""
+msgstr "מנשק Git"
 
 #: src/commandsAndMenu.tsx:160
 msgid "Go to Git user interface"
-msgstr ""
+msgstr "מעבר למנשק המשתמש של Git"
 
 #: src/commandsAndMenu.tsx:172 src/commandsAndMenu.tsx:179
 msgid "Initialize a Repository"
-msgstr ""
+msgstr "אתחול מאגר"
 
 #: src/commandsAndMenu.tsx:173
 msgid "Create an empty Git repository or reinitialize an existing one"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:180
 msgid "Do you really want to make this directory a Git Repo?"
-msgstr ""
+msgstr "להפוך את התיקייה הזאת למאגר Git?"
 
 #: src/commandsAndMenu.tsx:182 src/commandsAndMenu.tsx:295 src/commandsAndMenu.tsx:743 src/commandsAndMenu.tsx:786
 msgid "Cancel"
@@ -172,11 +172,11 @@ msgstr "כן"
 
 #: src/commandsAndMenu.tsx:189
 msgid "Initializing..."
-msgstr ""
+msgstr "מתבצע אתחול…"
 
 #: src/commandsAndMenu.tsx:196
 msgid "Git repository initialized."
-msgstr ""
+msgstr "מאגר ה־Git אותחל."
 
 #: src/commandsAndMenu.tsx:201
 msgid "Encountered an error when initializing the repository. Error: "
@@ -196,27 +196,27 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:246
 msgid "Add Remote Repository"
-msgstr ""
+msgstr "הוספת מאגר מרוחק"
 
 #: src/commandsAndMenu.tsx:247
 msgid "Add a Git remote repository"
-msgstr ""
+msgstr "הוספת מאגר Git מרוחק"
 
 #: src/commandsAndMenu.tsx:252
 msgid "Not in a Git repository. Unable to add a remote."
-msgstr ""
+msgstr "לא במאגר Git. לא ניתן להוסיף מרוחק."
 
 #: src/commandsAndMenu.tsx:261
 msgid "Add a remote repository"
-msgstr ""
+msgstr "הוספת מאגר מרוחק"
 
 #: src/commandsAndMenu.tsx:262
 msgid "Remote Git repository URL"
-msgstr ""
+msgstr "כתובת מאגר ה־Git המרוחק"
 
 #: src/commandsAndMenu.tsx:276
 msgid "Error when adding remote repository"
-msgstr ""
+msgstr "שגיאה בהוספת המאגר המרוחק"
 
 #: src/commandsAndMenu.tsx:286
 msgid "Clone a Repository"
@@ -256,15 +256,15 @@ msgstr "דחיפה לצד המרוחק"
 
 #: src/commandsAndMenu.tsx:346
 msgid "Push code to remote repository"
-msgstr ""
+msgstr "דחיפת קוד למאגר מרוחק"
 
 #: src/commandsAndMenu.tsx:351
 msgid "Pushing..."
-msgstr ""
+msgstr "מתבצעת דחיפה…"
 
 #: src/commandsAndMenu.tsx:360
 msgid "Successfully pushed"
-msgstr ""
+msgstr "הדחיפה הצליחה"
 
 #: src/commandsAndMenu.tsx:366
 msgid "Encountered an error when pushing changes. Error: "
@@ -272,23 +272,23 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:370
 msgid "Failed to push"
-msgstr ""
+msgstr "הדחיפה נכשלה"
 
 #: src/commandsAndMenu.tsx:380
 msgid "Pull from Remote"
-msgstr ""
+msgstr "משיכה מצד מרוחק"
 
 #: src/commandsAndMenu.tsx:381
 msgid "Pull latest code from remote repository"
-msgstr ""
+msgstr "משיכת הקוד העדכני ביותר ממאגר מרוחק"
 
 #: src/commandsAndMenu.tsx:386
 msgid "Pulling..."
-msgstr ""
+msgstr "מתבצעת משיכה…"
 
 #: src/commandsAndMenu.tsx:395
 msgid "Successfully pulled"
-msgstr ""
+msgstr "המשיכה הצליחה"
 
 #: src/commandsAndMenu.tsx:405
 msgid "Failed to pull"
@@ -420,7 +420,7 @@ msgstr "למחוק את הקבצים האלו לצמיתות?             זו �
 
 #: src/commandsAndMenu.tsx:754
 msgid "Deleting %1 failed."
-msgstr ""
+msgstr "מחיקת %1 נכשלה."
 
 #: src/commandsAndMenu.tsx:755 src/commandsAndMenu.tsx:810 src/index.ts:128
 msgid "DISMISS"
@@ -428,15 +428,15 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:765 src/commandsAndMenu.tsx:787
 msgid "Discard"
-msgstr ""
+msgstr "השלכה"
 
 #: src/commandsAndMenu.tsx:767
 msgid "Discard recent changes of selected file"
-msgstr ""
+msgstr "השלכת שינויים אחרונים בקובץ נבחר"
 
 #: src/commandsAndMenu.tsx:768
 msgid "Discard recent changes of selected files"
-msgstr ""
+msgstr "השלכת שינויים אחרונים בקבצים נבחרים"
 
 #: src/commandsAndMenu.tsx:775
 msgid "Discard changes"
@@ -444,19 +444,19 @@ msgstr "השלכת השינויים"
 
 #: src/commandsAndMenu.tsx:778
 msgid "Are you sure you want to permanently discard changes to the following files?               This action cannot be undone."
-msgstr ""
+msgstr "להשליך את השינויים לקבצים האלו לצמיתות?               זו פעולה בלתי הפיכה."
 
 #: src/commandsAndMenu.tsx:808
 msgid "Discard changes for %1 failed."
-msgstr ""
+msgstr "השלכת השינויים אצל %1 נכשלה."
 
 #: src/commandsAndMenu.tsx:821 src/commandsAndMenu.tsx:825
 msgid "Ignore this file (add to .gitignore)"
-msgstr ""
+msgstr "התעלמות מקובץ זה (הוספה ל־‎.gitignore)"
 
 #: src/commandsAndMenu.tsx:822 src/commandsAndMenu.tsx:826
 msgid "Ignore these files (add to .gitignore)"
-msgstr ""
+msgstr "התעלמות מקבצים אלה (הוספה ל־‎.gitignore)"
 
 #: src/commandsAndMenu.tsx:844
 msgid "Ignore %2 extension (add to .gitignore)"
@@ -468,15 +468,15 @@ msgstr[3] ""
 
 #: src/commandsAndMenu.tsx:852
 msgid "Ignore this file extension (add to .gitignore)"
-msgstr ""
+msgstr "התעלמות מסיומת קובץ זו (הוספה ל־‎.gitignore)"
 
 #: src/commandsAndMenu.tsx:853
 msgid "Ignore these files extension (add to .gitignore)"
-msgstr ""
+msgstr "התעלמות מסיומות קבצים אלו (הוספה ל־‎.gitignore)"
 
 #: src/commandsAndMenu.tsx:862
 msgid "Ignore file extension"
-msgstr ""
+msgstr "התעלמות מסיומת קובץ"
 
 #: src/commandsAndMenu.tsx:863
 msgid "Are you sure you want to ignore all %1 files within this git repository?"
@@ -520,7 +520,7 @@ msgstr ""
 
 #: src/components/BranchMenu.tsx:74
 msgid "Failed to switch branch."
-msgstr ""
+msgstr "החלפת ענף נכשלה."
 
 #: src/components/TagMenu.tsx:45
 msgid "Unable to checkout tag"
@@ -536,7 +536,7 @@ msgstr ""
 
 #: src/index.ts:102
 msgid "git command version must be > 2; got %1."
-msgstr ""
+msgstr "גרסת פקודת ה־git חייבת להיות גדולה מ־2, התקבלה %1."
 
 #: src/index.ts:109
 msgid "The versions of the JupyterLab Git server frontend and backend do not match. The @jupyterlab/git frontend extension has version: %1 while the python package has version %2. Please install identical version of jupyterlab-git Python package and the @jupyterlab/git extension. Try running: pip install --upgrade jupyterlab-git"
@@ -544,11 +544,11 @@ msgstr ""
 
 #: src/index.ts:126
 msgid "Failed to load the jupyterlab-git server extension"
-msgstr ""
+msgstr "טעינת הרחבת השרת jupyterlab-git נכשלה"
 
 #: src/index.ts:94
 msgid "git command not found - please ensure you have Git > 2 installed"
-msgstr ""
+msgstr "הפקודה git לא נמצאה - נא לוודא שמותקן אצלך Git בגרסה 2 ומעלה"
 
 #: src/server.ts:27
 msgid "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list."
