@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-04-26 13:59\n"
+"PO-Revision-Date: 2021-05-22 11:25\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -2027,7 +2027,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:461
 msgid "Copy Shareable Link"
-msgstr ""
+msgstr "Teilbarer Link kopieren"
 
 #: packages/filebrowser-extension/src/index.ts:504 packages/fileeditor-extension/src/commands.ts:753
 msgid "Copy"
@@ -2075,7 +2075,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:721
 msgid "Copy Download Link"
-msgstr ""
+msgstr "Downloadlink kopieren"
 
 #: packages/filebrowser-extension/src/index.ts:734 packages/fileeditor-extension/src/commands.ts:787
 msgid "Paste"
