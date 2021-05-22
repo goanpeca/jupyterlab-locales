@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-04-24 13:56\n"
+"PO-Revision-Date: 2021-05-22 12:24\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: /schema/plugin.json:22
 msgid "Disable branch with changes"
-msgstr "Zweig mit Änderungen deaktivieren"
+msgstr "Branch mit Änderungen deaktivieren"
 
 #: /schema/plugin.json:23
 msgctxt "schema"
@@ -85,7 +85,7 @@ msgstr ""
 #: /schema/plugin.json:5
 msgctxt "schema"
 msgid "jupyterlab-git settings."
-msgstr ""
+msgstr "jupyterlab-git Einstellungen."
 
 #: /schema/plugin.json:52
 msgid "Refresh interval"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:159
 msgid "Git Interface"
-msgstr ""
+msgstr "Git Interface"
 
 #: src/commandsAndMenu.tsx:160
 msgid "Go to Git user interface"
@@ -224,11 +224,11 @@ msgstr "Ein Repositorium klonen"
 
 #: src/commandsAndMenu.tsx:287
 msgid "Clone a repository from a URL"
-msgstr ""
+msgstr "Ein Repository von einer URL klonen"
 
 #: src/commandsAndMenu.tsx:291
 msgid "Clone a repo"
-msgstr ""
+msgstr "Ein Repo klonen"
 
 #: src/commandsAndMenu.tsx:296
 msgid "CLONE"
@@ -260,7 +260,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:351
 msgid "Pushing..."
-msgstr ""
+msgstr "Pushing..."
 
 #: src/commandsAndMenu.tsx:360
 msgid "Successfully pushed"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:386
 msgid "Pulling..."
-msgstr ""
+msgstr "Pulling..."
 
 #: src/commandsAndMenu.tsx:395
 msgid "Successfully pulled"
@@ -292,11 +292,11 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:405
 msgid "Failed to pull"
-msgstr ""
+msgstr "Pull fehlgeschlagen"
 
 #: src/commandsAndMenu.tsx:421
 msgid "Show Diff"
-msgstr ""
+msgstr "Diff anzeigen"
 
 #: src/commandsAndMenu.tsx:422
 msgid "Display a file diff."
@@ -304,7 +304,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:468
 msgid "Refresh"
-msgstr ""
+msgstr "Aktualisieren"
 
 #: src/commandsAndMenu.tsx:473
 msgid "Refresh diff widget"
@@ -312,7 +312,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:496
 msgid "Diff Not Supported"
-msgstr ""
+msgstr "Diff nicht unterstützt"
 
 #: src/commandsAndMenu.tsx:497
 msgid "Diff is not supported for %1 files."
@@ -340,7 +340,7 @@ msgstr "Diese Datei wurde gelöscht!"
 
 #: src/commandsAndMenu.tsx:544
 msgid "Diff"
-msgstr ""
+msgstr "Diff"
 
 #: src/commandsAndMenu.tsx:546
 msgid "Diff selected file"
@@ -461,7 +461,7 @@ msgstr "Diese Dateien ignorieren (zu .gitignore hinzufügen)"
 #: src/commandsAndMenu.tsx:844
 msgid "Ignore %2 extension (add to .gitignore)"
 msgid_plural "Ignore %2 extensions (add to .gitignore)"
-msgstr[0] ""
+msgstr[0] "%2 Erweiterung ignorieren (zu .gitignore hinzufügen)"
 msgstr[1] "%2 Erweiterungen ignorieren (zu .gitignore hinzufügen)"
 
 #: src/commandsAndMenu.tsx:852
@@ -502,7 +502,7 @@ msgstr " Hilfe "
 
 #: src/components/BranchMenu.tsx:51
 msgid "Unable to switch branch"
-msgstr ""
+msgstr "Konnte Branch nicht wechseln"
 
 #: src/components/BranchMenu.tsx:55 src/components/TagMenu.tsx:49
 msgid "Your changes to the following files would be overwritten by switching:"
@@ -534,7 +534,7 @@ msgstr ""
 
 #: src/index.ts:102
 msgid "git command version must be > 2; got %1."
-msgstr ""
+msgstr "git Befehlsversion muss > 2 sein; %1 erhalten."
 
 #: src/index.ts:109
 msgid "The versions of the JupyterLab Git server frontend and backend do not match. The @jupyterlab/git frontend extension has version: %1 while the python package has version %2. Please install identical version of jupyterlab-git Python package and the @jupyterlab/git extension. Try running: pip install --upgrade jupyterlab-git"
@@ -542,7 +542,7 @@ msgstr ""
 
 #: src/index.ts:126
 msgid "Failed to load the jupyterlab-git server extension"
-msgstr ""
+msgstr "Fehler beim Laden der jupyterlab-git Server-Erweiterung"
 
 #: src/index.ts:94
 msgid "git command not found - please ensure you have Git > 2 installed"
@@ -562,5 +562,5 @@ msgstr "Passwort / persönliches Zugangs-Token"
 
 #: src/widgets/GitCloneForm.ts:30
 msgid "Enter the Clone URI of the repository"
-msgstr ""
+msgstr "Geben Sie die Clone URI des Repositorys ein"
 
