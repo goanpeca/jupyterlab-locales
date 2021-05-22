@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-05-22 11:25\n"
+"PO-Revision-Date: 2021-05-22 12:24\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -118,7 +118,7 @@ msgstr "Seitenleisten-Layouteinstellungen."
 
 #: /packages/application-extension/schema/sidebar.json:8
 msgid "Overrides"
-msgstr ""
+msgstr "Überschreibungen"
 
 #: /packages/apputils-extension/schema/palette.json:13
 msgid "Modal Command Palette"
@@ -170,12 +170,12 @@ msgstr ""
 
 #: /packages/apputils-extension/schema/themes.json:51
 msgid "Scrollbar Theming"
-msgstr ""
+msgstr "Scrollbar Theming"
 
 #: /packages/apputils-extension/schema/themes.json:52
 msgctxt "schema"
 msgid "Enable/disable styling of the application scrollbars"
-msgstr ""
+msgstr "Aktiviere/Deaktiviere Styling der Anwendungs-Scrollbars"
 
 #: /packages/apputils-extension/schema/themes.json:56
 msgid "Theme CSS Overrides"
@@ -212,7 +212,7 @@ msgstr "Scrollen nach dem Ende des Textdokuments"
 
 #: /packages/codemirror-extension/schema/commands.json:27
 msgid "Style Active Line"
-msgstr ""
+msgstr "Stil aktive Zeile"
 
 #: /packages/codemirror-extension/schema/commands.json:28
 msgctxt "schema"
@@ -589,7 +589,7 @@ msgstr ""
 
 #: /packages/notebook-extension/schema/tracker.json:357
 msgid "Scroll past last cell"
-msgstr ""
+msgstr "Über die letzte Zelle hinaus scrollen"
 
 #: /packages/notebook-extension/schema/tracker.json:358
 msgctxt "schema"
@@ -689,7 +689,7 @@ msgstr "Terminaleinstellungen."
 #: /packages/terminal-extension/schema/plugin.json:53
 msgctxt "schema"
 msgid "The theme for the terminal."
-msgstr ""
+msgstr "Das Theme für das Terminal."
 
 #: /packages/terminal-extension/schema/plugin.json:58
 msgid "Screen Reader Mode"
@@ -711,12 +711,12 @@ msgstr ""
 
 #: /packages/terminal-extension/schema/plugin.json:70
 msgid "Shut down on close"
-msgstr ""
+msgstr "Nach Schließen herunterfahren"
 
 #: /packages/terminal-extension/schema/plugin.json:71
 msgctxt "schema"
 msgid "Shut down the session when closing the terminal."
-msgstr ""
+msgstr "Beenden Sie die Sitzung, wenn Sie das Terminal schließen."
 
 #: /packages/terminal-extension/schema/plugin.json:76
 msgid "Paste with Ctrl+V"
@@ -870,7 +870,7 @@ msgstr "Hauptbereich"
 
 #: packages/application-extension/src/index.tsx:572
 msgid "Shift+Right Click for Browser Menu"
-msgstr ""
+msgstr "Shift+Rechtsklick für das Browsermenü"
 
 #: packages/application-extension/src/index.tsx:662
 msgid "Activate Next Tab"
@@ -932,7 +932,9 @@ msgstr "Server-Verbindungsfehler"
 msgid "A connection to the Jupyter server could not be established.\n"
 "JupyterLab will continue trying to reconnect.\n"
 "Check your network connection or Jupyter server configuration.\n"
-msgstr ""
+msgstr "Eine Verbindung zum Jupyter-Server konnte nicht hergestellt werden.\n"
+"JupyterLab wird weiterhin versuchen, die Verbindung wiederherzustellen.\n"
+"Überprüfen Sie Ihre Netzwerkverbindung oder die Konfiguration des Jupyter-Servers.\n"
 
 #: packages/apputils-extension/src/index.ts:212
 msgid "Loading..."
@@ -950,7 +952,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/index.ts:217
 msgid "Clear Workspace"
-msgstr ""
+msgstr "Arbeitsbereich löschen"
 
 #: packages/apputils-extension/src/index.ts:282
 msgid "Print..."
@@ -990,7 +992,7 @@ msgstr "Theme Scrollleiste"
 
 #: packages/apputils-extension/src/themesplugins.ts:117
 msgid "waiting for fonts"
-msgstr ""
+msgstr "Warte auf Schriftarten"
 
 #: packages/apputils-extension/src/themesplugins.ts:165
 msgid "JupyterLab Theme"
@@ -1014,15 +1016,15 @@ msgstr "Inhalt-Schriftgröße verringern"
 
 #: packages/apputils-extension/src/themesplugins.ts:220 packages/apputils-extension/src/themesplugins.ts:296
 msgid "Increase UI Font Size"
-msgstr ""
+msgstr "UI Schriftgröße vergrößern"
 
 #: packages/apputils-extension/src/themesplugins.ts:227 packages/apputils-extension/src/themesplugins.ts:304
 msgid "Decrease UI Font Size"
-msgstr ""
+msgstr "UI Schriftgröße verkleinern"
 
 #: packages/apputils-extension/src/themesplugins.ts:96
 msgid "Use Theme: %1"
-msgstr ""
+msgstr "Verwende Theme: %1"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:105
 msgid "Save Current Workspace"
@@ -1038,7 +1040,7 @@ msgstr "Speichern"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:288 packages/apputils-extension/src/workspacesplugin.ts:91
 msgid "Save Current Workspace As..."
-msgstr ""
+msgstr "Aktuellen Arbeitsbereich speichern als..."
 
 #: packages/apputils-extension/src/workspacesplugin.ts:290 packages/apputils/src/sessioncontext.tsx:1204 packages/docmanager-extension/src/index.ts:523 packages/docmanager-extension/src/index.ts:573 packages/docmanager-extension/src/index.ts:813 packages/docmanager/src/dialogs.ts:118 packages/docmanager/src/dialogs.ts:58 packages/docmanager/src/widgetmanager.ts:384 packages/extensionmanager/src/companions.tsx:218 packages/filebrowser/src/listing.ts:422 packages/filebrowser/src/model.ts:451 packages/filebrowser/src/opendialog.ts:83 packages/notebook/src/actions.tsx:1413 packages/running/src/index.tsx:238 packages/settingeditor/src/plugineditor.ts:148 packages/translation-extension/src/index.ts:144
 msgid "Cancel"
@@ -1114,7 +1116,7 @@ msgstr "Weder Theme %1 noch Standard %2 geladen."
 
 #: packages/apputils/src/thememanager.ts:448
 msgid "Error Loading Theme"
-msgstr ""
+msgstr "Fehler beim Laden des Themas"
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
@@ -1138,11 +1140,11 @@ msgstr "Kernel %1"
 
 #: packages/celltags/src/addwidget.ts:159 packages/celltags/src/addwidget.ts:31
 msgid "Add Tag"
-msgstr ""
+msgstr "Tag hinzufügen"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
-msgstr ""
+msgstr "Zellen Tags"
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
@@ -1150,7 +1152,7 @@ msgstr "Keine Daten!"
 
 #: packages/codeeditor/src/jsoneditor.ts:60
 msgid "Revert changes to data"
-msgstr ""
+msgstr "Änderungen an Daten zurücksetzen"
 
 #: packages/codeeditor/src/jsoneditor.ts:65
 msgid "Commit changes to data"
@@ -1170,7 +1172,7 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr ""
+msgstr "codemirror"
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
@@ -1178,11 +1180,11 @@ msgstr "Sublime Text"
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
-msgstr ""
+msgstr "Suchen..."
 
 #: packages/codemirror-extension/src/index.ts:359
 msgid "Go to Line..."
-msgstr ""
+msgstr "Gehe zu Zeile..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
@@ -1194,43 +1196,43 @@ msgstr "Standard"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr ""
+msgstr "abcdef"
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
-msgstr ""
+msgstr "base16-dark"
 
 #: packages/codemirror-extension/src/index.ts:419
 msgid "base16-light"
-msgstr ""
+msgstr "base16-light"
 
 #: packages/codemirror-extension/src/index.ts:420
 msgid "hopscotch"
-msgstr ""
+msgstr "hopscotch"
 
 #: packages/codemirror-extension/src/index.ts:421
 msgid "material"
-msgstr ""
+msgstr "material"
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr ""
+msgstr "mbo"
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
-msgstr ""
+msgstr "mdn-like"
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr ""
+msgstr "seti"
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
-msgstr ""
+msgstr "solarized dark"
 
 #: packages/codemirror-extension/src/index.ts:426
 msgid "solarized light"
-msgstr ""
+msgstr "solarized light"
 
 #: packages/codemirror-extension/src/index.ts:427
 msgid "the-matrix"
@@ -1238,23 +1240,23 @@ msgstr "die Matrix"
 
 #: packages/codemirror-extension/src/index.ts:428
 msgid "xq-light"
-msgstr ""
+msgstr "xq-light"
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
-msgstr ""
+msgstr "zenburn"
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr ""
+msgstr "sublime"
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1342,11 +1344,11 @@ msgstr ""
 
 #: packages/console-extension/src/index.ts:657
 msgid "Execute with Shift+Enter"
-msgstr ""
+msgstr "Ausführen mit Shift+Enter"
 
 #: packages/console-extension/src/index.ts:658
 msgid "Execute with Enter"
-msgstr ""
+msgstr "Ausführen mit Enter"
 
 #: packages/console-extension/src/index.ts:680
 msgid "Console Run Keystroke"
@@ -1492,15 +1494,15 @@ msgstr "Fehler"
 
 #: packages/docmanager-extension/src/index.ts:490 packages/filebrowser-extension/src/index.ts:703
 msgid "Open in New Browser Tab"
-msgstr ""
+msgstr "In neuem Tab öffnen"
 
 #: packages/docmanager-extension/src/index.ts:495 packages/docmanager-extension/src/index.ts:517
 msgid "Reload %1 from Disk"
-msgstr ""
+msgstr "%1 von der Festplatte neu laden"
 
 #: packages/docmanager-extension/src/index.ts:499
 msgid "Reload contents from disk"
-msgstr ""
+msgstr "Inhalte von der Festplatte neu laden"
 
 #: packages/docmanager-extension/src/index.ts:510
 msgid "Cannot Reload"
@@ -1532,7 +1534,7 @@ msgstr "Inhalt auf den vorherigen Kontrollpunkt zurücksetzen"
 
 #: packages/docmanager-extension/src/index.ts:555
 msgid "Cannot Revert"
-msgstr ""
+msgstr "Rückgängig machen nicht möglich"
 
 #: packages/docmanager-extension/src/index.ts:570
 msgid "Revert %1 to checkpoint"
@@ -1552,7 +1554,7 @@ msgstr "Speichern und Kontrollpunkt erstellen"
 
 #: packages/docmanager-extension/src/index.ts:601 packages/docmanager-extension/src/index.ts:608 packages/docmanager-extension/src/index.ts:662 packages/notebook/src/default-toolbar.tsx:67
 msgid "Cannot Save"
-msgstr ""
+msgstr "Speichern nicht möglich"
 
 #: packages/docmanager-extension/src/index.ts:609 packages/notebook/src/default-toolbar.tsx:68
 msgid "Document is read-only"
@@ -1580,11 +1582,11 @@ msgstr "Herunterladen"
 
 #: packages/docmanager-extension/src/index.ts:674
 msgid "Download the file to your computer"
-msgstr ""
+msgstr "Datei auf Ihren Computer herunterladen"
 
 #: packages/docmanager-extension/src/index.ts:682
 msgid "Cannot Download"
-msgstr ""
+msgstr "Herunterladen nicht möglich"
 
 #: packages/docmanager-extension/src/index.ts:767
 msgid "New View for %1"
@@ -1716,7 +1718,7 @@ msgstr "Datei geändert"
 
 #: packages/docregistry/src/context.ts:749
 msgid "\"%1\" already exists. Do you want to replace it?"
-msgstr ""
+msgstr "\"%1% existiert bereits. Möchten Sie es ersetzen?"
 
 #: packages/docregistry/src/context.ts:757
 msgid "File Overwrite?"
@@ -1724,7 +1726,7 @@ msgstr "Datei überschreiben?"
 
 #: packages/docregistry/src/context.ts:881
 msgid "Save File As.."
-msgstr ""
+msgstr "Datei speichern als.."
 
 #: packages/docregistry/src/mimedocument.ts:182 packages/docregistry/src/mimedocument.ts:78 packages/markdownviewer/src/widget.ts:210
 msgid "Renderer Failure: %1"
@@ -1796,7 +1798,7 @@ msgstr ""
 
 #: packages/documentsearch/src/searchoverlay.tsx:125
 msgid "Find"
-msgstr ""
+msgstr "Suchen"
 
 #: packages/documentsearch/src/searchoverlay.tsx:174 packages/documentsearch/src/searchoverlay.tsx:192
 msgid "Replace"
@@ -1821,7 +1823,7 @@ msgid "Thanks for trying out JupyterLab's extension manager.\n"
 "However, we cannot vouch for every extension,\n"
 "and some may introduce security risks.\n"
 "Do you want to continue?"
-msgstr "Danke, dass du den Erweiterungsmanager von JupyterLab ausprobierst.\n"
+msgstr "Danke, dass Sie den Erweiterungsmanager von JupyterLab ausprobieren.\n"
 "Das JupyterLab Entwicklungsteam freut sich über eine robuste\n"
 "Drittanbieter-Erweiterungsgemeinschaft.\n"
 "Wir können jedoch nicht für jede Erweiterung bürgen,\n"
@@ -1880,7 +1882,7 @@ msgstr ""
 
 #: packages/extensionmanager/src/companions.tsx:221
 msgid "Install the JupyterLab extension."
-msgstr ""
+msgstr "Installiere die JupyterLab Erweiterung."
 
 #: packages/extensionmanager/src/dialog.tsx:25
 msgid "An error occurred installing <code>%1</code>."
@@ -2071,11 +2073,11 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:628
 msgid "Cannot open"
-msgstr ""
+msgstr "Kann nicht geöffnet werden"
 
 #: packages/filebrowser-extension/src/index.ts:721
 msgid "Copy Download Link"
-msgstr "Downloadlink kopieren"
+msgstr "Link zum Herunterladen kopieren"
 
 #: packages/filebrowser-extension/src/index.ts:734 packages/fileeditor-extension/src/commands.ts:787
 msgid "Paste"
@@ -2131,11 +2133,11 @@ msgstr "Verzeichnis nicht gefunden: \"%1\""
 
 #: packages/filebrowser/src/crumbs.ts:173
 msgid "Open Error"
-msgstr ""
+msgstr "Fehler beim Öffnen"
 
 #: packages/filebrowser/src/crumbs.ts:281
 msgid "Move Error"
-msgstr ""
+msgstr "Fehler beim Verschieben"
 
 #: packages/filebrowser/src/listing.ts:1202
 msgctxt "showErrorMessage"
@@ -2149,7 +2151,7 @@ msgstr "Löschen fehlgeschlagen"
 
 #: packages/filebrowser/src/listing.ts:1450
 msgid "showErrorMessage"
-msgstr ""
+msgstr "showErrorMessage"
 
 #: packages/filebrowser/src/listing.ts:1452
 msgctxt "showErrorMessage"
@@ -2159,7 +2161,7 @@ msgstr ""
 #: packages/filebrowser/src/listing.ts:1476
 msgctxt "showErrorMessage"
 msgid "Rename Error"
-msgstr ""
+msgstr "Fehler beim Umbenennen"
 
 #: packages/filebrowser/src/listing.ts:1781
 msgid "Name"
@@ -2345,7 +2347,7 @@ msgstr ""
 
 #: packages/fileeditor-extension/src/commands.ts:398
 msgid "Auto Close Brackets for Text Editor"
-msgstr ""
+msgstr "Klammern im Texteditor automatisch schließen"
 
 #: packages/fileeditor-extension/src/commands.ts:422
 msgid "Replace Selection in Editor"
@@ -2397,7 +2399,7 @@ msgstr ""
 
 #: packages/fileeditor/src/tabspacestatus.tsx:68
 msgid "Change Tab indentation…"
-msgstr ""
+msgstr "Tab-Einrückung ändern…"
 
 #: packages/help-extension/src/index.tsx:101 packages/mainmenu-extension/src/index.ts:909
 msgid "Help"
@@ -3234,7 +3236,7 @@ msgstr ""
 
 #: packages/notebook/src/default-toolbar.tsx:340
 msgid "Cell type"
-msgstr ""
+msgstr "Zellentyp"
 
 #: packages/notebook/src/default-toolbar.tsx:343
 msgid "Code"
@@ -3266,7 +3268,7 @@ msgstr ""
 
 #: packages/notebook/src/model.ts:293
 msgid "Notebook converted"
-msgstr ""
+msgstr "Notizbuch konvertiert"
 
 #: packages/notebook/src/modestatus.tsx:29
 msgid "Mode: %1"
@@ -3274,7 +3276,7 @@ msgstr "Modus: %1"
 
 #: packages/notebook/src/modestatus.tsx:74
 msgid "Notebook is in %1 mode"
-msgstr ""
+msgstr "Notizbuch ist im %1 Modus"
 
 #: packages/notebook/src/notebooktools.ts:587
 msgid "Notebook Metadata"
@@ -3372,7 +3374,7 @@ msgstr "Pfad: %1\n"
 
 #: packages/running-extension/src/opentabs.ts:78
 msgid "Open Tabs"
-msgstr ""
+msgstr "Offene Tabs"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
@@ -3388,7 +3390,7 @@ msgstr ""
 
 #: packages/running/src/index.tsx:294
 msgid "Refresh List"
-msgstr ""
+msgstr "Liste aktualisieren"
 
 #: packages/settingeditor-extension/src/index.ts:151
 msgid "Advanced Settings Editor"
@@ -3428,7 +3430,7 @@ msgstr "System-Standardeinstellungen"
 
 #: packages/settingeditor/src/raweditor.ts:428
 msgid "User Preferences"
-msgstr ""
+msgstr "Benutzereinstellungen"
 
 #: packages/settingeditor/src/settingeditor.tsx:464
 msgid "Select a plugin from the list to view and edit its preferences."
@@ -3529,11 +3531,11 @@ msgstr "Eine neue Terminal-Sitzung starten"
 
 #: packages/terminal-extension/src/index.ts:391
 msgid "Refresh Terminal"
-msgstr ""
+msgstr "Terminal aktualisieren"
 
 #: packages/terminal-extension/src/index.ts:392
 msgid "Refresh the current terminal session"
-msgstr ""
+msgstr "Aktualisiere die aktuelle Terminal-Sitzung"
 
 #: packages/terminal-extension/src/index.ts:412
 msgid "Increase Terminal Font Size"
@@ -3545,7 +3547,7 @@ msgstr "Terminal-Schriftgröße verringern"
 
 #: packages/terminal-extension/src/index.ts:443
 msgid "Use Terminal Theme: %1"
-msgstr ""
+msgstr "Verwende Terminal-Theme: %1"
 
 #: packages/terminal-extension/src/index.ts:446
 msgid "Set the terminal theme"
@@ -3573,7 +3575,7 @@ msgstr "Auto-Nummerierung umschalten"
 
 #: packages/toc/src/generators/notebook/tagstool/index.tsx:186
 msgid "No Tags Available"
-msgstr ""
+msgstr "Keine Tags verfügbar"
 
 #: packages/toc/src/generators/notebook/tagstool/index.tsx:193
 msgid "Clear Filters"
@@ -3585,11 +3587,11 @@ msgstr "Code-Zellen umschalten"
 
 #: packages/toc/src/generators/notebook/toolbar_generator.tsx:196 packages/toc/src/generators/notebook/toolbar_generator.tsx:197
 msgid "Toggle Markdown Text Cells"
-msgstr ""
+msgstr "Markdown Textzellen umschalten"
 
 #: packages/toc/src/generators/notebook/toolbar_generator.tsx:228 packages/toc/src/generators/notebook/toolbar_generator.tsx:229
 msgid "Show Tags Menu"
-msgstr ""
+msgstr "Tags-Menü anzeigen"
 
 #: packages/translation-extension/src/index.ts:106
 msgid "Language"
