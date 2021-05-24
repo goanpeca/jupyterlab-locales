@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2021-05-16 22:55\n"
+"PO-Revision-Date: 2021-05-24 10:24\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -156,7 +156,7 @@ msgstr "אתחול מאגר"
 
 #: src/commandsAndMenu.tsx:173
 msgid "Create an empty Git repository or reinitialize an existing one"
-msgstr ""
+msgstr "עליך ליצור מאגר Git ריק או לאתחל מחדש אחד קיים"
 
 #: src/commandsAndMenu.tsx:180
 msgid "Do you really want to make this directory a Git Repo?"
@@ -180,11 +180,11 @@ msgstr "מאגר ה־Git אותחל."
 
 #: src/commandsAndMenu.tsx:201
 msgid "Encountered an error when initializing the repository. Error: "
-msgstr ""
+msgstr "עלתה שגיאה בעת אתחול המאגר. שגיאה: "
 
 #: src/commandsAndMenu.tsx:207
 msgid "Failed to initialize the Git repository"
-msgstr ""
+msgstr "אתחול מאגר ה־Git נכשל"
 
 #: src/commandsAndMenu.tsx:228
 msgid "Simple staging"
@@ -384,7 +384,7 @@ msgstr "התחלת מעקב על הקובץ הנבחר"
 
 #: src/commandsAndMenu.tsx:684
 msgid "Start tracking selected files"
-msgstr ""
+msgstr "התחלת מעקב אחר הקובץ הנבחר"
 
 #: src/commandsAndMenu.tsx:696
 msgid "Unstage"
@@ -480,7 +480,7 @@ msgstr "התעלמות מסיומת קובץ"
 
 #: src/commandsAndMenu.tsx:863
 msgid "Are you sure you want to ignore all %1 files within this git repository?"
-msgstr ""
+msgstr "להתעלם מכל קובצי ה־%1 שבמאגר ה־git הזה?"
 
 #: src/commandsAndMenu.tsx:869 src/commandsAndMenu.tsx:872
 msgid "Ignore"
