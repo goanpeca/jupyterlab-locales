@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-04-29 20:10\n"
+"PO-Revision-Date: 2021-06-04 14:44\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -125,12 +125,12 @@ msgstr "Substitutions"
 
 #: /packages/apputils-extension/schema/palette.json:13
 msgid "Modal Command Palette"
-msgstr ""
+msgstr "Palette de commandes modales"
 
 #: /packages/apputils-extension/schema/palette.json:14
 msgctxt "schema"
 msgid "Whether the command palette should be modal or in the left panel."
-msgstr ""
+msgstr "Si la palette de commandes doit être modale ou dans le panneau de gauche."
 
 #: /packages/apputils-extension/schema/palette.json:2
 msgctxt "schema"
@@ -928,7 +928,7 @@ msgstr "Mode Présentation"
 
 #: packages/application-extension/src/index.tsx:821 packages/statusbar-extension/src/index.ts:379
 msgid "Simple Interface"
-msgstr ""
+msgstr "Interface simplifiée"
 
 #: packages/application-extension/src/index.tsx:935
 msgid "Property Inspector"
@@ -953,7 +953,8 @@ msgstr "Chargement ..."
 #: packages/apputils-extension/src/index.ts:213
 msgid "The loading screen is taking a long time. \n"
 "Would you like to clear the workspace or keep waiting?"
-msgstr ""
+msgstr "L'écran de chargement prend beaucoup de temps. \n"
+"Voulez-vous vider l'espace de travail ou continuer à attendre ?"
 
 #: packages/apputils-extension/src/index.ts:216
 msgid "Keep Waiting"
@@ -965,7 +966,7 @@ msgstr "Nettoyer l'espace de travail"
 
 #: packages/apputils-extension/src/index.ts:282
 msgid "Print..."
-msgstr ""
+msgstr "Imprimer..."
 
 #: packages/apputils-extension/src/index.ts:407
 msgid "Reset Application State"
