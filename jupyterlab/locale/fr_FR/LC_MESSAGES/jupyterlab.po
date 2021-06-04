@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-06-04 14:44\n"
+"PO-Revision-Date: 2021-06-04 15:40\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -1154,7 +1154,7 @@ msgstr "Ajouter une étiquette"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
-msgstr ""
+msgstr "Tags de cellule"
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
