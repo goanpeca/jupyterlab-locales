@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-04-24 01:20\n"
+"PO-Revision-Date: 2021-06-07 14:49\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -75,7 +75,7 @@ msgstr "عدد (الأحدث عهدا) الالتزامات المبينة في 
 
 #: /schema/plugin.json:46
 msgid "Refresh if the Git tab is hidden"
-msgstr ""
+msgstr "حدث عند اختفاء علامة التبويب Git"
 
 #: /schema/plugin.json:47
 msgctxt "schema"
@@ -107,7 +107,7 @@ msgstr "إذا كان صحيحاً، استخدم مفهوماً مبسطاً ل
 
 #: /schema/plugin.json:64
 msgid "Trigger push on commit"
-msgstr ""
+msgstr "الرفع التلقائي بعد حفظ التغييرات"
 
 #: /schema/plugin.json:65
 msgctxt "schema"
