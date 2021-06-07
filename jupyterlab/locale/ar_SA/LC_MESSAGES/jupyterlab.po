@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-04-25 22:37\n"
+"PO-Revision-Date: 2021-06-07 15:45\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -319,7 +319,7 @@ msgstr ""
 #: /packages/debugger-extension/schema/main.json:3
 msgctxt "schema"
 msgid "Debugger settings"
-msgstr ""
+msgstr "إعدادات المنقّح"
 
 #: /packages/debugger-extension/schema/main.json:34
 msgid "Variable filter"
@@ -337,7 +337,7 @@ msgstr ""
 
 #: /packages/docmanager-extension/schema/plugin.json:22 packages/docmanager-extension/src/index.ts:693
 msgid "Autosave Documents"
-msgstr ""
+msgstr "حفظ تلقائي للمستندات"
 
 #: /packages/docmanager-extension/schema/plugin.json:23
 msgctxt "schema"
@@ -399,11 +399,11 @@ msgstr ""
 #: /packages/extensionmanager-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Extension manager settings."
-msgstr ""
+msgstr "اعدادات ادارة الحزم."
 
 #: /packages/extensionmanager-extension/schema/plugin.json:8
 msgid "Enabled Status"
-msgstr ""
+msgstr "حالة التفعيل"
 
 #: /packages/extensionmanager-extension/schema/plugin.json:9
 msgctxt "schema"
@@ -442,7 +442,7 @@ msgstr ""
 #: /packages/fileeditor-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Text Editor"
-msgstr ""
+msgstr "محرر النص"
 
 #: /packages/fileeditor-extension/schema/plugin.json:5
 msgctxt "schema"
