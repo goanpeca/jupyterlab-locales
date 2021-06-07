@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-06-07 14:49\n"
+"PO-Revision-Date: 2021-06-07 15:45\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:1172
 msgid "Git credentials required"
-msgstr ""
+msgstr "بيانات الولوج لـ git مطلوبة"
 
 #: src/commandsAndMenu.tsx:1175 src/widgets/CredentialsBox.tsx:14
 msgid "Enter credentials for remote repository"
@@ -128,7 +128,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:1176
 msgid "Incorrect username or password."
-msgstr ""
+msgstr "خطأ في اسم المستخدم او كلمة المرور."
 
 #: src/commandsAndMenu.tsx:118
 msgid "Submit the commit using the summary and description from commit box"
@@ -192,7 +192,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:237
 msgid "Double click opens diff"
-msgstr ""
+msgstr "النقر المزدوج لفتح diff"
 
 #: src/commandsAndMenu.tsx:246
 msgid "Add Remote Repository"
