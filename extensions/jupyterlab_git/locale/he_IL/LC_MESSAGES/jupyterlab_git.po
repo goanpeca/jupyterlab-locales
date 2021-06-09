@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2021-05-24 10:24\n"
+"PO-Revision-Date: 2021-06-09 15:47\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -112,7 +112,7 @@ msgstr ""
 #: /schema/plugin.json:65
 msgctxt "schema"
 msgid "Whether to trigger or not a push for each commit."
-msgstr ""
+msgstr "האם להפעיל או לא להפעיל דחיפה (push) על כל הגשה (commit)."
 
 #: src/commandsAndMenu.tsx:117
 msgid "Commit from the Commit Box"
@@ -552,7 +552,7 @@ msgstr "הפקודה git לא נמצאה - נא לוודא שמותקן אצלך
 
 #: src/server.ts:27
 msgid "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list."
-msgstr ""
+msgstr "הרחבת שרת ה־Git אינה זמינה. נא לוודא שהתקנת את הרחבת שרת ה־Git ל־JupyterLab על ידי הרצת הפקודה: pip instal --upgrade jupyterlab-git. כדי לאשר שהרחבת השרת מותקנת עליך להריץ את הפקודה: jupyter server extension list."
 
 #: src/widgets/CredentialsBox.tsx:36
 msgid "username"
