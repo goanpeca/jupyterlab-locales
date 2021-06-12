@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-05-22 12:24\n"
+"PO-Revision-Date: 2021-06-12 20:28\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -122,7 +122,7 @@ msgstr "Überschreibungen"
 
 #: /packages/apputils-extension/schema/palette.json:13
 msgid "Modal Command Palette"
-msgstr ""
+msgstr "Befehlspalette"
 
 #: /packages/apputils-extension/schema/palette.json:14
 msgctxt "schema"
@@ -384,7 +384,7 @@ msgstr "Dokumentensuche"
 #: /packages/documentsearch-extension/schema/plugin.json:3
 msgctxt "schema"
 msgid "Document search plugin."
-msgstr ""
+msgstr "Dokumentsuche-Plugin."
 
 #: /packages/extensionmanager-extension/schema/plugin.json:14
 msgid "Disclaimed Status"
@@ -393,7 +393,7 @@ msgstr ""
 #: /packages/extensionmanager-extension/schema/plugin.json:15
 msgctxt "schema"
 msgid "Whether the user understand that extensions managed through this interface run arbitrary code that may be dangerous"
-msgstr ""
+msgstr "Ob der Benutzer versteht, dass Erweiterungen, die über diese Schnittstelle verwaltet werden, beliebigen Code ausführen, der gefährlich sein könnte"
 
 #: /packages/extensionmanager-extension/schema/plugin.json:4
 msgctxt "schema"
@@ -413,7 +413,8 @@ msgstr "Aktivierter Status"
 msgctxt "schema"
 msgid "Enables extension manager (requires Node.js/npm).\n"
 "WARNING: installing untrusted extensions may be unsafe."
-msgstr ""
+msgstr "Aktiviert den Erweiterungsmanager (erfordert Node.js/npm).\n"
+"WARNUNG: Die Installation nicht vertrauenswürdiger Erweiterungen kann gefährlich sein."
 
 #: /packages/filebrowser-extension/schema/browser.json:21
 msgid "Navigate to current directory"
@@ -422,7 +423,7 @@ msgstr "Zum aktuellen Verzeichnis navigieren"
 #: /packages/filebrowser-extension/schema/browser.json:22
 msgctxt "schema"
 msgid "Whether to automatically navigate to a document's current directory"
-msgstr ""
+msgstr "Gibt an, ob automatisch zum aktuellen Verzeichnis eines Dokuments navigiert werden soll"
 
 #: /packages/filebrowser-extension/schema/browser.json:27
 msgid "Filter on file name with a fuzzy search"
@@ -693,7 +694,7 @@ msgstr "Das Theme für das Terminal."
 
 #: /packages/terminal-extension/schema/plugin.json:58
 msgid "Screen Reader Mode"
-msgstr ""
+msgstr "Bildschirm-Lese-Modus"
 
 #: /packages/terminal-extension/schema/plugin.json:59
 msgctxt "schema"
@@ -739,12 +740,12 @@ msgstr ""
 #: /packages/tooltip-extension/schema/consoles.json:2
 msgctxt "schema"
 msgid "Console Tooltips"
-msgstr ""
+msgstr "Konsolen-Tooltips"
 
 #: /packages/tooltip-extension/schema/consoles.json:3
 msgctxt "schema"
 msgid "Console tooltip settings."
-msgstr ""
+msgstr "Einstellungen für Konsolen-Tooltips."
 
 #: /packages/tooltip-extension/schema/files.json:2
 msgctxt "schema"
