@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jupyterlab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: jupyterlab\n"
+"X-Crowdin-Project-ID: 409874\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /master/extensions/dask_labextension/locale/dask_labextension.pot\n"
+"X-Crowdin-File-ID: 26\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"PO-Revision-Date: 2021-06-16 11:21\n"
+
+#: /schema/plugin.json:14
+msgid "Auto-Start Client"
+msgstr ""
+
+#: /schema/plugin.json:15
+msgctxt "schema"
+msgid "If set to true, every notebook and console will automatically have a dask client for the active cluster injected into the kernel under the name 'client'"
+msgstr ""
+
+#: /schema/plugin.json:4
+msgctxt "schema"
+msgid "Dask Dashboard"
+msgstr ""
+
+#: /schema/plugin.json:5
+msgctxt "schema"
+msgid "Settings for the Dask Dashboard plugin."
+msgstr ""
+
+#: /schema/plugin.json:9
+msgid "Default URL for the Dask Dashboard Webserver"
+msgstr ""
+
