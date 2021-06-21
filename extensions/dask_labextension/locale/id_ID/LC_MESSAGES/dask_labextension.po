@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 26\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-21 02:15\n"
+"PO-Revision-Date: 2021-06-21 03:44\n"
 
 #: /schema/plugin.json:14
 msgid "Auto-Start Client"
@@ -26,7 +26,7 @@ msgstr ""
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Dask Dashboard"
-msgstr ""
+msgstr "Dasbor Dask"
 
 #: /schema/plugin.json:5
 msgctxt "schema"
