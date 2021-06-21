@@ -12,11 +12,11 @@ msgstr ""
 "X-Crowdin-File-ID: 26\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-16 11:21\n"
+"PO-Revision-Date: 2021-06-21 02:15\n"
 
 #: /schema/plugin.json:14
 msgid "Auto-Start Client"
-msgstr ""
+msgstr "Klien Pengasutan Otomatik"
 
 #: /schema/plugin.json:15
 msgctxt "schema"
