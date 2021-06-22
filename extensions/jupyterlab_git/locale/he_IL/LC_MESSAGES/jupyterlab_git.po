@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2021-06-09 16:42\n"
+"PO-Revision-Date: 2021-06-22 11:13\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -461,10 +461,10 @@ msgstr "התעלמות מקבצים אלה (הוספה ל־‎.gitignore)"
 #: src/commandsAndMenu.tsx:844
 msgid "Ignore %2 extension (add to .gitignore)"
 msgid_plural "Ignore %2 extensions (add to .gitignore)"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "התעלמות מהסיומת %2 (הוספה ל־‎.gitignore)"
+msgstr[1] "התעלמות מהסיומות %2 (הוספה ל־‎.gitignore)"
+msgstr[2] "התעלמות מהסיומות %2 (הוספה ל־‎.gitignore)"
+msgstr[3] "התעלמות מהסיומות %2 (הוספה ל־‎.gitignore)"
 
 #: src/commandsAndMenu.tsx:852
 msgid "Ignore this file extension (add to .gitignore)"
