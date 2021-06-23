@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-23 00:57\n"
+"PO-Revision-Date: 2021-06-23 01:55\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -164,11 +164,11 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:182 src/commandsAndMenu.tsx:295 src/commandsAndMenu.tsx:743 src/commandsAndMenu.tsx:786
 msgid "Cancel"
-msgstr ""
+msgstr "Batalkan"
 
 #: src/commandsAndMenu.tsx:183
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: src/commandsAndMenu.tsx:189
 msgid "Initializing..."
@@ -248,7 +248,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:335 src/commandsAndMenu.tsx:336
 msgid "Open .gitignore"
-msgstr ""
+msgstr "Buka .gitignore"
 
 #: src/commandsAndMenu.tsx:345
 msgid "Push to Remote"
@@ -260,7 +260,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:351
 msgid "Pushing..."
-msgstr ""
+msgstr "Mendorong..."
 
 #: src/commandsAndMenu.tsx:360
 msgid "Successfully pushed"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:386
 msgid "Pulling..."
-msgstr ""
+msgstr "Menarik..."
 
 #: src/commandsAndMenu.tsx:395
 msgid "Successfully pulled"
@@ -304,7 +304,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:468
 msgid "Refresh"
-msgstr ""
+msgstr "Segarkan"
 
 #: src/commandsAndMenu.tsx:473
 msgid "Refresh diff widget"
@@ -320,15 +320,15 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:511
 msgid "Open"
-msgstr ""
+msgstr "Buka"
 
 #: src/commandsAndMenu.tsx:513
 msgid "Open selected file"
-msgstr ""
+msgstr "Buka berkas pilihan"
 
 #: src/commandsAndMenu.tsx:514
 msgid "Open selected files"
-msgstr ""
+msgstr "Buka berkas-berkas pilihan"
 
 #: src/commandsAndMenu.tsx:522
 msgid "Open File Failed"
@@ -336,7 +336,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:523
 msgid "This file has been deleted!"
-msgstr ""
+msgstr "Berkas ini sudah di hapus!"
 
 #: src/commandsAndMenu.tsx:544
 msgid "Diff"
@@ -352,7 +352,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:651
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #: src/commandsAndMenu.tsx:653
 msgid "Stage or track the changes to selected file"
@@ -400,19 +400,19 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:722 src/commandsAndMenu.tsx:744
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: src/commandsAndMenu.tsx:724
 msgid "Delete this file"
-msgstr ""
+msgstr "Hapus berkas ini"
 
 #: src/commandsAndMenu.tsx:725
 msgid "Delete these files"
-msgstr ""
+msgstr "Hapus berkas-berkas ini"
 
 #: src/commandsAndMenu.tsx:732
 msgid "Delete Files"
-msgstr ""
+msgstr "Hapus Berkas"
 
 #: src/commandsAndMenu.tsx:735
 msgid "Are you sure you want to permanently delete the following files?               This action cannot be undone."
@@ -428,7 +428,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:765 src/commandsAndMenu.tsx:787
 msgid "Discard"
-msgstr ""
+msgstr "Membuang"
 
 #: src/commandsAndMenu.tsx:767
 msgid "Discard recent changes of selected file"
@@ -481,7 +481,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:869 src/commandsAndMenu.tsx:872
 msgid "Ignore"
-msgstr ""
+msgstr "Abaikan"
 
 #: src/commandsAndMenu.tsx:889
 msgid "No actions available"
@@ -497,7 +497,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:943
 msgid " Help "
-msgstr ""
+msgstr " Membantu "
 
 #: src/components/BranchMenu.tsx:51
 msgid "Unable to switch branch"
