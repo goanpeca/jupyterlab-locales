@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-23 03:01\n"
+"PO-Revision-Date: 2021-06-23 04:09\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -840,7 +840,7 @@ msgstr ""
 
 #: packages/application-extension/src/index.tsx:258
 msgid "Build"
-msgstr ""
+msgstr "Bangun"
 
 #: packages/application-extension/src/index.tsx:264
 msgid "Are you sure you want to exit JupyterLab?\n\n"
@@ -1803,7 +1803,7 @@ msgstr "Manajer Ekstensi"
 
 #: packages/extensionmanager-extension/src/index.ts:139
 msgid "Enable Extension Manager?"
-msgstr ""
+msgstr "Memungkikan Manajer Ekstensi?"
 
 #: packages/extensionmanager-extension/src/index.ts:140
 msgid "Thanks for trying out JupyterLab's extension manager.\n"
@@ -2017,11 +2017,11 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:504 packages/fileeditor-extension/src/commands.ts:753
 msgid "Copy"
-msgstr ""
+msgstr "Menyalin"
 
 #: packages/filebrowser-extension/src/index.ts:517 packages/fileeditor-extension/src/commands.ts:712
 msgid "Cut"
-msgstr ""
+msgstr "Potong"
 
 #: packages/filebrowser-extension/src/index.ts:541
 msgid "Duplicate"
@@ -2033,7 +2033,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:581 packages/filebrowser-extension/src/index.ts:583
 msgid "Open %1"
-msgstr ""
+msgstr "Buka %1"
 
 #: packages/filebrowser-extension/src/index.ts:583
 msgid "Open from path"
@@ -2049,7 +2049,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:595 packages/filebrowser-extension/src/index.ts:680
 msgid "Open"
-msgstr ""
+msgstr "Buka"
 
 #: packages/filebrowser-extension/src/index.ts:626
 msgid "Could not find path: %1"
@@ -2057,7 +2057,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:628
 msgid "Cannot open"
-msgstr ""
+msgstr "Tidak bisa buka"
 
 #: packages/filebrowser-extension/src/index.ts:721
 msgid "Copy Download Link"
@@ -2073,7 +2073,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:762
 msgid "New File"
-msgstr ""
+msgstr "Berkas Baru"
 
 #: packages/filebrowser-extension/src/index.ts:777 packages/fileeditor-extension/src/commands.ts:892
 msgid "New Markdown File"
@@ -2149,7 +2149,7 @@ msgstr ""
 
 #: packages/filebrowser/src/listing.ts:1781
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: packages/filebrowser/src/listing.ts:1783
 msgid "Last Modified"
@@ -2157,12 +2157,13 @@ msgstr ""
 
 #: packages/filebrowser/src/listing.ts:1926
 msgid "Name: %1"
-msgstr ""
+msgstr "Nama: %1"
 
 #: packages/filebrowser/src/listing.ts:1930
 msgid "\n"
 "Size: %1"
-msgstr ""
+msgstr "\n"
+"Ukuran: %1"
 
 #: packages/filebrowser/src/listing.ts:1938
 msgid "\n"
@@ -2343,15 +2344,15 @@ msgstr ""
 
 #: packages/fileeditor-extension/src/commands.ts:812
 msgid "Select All"
-msgstr ""
+msgstr "Pilih Semua"
 
 #: packages/fileeditor-extension/src/commands.ts:871
 msgid "New Text File"
-msgstr ""
+msgstr "Berkas Teks Baru"
 
 #: packages/fileeditor-extension/src/commands.ts:871
 msgid "Text File"
-msgstr ""
+msgstr "Berkas Teks"
 
 #: packages/fileeditor-extension/src/commands.ts:872
 msgid "Create a new text file"
@@ -2379,7 +2380,7 @@ msgstr ""
 
 #: packages/help-extension/src/index.tsx:101 packages/mainmenu-extension/src/index.ts:909
 msgid "Help"
-msgstr ""
+msgstr "Membantu"
 
 #: packages/help-extension/src/index.tsx:108
 msgid "JupyterLab Reference"
@@ -2435,7 +2436,7 @@ msgstr ""
 
 #: packages/htmlviewer-extension/src/index.tsx:64
 msgid "HTML File"
-msgstr ""
+msgstr "Berkas HTML"
 
 #: packages/htmlviewer-extension/src/index.tsx:73
 msgid "HTML Viewer"
@@ -2604,7 +2605,7 @@ msgstr ""
 
 #: packages/logconsole-extension/src/index.tsx:411
 msgid "Info"
-msgstr ""
+msgstr "Informasi"
 
 #: packages/logconsole-extension/src/index.tsx:412
 msgid "Debug"
@@ -2692,11 +2693,11 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:330
 msgid "File"
-msgstr ""
+msgstr "Berkas"
 
 #: packages/mainmenu-extension/src/index.ts:331
 msgid "New"
-msgstr ""
+msgstr "Baru"
 
 #: packages/mainmenu-extension/src/index.ts:344
 msgid "Close and Shutdown"
@@ -3100,11 +3101,11 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr ""
+msgstr "LaTeX"
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
@@ -3112,7 +3113,7 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
@@ -3353,11 +3354,11 @@ msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr ""
+msgstr "Tutup Semua"
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
@@ -3434,7 +3435,7 @@ msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr ""
+msgstr "Sederhana"
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
@@ -3474,11 +3475,11 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:192 packages/terminal-extension/src/index.ts:247
 msgid "Light"
-msgstr ""
+msgstr "Ringan"
 
 #: packages/terminal-extension/src/index.ts:198 packages/terminal-extension/src/index.ts:252
 msgid "Dark"
-msgstr ""
+msgstr "Gelap"
 
 #: packages/terminal-extension/src/index.ts:217
 msgid "Shutdown Terminal"
@@ -3570,7 +3571,7 @@ msgstr ""
 
 #: packages/translation-extension/src/index.ts:106
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #: packages/translation-extension/src/index.ts:141
 msgid "Change interface language?"
