@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-16 11:21\n"
+"PO-Revision-Date: 2021-06-23 03:01\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -88,7 +88,7 @@ msgstr ""
 #: /packages/application-extension/schema/main.json:2
 msgctxt "schema"
 msgid "Application "
-msgstr ""
+msgstr "Aplikasi "
 
 #: /packages/application-extension/schema/main.json:3
 msgctxt "schema"
@@ -137,7 +137,7 @@ msgstr ""
 #: /packages/apputils-extension/schema/print.json:2
 msgctxt "schema"
 msgid "Print"
-msgstr ""
+msgstr "Mencetak"
 
 #: /packages/apputils-extension/schema/print.json:3
 msgctxt "schema"
@@ -188,7 +188,7 @@ msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:15 /packages/terminal-extension/schema/plugin.json:52 packages/apputils-extension/src/themesplugins.ts:246
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: /packages/codemirror-extension/schema/commands.json:16
 msgctxt "schema"
@@ -239,7 +239,7 @@ msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr ""
+msgstr "Ctrl+C"
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
@@ -472,7 +472,7 @@ msgstr ""
 #: /packages/inspector-extension/schema/inspector.json:2
 msgctxt "schema"
 msgid "Inspector"
-msgstr ""
+msgstr "Inspektur"
 
 #: /packages/inspector-extension/schema/inspector.json:3
 msgctxt "schema"
@@ -791,7 +791,7 @@ msgstr ""
 #: /packages/translation-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #: /packages/translation-extension/schema/plugin.json:5
 msgctxt "schema"
@@ -988,7 +988,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/themesplugins.ts:165
 msgid "JupyterLab Theme"
-msgstr ""
+msgstr "Tema JupyterLab"
 
 #: packages/apputils-extension/src/themesplugins.ts:186 packages/apputils-extension/src/themesplugins.ts:262
 msgid "Increase Code Font Size"
@@ -1028,7 +1028,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/workspacesplugin.ts:286 packages/apputils-extension/src/workspacesplugin.ts:292 packages/docmanager/src/widgetmanager.ts:378 packages/docregistry/src/context.ts:879 packages/docregistry/src/context.ts:886
 msgid "Save"
-msgstr ""
+msgstr "Simpan"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:288 packages/apputils-extension/src/workspacesplugin.ts:91
 msgid "Save Current Workspace As..."
@@ -1036,7 +1036,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/workspacesplugin.ts:290 packages/apputils/src/sessioncontext.tsx:1204 packages/docmanager-extension/src/index.ts:523 packages/docmanager-extension/src/index.ts:573 packages/docmanager-extension/src/index.ts:813 packages/docmanager/src/dialogs.ts:118 packages/docmanager/src/dialogs.ts:58 packages/docmanager/src/widgetmanager.ts:384 packages/extensionmanager/src/companions.tsx:218 packages/filebrowser/src/listing.ts:422 packages/filebrowser/src/model.ts:451 packages/filebrowser/src/opendialog.ts:83 packages/notebook/src/actions.tsx:1413 packages/running/src/index.tsx:238 packages/settingeditor/src/plugineditor.ts:148 packages/translation-extension/src/index.ts:144
 msgid "Cancel"
-msgstr ""
+msgstr "Batalkan"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:74
 msgid "JupyterLab workspace File"
@@ -1048,7 +1048,7 @@ msgstr ""
 
 #: packages/apputils/src/sessioncontext.tsx:1210 packages/filebrowser/src/opendialog.ts:85
 msgid "Select"
-msgstr ""
+msgstr "Pilih"
 
 #: packages/apputils/src/sessioncontext.tsx:1214
 msgid "Select Kernel"
@@ -1088,7 +1088,7 @@ msgstr ""
 
 #: packages/apputils/src/sessioncontext.tsx:1613
 msgid "Name:"
-msgstr ""
+msgstr "Nama:"
 
 #: packages/apputils/src/sessioncontext.tsx:1614
 msgid "Kernel Name:"
@@ -1112,7 +1112,7 @@ msgstr ""
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: packages/apputils/src/toolbar.tsx:386
 msgid "Interrupt the kernel"
@@ -1140,7 +1140,7 @@ msgstr ""
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
-msgstr ""
+msgstr "Tidak ada data!"
 
 #: packages/codeeditor/src/jsoneditor.ts:60
 msgid "Revert changes to data"
@@ -1264,11 +1264,11 @@ msgstr ""
 
 #: packages/console-extension/src/foreign.ts:71 packages/console-extension/src/index.ts:170 packages/console-extension/src/index.ts:222 packages/console-extension/src/index.ts:380 packages/console/src/panel.ts:333 packages/launcher/src/index.tsx:159 packages/launcher/src/index.tsx:164
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 #: packages/console-extension/src/index.ts:369
 msgid "New Console"
-msgstr ""
+msgstr "Konsol Baru"
 
 #: packages/console-extension/src/index.ts:404
 msgid "Clear Console Cells"
@@ -1348,7 +1348,7 @@ msgstr ""
 
 #: packages/console/src/panel.ts:316
 msgid "Name: %1\n"
-msgstr ""
+msgstr "Nama:%1\n"
 
 #: packages/console/src/panel.ts:317
 msgid "Directory: %1\n"
@@ -1370,7 +1370,7 @@ msgstr ""
 
 #: packages/console/src/panel.ts:69
 msgid "Console %1"
-msgstr ""
+msgstr "Konsol %1"
 
 #: packages/csvviewer-extension/src/index.ts:83
 msgid "Go to Line"
@@ -1398,7 +1398,7 @@ msgstr ""
 
 #: packages/debugger-extension/src/index.ts:439 packages/debugger-extension/src/index.ts:440
 msgid "Continue"
-msgstr ""
+msgstr "Terus"
 
 #: packages/debugger-extension/src/index.ts:452 packages/debugger-extension/src/index.ts:453
 msgid "Terminate"
@@ -1480,7 +1480,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:434 packages/logconsole-extension/src/index.tsx:409
 msgid "Error"
-msgstr ""
+msgstr "Kesalahan"
 
 #: packages/docmanager-extension/src/index.ts:490 packages/filebrowser-extension/src/index.ts:703
 msgid "Open in New Browser Tab"
@@ -1504,7 +1504,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:512 packages/docmanager-extension/src/index.ts:557 packages/docmanager-extension/src/index.ts:603 packages/docmanager-extension/src/index.ts:610 packages/docmanager-extension/src/index.ts:664 packages/notebook/src/actions.tsx:1405 packages/notebook/src/actions.tsx:1414 packages/notebook/src/actions.tsx:1604 packages/notebook/src/default-toolbar.tsx:69 packages/notebook/src/model.ts:295 packages/notebook/src/panel.ts:208 packages/settingeditor/src/plugineditor.ts:149 packages/settingeditor/src/plugineditor.ts:271 packages/translation-extension/src/index.ts:145
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: packages/docmanager-extension/src/index.ts:518
 msgid "Are you sure you want to reload the %1 from the disk?"
@@ -1536,7 +1536,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:592
 msgid "Save %1"
-msgstr ""
+msgstr "Simpan %1"
 
 #: packages/docmanager-extension/src/index.ts:593
 msgid "Save and create checkpoint"
@@ -1552,11 +1552,11 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:629
 msgid "Save All"
-msgstr ""
+msgstr "Simpan Semua"
 
 #: packages/docmanager-extension/src/index.ts:630
 msgid "Save all open documents"
-msgstr ""
+msgstr "Simpan semua dokumen yang terbuka"
 
 #: packages/docmanager-extension/src/index.ts:653
 msgid "Save %1 As…"
@@ -1568,7 +1568,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:673 packages/filebrowser-extension/src/index.ts:529
 msgid "Download"
-msgstr ""
+msgstr "Mengunduh"
 
 #: packages/docmanager-extension/src/index.ts:674
 msgid "Download the file to your computer"
@@ -1576,7 +1576,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:682
 msgid "Cannot Download"
-msgstr ""
+msgstr "Tidak bisa mengunduh"
 
 #: packages/docmanager-extension/src/index.ts:767
 msgid "New View for %1"
@@ -1588,11 +1588,11 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:800
 msgid "Delete %1"
-msgstr ""
+msgstr "Hapus %1"
 
 #: packages/docmanager-extension/src/index.ts:810 packages/docmanager-extension/src/index.ts:814 packages/filebrowser-extension/src/index.ts:491 packages/filebrowser/src/listing.ts:419 packages/filebrowser/src/listing.ts:423
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: packages/docmanager-extension/src/index.ts:811
 msgid "Are you sure you want to delete %1"
@@ -1616,7 +1616,7 @@ msgstr ""
 
 #: packages/docmanager/src/dialogs.ts:115
 msgid "Overwrite file?"
-msgstr ""
+msgstr "Menimpa berkas?"
 
 #: packages/docmanager/src/dialogs.ts:116
 msgid "\"%1\" already exists, overwrite?"
@@ -1624,7 +1624,7 @@ msgstr ""
 
 #: packages/docmanager/src/dialogs.ts:119 packages/docregistry/src/context.ts:722 packages/docregistry/src/context.ts:732 packages/docregistry/src/context.ts:754 packages/docregistry/src/context.ts:765
 msgid "Overwrite"
-msgstr ""
+msgstr "Menimpa"
 
 #: packages/docmanager/src/dialogs.ts:183
 msgid "File Path"
@@ -1685,7 +1685,7 @@ msgstr ""
 
 #: packages/docmanager/src/widgetmanager.ts:385
 msgid "Discard"
-msgstr ""
+msgstr "Buang"
 
 #: packages/docregistry/src/context.ts:557
 msgid "File Save Error for %1"
@@ -1723,7 +1723,7 @@ msgstr ""
 
 #: packages/docregistry/src/registry.ts:1284
 msgid "Text"
-msgstr ""
+msgstr "Teks"
 
 #: packages/docregistry/src/registry.ts:1307 packages/launcher/src/index.tsx:158 packages/launcher/src/index.tsx:163 packages/notebook-extension/src/index.ts:475 packages/notebook-extension/src/index.ts:744 packages/notebook-extension/src/index.ts:785
 msgid "Notebook"
@@ -1739,43 +1739,43 @@ msgstr ""
 
 #: packages/docregistry/src/registry.ts:1366
 msgid "PDF File"
-msgstr ""
+msgstr "Berkas PDF"
 
 #: packages/docregistry/src/registry.ts:1373
 msgid "Python File"
-msgstr ""
+msgstr "Berkas Python"
 
 #: packages/docregistry/src/registry.ts:1380
 msgid "JSON File"
-msgstr ""
+msgstr "Berkas JSON"
 
 #: packages/docregistry/src/registry.ts:1387
 msgid "CSV File"
-msgstr ""
+msgstr "Berkas CSV"
 
 #: packages/docregistry/src/registry.ts:1394
 msgid "TSV File"
-msgstr ""
+msgstr "Berkas TSV"
 
 #: packages/docregistry/src/registry.ts:1401
 msgid "R File"
-msgstr ""
+msgstr "Berkas R"
 
 #: packages/docregistry/src/registry.ts:1408
 msgid "YAML File"
-msgstr ""
+msgstr "Berkas YAML"
 
 #: packages/docregistry/src/registry.ts:1415 packages/docregistry/src/registry.ts:1423 packages/docregistry/src/registry.ts:1431 packages/docregistry/src/registry.ts:1439 packages/docregistry/src/registry.ts:1447 packages/docregistry/src/registry.ts:1455
 msgid "Image"
-msgstr ""
+msgstr "Gambar"
 
 #: packages/documentsearch-extension/src/index.ts:144
 msgid "Find…"
-msgstr ""
+msgstr "Cari…"
 
 #: packages/documentsearch-extension/src/index.ts:155
 msgid "Find and Replace…"
-msgstr ""
+msgstr "Cari dan Ganti…"
 
 #: packages/documentsearch-extension/src/index.ts:167
 msgid "Find Next"
@@ -1787,19 +1787,19 @@ msgstr ""
 
 #: packages/documentsearch/src/searchoverlay.tsx:125
 msgid "Find"
-msgstr ""
+msgstr "Cari"
 
 #: packages/documentsearch/src/searchoverlay.tsx:174 packages/documentsearch/src/searchoverlay.tsx:192
 msgid "Replace"
-msgstr ""
+msgstr "Ganti"
 
 #: packages/documentsearch/src/searchoverlay.tsx:204
 msgid "Replace All"
-msgstr ""
+msgstr "Ganti Semua"
 
 #: packages/extensionmanager-extension/src/index.ts:109 packages/extensionmanager-extension/src/index.ts:58
 msgid "Extension Manager"
-msgstr ""
+msgstr "Manajer Ekstensi"
 
 #: packages/extensionmanager-extension/src/index.ts:139
 msgid "Enable Extension Manager?"
