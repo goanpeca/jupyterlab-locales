@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-16 11:21\n"
+"PO-Revision-Date: 2021-06-23 00:57\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -62,7 +62,7 @@ msgstr ""
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr ""
+msgstr "Git"
 
 #: /schema/plugin.json:40
 msgid "History count"
