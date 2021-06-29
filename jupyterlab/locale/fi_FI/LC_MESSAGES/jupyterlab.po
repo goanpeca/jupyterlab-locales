@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: fi\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Finnish\n"
 "Language: fi_FI\n"
-"PO-Revision-Date: 2021-04-25 22:37\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -1183,7 +1183,7 @@ msgstr "Siirry riville..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr "jupyter"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1191,7 +1191,7 @@ msgstr "oletus"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr "abcdef"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
@@ -1588,7 +1588,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:787
 msgid "Rename %1…"
-msgstr ""
+msgstr "Nimeä %1 uudelleen…"
 
 #: packages/docmanager-extension/src/index.ts:800
 msgid "Delete %1"
@@ -2446,7 +2446,7 @@ msgstr "HTML-tiedosto"
 
 #: packages/htmlviewer-extension/src/index.tsx:73
 msgid "HTML Viewer"
-msgstr "HTML Viewer"
+msgstr ""
 
 #: packages/htmlviewer/src/index.tsx:108
 msgid "Rerender HTML Document"
@@ -2566,7 +2566,7 @@ msgstr ""
 
 #: packages/json-extension/src/component.tsx:67
 msgid "Filter..."
-msgstr ""
+msgstr "Suodata..."
 
 #: packages/launcher-extension/src/index.ts:101 packages/launcher-extension/src/index.ts:77
 msgid "Launcher"
@@ -3590,7 +3590,7 @@ msgstr ""
 #. obsolete
 #: packages/fileeditor-extension/src/commands.ts:1200
 msgid "Editor"
-msgstr ""
+msgstr "Tekstinmuokkausohjelma"
 
 #. obsolete
 #: packages/debugger/src/panels/variables/index.ts:70
