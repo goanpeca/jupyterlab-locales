@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"PO-Revision-Date: 2021-06-29 19:27\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -487,7 +487,7 @@ msgstr "Inspektor-Einstellungen."
 #: /packages/launcher-extension/schema/plugin.json:2
 msgctxt "schema"
 msgid "Launcher"
-msgstr ""
+msgstr "Starter"
 
 #: /packages/launcher-extension/schema/plugin.json:3
 msgctxt "schema"
@@ -661,7 +661,7 @@ msgstr "Die Schriftfamilie, mit der Text gerendert wird."
 #: /packages/terminal-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: /packages/terminal-extension/schema/plugin.json:40
 msgid "Font size"
@@ -1093,7 +1093,7 @@ msgstr "Pfad:"
 
 #: packages/apputils/src/sessioncontext.tsx:1613
 msgid "Name:"
-msgstr ""
+msgstr "Name:"
 
 #: packages/apputils/src/sessioncontext.tsx:1614
 msgid "Kernel Name:"
@@ -1113,11 +1113,11 @@ msgstr "Weder Theme %1 noch Standard %2 geladen."
 
 #: packages/apputils/src/thememanager.ts:448
 msgid "Error Loading Theme"
-msgstr ""
+msgstr "Fehler beim Laden des Themas"
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: packages/apputils/src/toolbar.tsx:386
 msgid "Interrupt the kernel"
@@ -1133,7 +1133,7 @@ msgstr "Kernel wechseln"
 
 #: packages/apputils/src/toolbar.tsx:786
 msgid "Kernel %1"
-msgstr ""
+msgstr "Kernel %1"
 
 #: packages/celltags/src/addwidget.ts:159 packages/celltags/src/addwidget.ts:31
 msgid "Add Tag"
@@ -1173,7 +1173,7 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr ""
+msgstr "Sublime Text"
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1353,7 +1353,7 @@ msgstr ""
 
 #: packages/console/src/panel.ts:316
 msgid "Name: %1\n"
-msgstr ""
+msgstr "Name: %1\n"
 
 #: packages/console/src/panel.ts:317
 msgid "Directory: %1\n"
@@ -1361,7 +1361,7 @@ msgstr "Verzeichnis: %1\n"
 
 #: packages/console/src/panel.ts:318
 msgid "Kernel: %1"
-msgstr ""
+msgstr "Kernel: %1"
 
 #: packages/console/src/panel.ts:321
 msgid "\n"
@@ -1731,7 +1731,7 @@ msgstr ""
 
 #: packages/docregistry/src/registry.ts:1284
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: packages/docregistry/src/registry.ts:1307 packages/launcher/src/index.tsx:158 packages/launcher/src/index.tsx:163 packages/notebook-extension/src/index.ts:475 packages/notebook-extension/src/index.ts:744 packages/notebook-extension/src/index.ts:785
 msgid "Notebook"
@@ -1931,7 +1931,7 @@ msgstr "Deinstallieren"
 
 #: packages/extensionmanager/src/widget.tsx:367
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #: packages/extensionmanager/src/widget.tsx:386
 msgid "This is a prebuilt extension. To uninstall it, please\n"
@@ -1986,7 +1986,7 @@ msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:850
 msgid "Details:"
-msgstr ""
+msgstr "Details:"
 
 #: packages/extensionmanager/src/widget.tsx:889
 msgid "Installed"
@@ -2144,7 +2144,7 @@ msgstr ""
 #: packages/filebrowser/src/listing.ts:1419
 msgctxt "showErrorMessage"
 msgid "Delete Failed"
-msgstr ""
+msgstr "Löschen fehlgeschlagen"
 
 #: packages/filebrowser/src/listing.ts:1450
 msgid "showErrorMessage"
@@ -2162,7 +2162,7 @@ msgstr ""
 
 #: packages/filebrowser/src/listing.ts:1781
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: packages/filebrowser/src/listing.ts:1783
 msgid "Last Modified"
@@ -2170,7 +2170,7 @@ msgstr "Zuletzt geändert"
 
 #: packages/filebrowser/src/listing.ts:1926
 msgid "Name: %1"
-msgstr ""
+msgstr "Name: %1"
 
 #: packages/filebrowser/src/listing.ts:1930
 msgid "\n"
@@ -2199,7 +2199,8 @@ msgstr "\n"
 #: packages/filebrowser/src/listing.ts:1956
 msgid "\n"
 "Writable: %1"
-msgstr ""
+msgstr "\n"
+"Schreibbar: %1"
 
 #: packages/filebrowser/src/listing.ts:2026
 msgid "%1 Item"
@@ -2235,7 +2236,8 @@ msgstr "Kernel herunterfahren"
 #: packages/filebrowser/src/listing.ts:836
 msgid "%1\n"
 "Kernel: %2"
-msgstr ""
+msgstr "%1\n"
+"Kernel: %2"
 
 #: packages/filebrowser/src/listing.ts:981
 msgctxt "showErrorMessage"
@@ -2387,7 +2389,7 @@ msgstr ""
 
 #: packages/fileeditor/src/tabspacestatus.tsx:62
 msgid "Spaces"
-msgstr ""
+msgstr "Leerzeichen"
 
 #: packages/fileeditor/src/tabspacestatus.tsx:63
 msgid "Tab Size"
@@ -2431,7 +2433,7 @@ msgstr "Über %1"
 
 #: packages/help-extension/src/index.tsx:298
 msgid "Version %1"
-msgstr ""
+msgstr "Version %1"
 
 #: packages/help-extension/src/index.tsx:326
 msgid "CONTRIBUTOR LIST"
@@ -2527,11 +2529,11 @@ msgstr "Bildbetrachter"
 
 #: packages/imageviewer-extension/src/index.ts:203
 msgid "Zoom In"
-msgstr ""
+msgstr "Hineinzoomen"
 
 #: packages/imageviewer-extension/src/index.ts:209
 msgid "Zoom Out"
-msgstr ""
+msgstr "Herauszoomen"
 
 #: packages/imageviewer-extension/src/index.ts:215
 msgid "Reset Image"
@@ -2624,7 +2626,7 @@ msgstr "Kritisch"
 
 #: packages/logconsole-extension/src/index.tsx:411
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: packages/logconsole-extension/src/index.tsx:412
 msgid "Debug"
@@ -2760,7 +2762,7 @@ msgstr "Aus JupyterLab abmelden"
 
 #: packages/mainmenu-extension/src/index.ts:513
 msgid "Kernel"
-msgstr ""
+msgstr "Kernel"
 
 #: packages/mainmenu-extension/src/index.ts:526
 msgid "Reconnect to Kernel"
@@ -3188,7 +3190,7 @@ msgstr ""
 
 #: packages/notebook/src/actions.tsx:1397
 msgid "Jupyter security documentation"
-msgstr ""
+msgstr "Jupyter-Sicherheitsdokumentation"
 
 #: packages/notebook/src/actions.tsx:1404
 msgid "Notebook is already trusted"
@@ -3236,7 +3238,7 @@ msgstr ""
 
 #: packages/notebook/src/default-toolbar.tsx:343
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: packages/notebook/src/default-toolbar.tsx:345
 msgid "Raw"
@@ -3300,7 +3302,7 @@ msgstr ""
 
 #: packages/notebook/src/notebooktools.ts:89
 msgid "Advanced Tools"
-msgstr ""
+msgstr "Erweiterte Werkzeuge"
 
 #: packages/notebook/src/notebooktools.ts:890
 msgid "Skip"
@@ -3356,7 +3358,7 @@ msgstr ""
 
 #: packages/running-extension/src/kernels.ts:36
 msgid "Kernels"
-msgstr ""
+msgstr "Kernel"
 
 #: packages/running-extension/src/kernels.ts:47
 msgid "Are you sure you want to permanently shut down all running kernels?"
@@ -3374,11 +3376,11 @@ msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr ""
+msgstr "Alle schließen"
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
@@ -3455,7 +3457,7 @@ msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr ""
+msgstr "Einfach"
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
@@ -3479,7 +3481,7 @@ msgstr "Z %1, Sp %2"
 
 #: packages/statusbar/src/defaults/lineCol.tsx:239
 msgid "Go to line number…"
-msgstr ""
+msgstr "Gehe zu Zeilennummer …"
 
 #: packages/statusbar/src/defaults/runningSessions.tsx:116
 msgid "%1 Terminals, %2 Kernel sessions"
@@ -3491,7 +3493,7 @@ msgstr "Terminal-Thema"
 
 #: packages/terminal-extension/src/index.ts:184 packages/terminal-extension/src/index.ts:240
 msgid "Inherit"
-msgstr ""
+msgstr "Vererben"
 
 #: packages/terminal-extension/src/index.ts:192 packages/terminal-extension/src/index.ts:247
 msgid "Light"
@@ -3519,7 +3521,7 @@ msgstr "Neues Terminal"
 
 #: packages/terminal-extension/src/index.ts:341 packages/terminal-extension/src/index.ts:91 packages/terminal/src/widget.ts:76
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: packages/terminal-extension/src/index.ts:342
 msgid "Start a new terminal session"
@@ -3551,7 +3553,7 @@ msgstr ""
 
 #: packages/terminal/src/widget.ts:97
 msgid "Terminal %1"
-msgstr ""
+msgstr "Terminal %1"
 
 #: packages/theme-dark-extension/src/index.ts:32
 msgid "JupyterLab Dark"
@@ -3604,7 +3606,7 @@ msgstr "Sind Sie sicher, dass Sie neuladen möchten?"
 #. obsolete
 #: packages/fileeditor-extension/src/commands.ts:1200
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #. obsolete
 #: packages/debugger/src/panels/variables/index.ts:70
