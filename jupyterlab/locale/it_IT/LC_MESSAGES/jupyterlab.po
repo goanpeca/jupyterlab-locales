@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"PO-Revision-Date: 2021-06-29 12:28\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -33,41 +33,44 @@ msgstr "Dimensione del carattere"
 msgctxt "schema"
 msgid "The size in pixel of the font used to render markdown.\n"
 "If `null`, value from current theme is used."
-msgstr ""
+msgstr "La dimensione in pixel del carattere usata per renderizzare il markdown.\n"
+"Se 'null', è usato il valore dal tema corrente."
 
 #: /examples/federated/md_package/./schema/plugin.json:4 /packages/markdownviewer-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Markdown Viewer"
-msgstr ""
+msgstr "Visualizzatore del Markdown"
 
 #: /examples/federated/md_package/./schema/plugin.json:42 /packages/markdownviewer-extension/schema/plugin.json:42
 msgid "Line Height"
-msgstr ""
+msgstr "Altezza Linea"
 
 #: /examples/federated/md_package/./schema/plugin.json:43 /packages/markdownviewer-extension/schema/plugin.json:43
 msgctxt "schema"
 msgid "The line height used to render markdown.\n"
 "If `null`, value from current theme is used."
-msgstr ""
+msgstr "L'altezza della linea usata per renderizzare il markdown.\n"
+"Se 'null', è usato il valore dal tema corrente."
 
 #: /examples/federated/md_package/./schema/plugin.json:48 /packages/markdownviewer-extension/schema/plugin.json:48
 msgid "Line Width"
-msgstr ""
+msgstr "Larghezza della Linea"
 
 #: /examples/federated/md_package/./schema/plugin.json:49 /packages/markdownviewer-extension/schema/plugin.json:49
 msgctxt "schema"
 msgid "The text line width expressed in CSS ch units.\n"
 "If `null`, lines fit the viewport width."
-msgstr ""
+msgstr "La larghezza della linea di testo espressa in unità ch di CSS.\n"
+"Se 'null', le linee si adattano alla larghezza della porta di visualizzazione."
 
 #: /examples/federated/md_package/./schema/plugin.json:5 /packages/markdownviewer-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Markdown viewer settings."
-msgstr ""
+msgstr "Impostazioni del visualizzatore di markdown."
 
 #: /examples/federated/md_package/./schema/plugin.json:54 /packages/markdownviewer-extension/schema/plugin.json:54
 msgid "Hide Front Matter"
-msgstr ""
+msgstr "Nascondi Materia Frontale"
 
 #: /examples/federated/md_package/./schema/plugin.json:55 /packages/markdownviewer-extension/schema/plugin.json:55
 msgctxt "schema"
@@ -75,7 +78,8 @@ msgid "Whether to hide YAML front matter.\n"
 "The YAML front matter must be placed at the top of the document,\n"
 "started by a line of three dashes (---) and ended by a line of\n"
 "three dashes (---) or three points (...)."
-msgstr ""
+msgstr "Se nascondere la materia frontale dello YAML.\n"
+"La materia frontale di YAML dev'esser posizionata in cima al documento, preceduta da una linea di tre trattini (---) e seguita da una linea di tre trattini (---) o tre puntini (...)."
 
 #: /examples/federated/md_package/./schema/plugin.json:60 /packages/markdownviewer-extension/schema/plugin.json:60
 msgid "Render Timeout"
@@ -84,7 +88,7 @@ msgstr "Timeout Rendering"
 #: /examples/federated/md_package/./schema/plugin.json:61 /packages/markdownviewer-extension/schema/plugin.json:61
 msgctxt "schema"
 msgid "The render timeout in milliseconds."
-msgstr ""
+msgstr "Il timeout del rendering in millisecondi."
 
 #: /packages/application-extension/schema/main.json:2
 msgctxt "schema"
@@ -100,7 +104,8 @@ msgstr "Impostazioni principali dell'applicazione JupyterLab."
 msgctxt "schema"
 msgid "Overrides for where to show sidebar items\n"
 "e.g., {\"tab-manager\": \"right\"}"
-msgstr ""
+msgstr "Sovrascrive dove mostrare gli elementi della barra laterale\n"
+"es., {\"tab-manager\": \"right\"}"
 
 #: /packages/application-extension/schema/sidebar.json:3
 msgctxt "schema"
@@ -114,46 +119,46 @@ msgstr "Impostazioni layout barra laterale."
 
 #: /packages/application-extension/schema/sidebar.json:8
 msgid "Overrides"
-msgstr ""
+msgstr "Sovrascrive"
 
 #: /packages/apputils-extension/schema/palette.json:13
 msgid "Modal Command Palette"
-msgstr ""
+msgstr "Palette di Comando Modale"
 
 #: /packages/apputils-extension/schema/palette.json:14
 msgctxt "schema"
 msgid "Whether the command palette should be modal or in the left panel."
-msgstr ""
+msgstr "Se la palette di comando dovrebbe esser modale o nel pannello sinistro."
 
 #: /packages/apputils-extension/schema/palette.json:2
 msgctxt "schema"
 msgid "Command Palette"
-msgstr ""
+msgstr "Palette di Comando"
 
 #: /packages/apputils-extension/schema/palette.json:3
 msgctxt "schema"
 msgid "Command palette settings."
-msgstr ""
+msgstr "Impostazioni della palette di comando."
 
 #: /packages/apputils-extension/schema/print.json:2
 msgctxt "schema"
 msgid "Print"
-msgstr ""
+msgstr "Stampa"
 
 #: /packages/apputils-extension/schema/print.json:3
 msgctxt "schema"
 msgid "Print settings."
-msgstr ""
+msgstr "Impostazioni di stampa."
 
 #: /packages/apputils-extension/schema/themes.json:2
 msgctxt "schema"
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: /packages/apputils-extension/schema/themes.json:4
 msgctxt "schema"
 msgid "Theme manager settings."
-msgstr ""
+msgstr "Impostazioni del gestore di temi."
 
 #: /packages/apputils-extension/schema/themes.json:45
 msgid "Selected Theme"
@@ -162,7 +167,7 @@ msgstr "Tema selezionato"
 #: /packages/apputils-extension/schema/themes.json:46
 msgctxt "schema"
 msgid "Application-level visual styling theme"
-msgstr ""
+msgstr "Tema di stilizzazione visiva al livello d'applicazione"
 
 #: /packages/apputils-extension/schema/themes.json:51
 msgid "Scrollbar Theming"
@@ -171,21 +176,21 @@ msgstr "Temi Barra Di Scorrimento"
 #: /packages/apputils-extension/schema/themes.json:52
 msgctxt "schema"
 msgid "Enable/disable styling of the application scrollbars"
-msgstr ""
+msgstr "Abilita/disabilita la stilizzazione delle barre di scorrimento dell'applicazione"
 
 #: /packages/apputils-extension/schema/themes.json:56
 msgid "Theme CSS Overrides"
-msgstr ""
+msgstr "Sovrascrizioni di CSS del Tema"
 
 #: /packages/apputils-extension/schema/themes.json:57
 msgctxt "schema"
 msgid "Override theme CSS variables by setting key-value pairs here"
-msgstr ""
+msgstr "Sovrascrive le variabili in CSS del tema impostando qui coppie di chiave-valore"
 
 #: /packages/codemirror-extension/schema/commands.json:10
 msgctxt "schema"
 msgid "Configures the keymap to use"
-msgstr ""
+msgstr "Configura la mappa chiave da usare"
 
 #: /packages/codemirror-extension/schema/commands.json:15 /packages/terminal-extension/schema/plugin.json:52 packages/apputils-extension/src/themesplugins.ts:246
 msgid "Theme"
@@ -195,29 +200,30 @@ msgstr "Tema"
 msgctxt "schema"
 msgid "CSS file defining the corresponding\n"
 ".cm-s-[name] styles is loaded"
-msgstr ""
+msgstr "Il file CSS che definisce gli stili\n"
+".cm-s-[name] corrispondenti è caricato"
 
 #: /packages/codemirror-extension/schema/commands.json:21
 msgid "Scroll behavior"
-msgstr ""
+msgstr "Comportamento di scorrimento"
 
 #: /packages/codemirror-extension/schema/commands.json:22
 msgctxt "schema"
 msgid "Whether to scroll past the end of text document"
-msgstr ""
+msgstr "Se scorrere oltre la fine del documento di testo"
 
 #: /packages/codemirror-extension/schema/commands.json:27
 msgid "Style Active Line"
-msgstr ""
+msgstr "Linea Attiva di Stile"
 
 #: /packages/codemirror-extension/schema/commands.json:28
 msgctxt "schema"
 msgid "Value is boolean, or { nonEmpty: boolean }"
-msgstr ""
+msgstr "Il valore è booleano, o { nonEmpty: boolean }"
 
 #: /packages/codemirror-extension/schema/commands.json:33
 msgid "Style Selected Text"
-msgstr ""
+msgstr "Stile Testo Selezionato"
 
 #: /packages/codemirror-extension/schema/commands.json:34
 msgctxt "schema"
@@ -226,95 +232,97 @@ msgstr "Il valore è booleano"
 
 #: /packages/codemirror-extension/schema/commands.json:39
 msgid "Selection Pointer"
-msgstr ""
+msgstr "Puntatore di Selezione"
 
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr ""
+msgstr "CodeMirror"
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
 msgid "Value is boolean or string, e.g. 'pointer'"
-msgstr ""
+msgstr "Il valore è booleano o una stringa, es. 'puntatore'"
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr ""
+msgstr "Ctrl-C"
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
 msgid "When enabled, which is the default, doing copy or cut when there is no selection will copy or cut the whole lines that have cursors on them."
-msgstr ""
+msgstr "Quando abilitato, come da predefinito, copiare o tagliare quando non vi è alcuna selezione, copierà o taglierà righe intere aventi i cursori su di esse."
 
 #: /packages/codemirror-extension/schema/commands.json:5
 msgctxt "schema"
 msgid "Text editor settings for all CodeMirror editors."
-msgstr ""
+msgstr "Le impostazioni dell'editor di testo per tutti gli editor di CodeMirror."
 
 #: /packages/codemirror-extension/schema/commands.json:9
 msgid "Key Map"
-msgstr ""
+msgstr "Mappa Chiave"
 
 #: /packages/completer-extension/schema/consoles.json:2
 msgctxt "schema"
 msgid "Console Completer"
-msgstr ""
+msgstr "Completatore della Console"
 
 #: /packages/completer-extension/schema/consoles.json:3
 msgctxt "schema"
 msgid "Console completer settings."
-msgstr ""
+msgstr "Impostazioni del completatore della console."
 
 #: /packages/completer-extension/schema/files.json:2
 msgctxt "schema"
 msgid "File Editor Completer"
-msgstr ""
+msgstr "Completatore dell'Editor di File"
 
 #: /packages/completer-extension/schema/files.json:3
 msgctxt "schema"
 msgid "File editor completer settings."
-msgstr ""
+msgstr "Impostazioni del completatore dell'editor di file."
 
 #: /packages/completer-extension/schema/notebooks.json:2
 msgctxt "schema"
 msgid "Notebook Completer"
-msgstr ""
+msgstr "Completatore del Notebook"
 
 #: /packages/completer-extension/schema/notebooks.json:3
 msgctxt "schema"
 msgid "Notebook completer settings."
-msgstr ""
+msgstr "Impostazioni del completatore del notebook."
 
 #: /packages/console-extension/schema/tracker.json:2
 msgctxt "schema"
 msgid "Code Console"
-msgstr ""
+msgstr "Console del Codice"
 
 #: /packages/console-extension/schema/tracker.json:3
 msgctxt "schema"
 msgid "Code Console settings."
-msgstr ""
+msgstr "Impostazioni della Console di Codice."
 
 #: /packages/console-extension/schema/tracker.json:35
 msgid "Interaction mode"
-msgstr ""
+msgstr "Modalità d'interazione"
 
 #: /packages/console-extension/schema/tracker.json:36
 msgctxt "schema"
 msgid "Whether the console interaction mimics the notebook\n"
 "or terminal keyboard shortcuts."
-msgstr ""
+msgstr "Se l'interazione della console imita le scorciatoie da tastiera\n"
+"del notebook o della tastiera."
 
 #: /packages/console-extension/schema/tracker.json:42 packages/console-extension/src/foreign.ts:85
 msgid "Show All Kernel Activity"
-msgstr ""
+msgstr "Mostra Tutta l'Attività del Kernel"
 
 #: /packages/console-extension/schema/tracker.json:43
 msgctxt "schema"
 msgid "Whether the console defaults to showing all\n"
 "kernel activity or just kernel activity originating from itself."
-msgstr ""
+msgstr "Se la console mostra tutta l'attività del kernel\n"
+"di default o solo l'attività del kernel che si genera da essa."
 
 #: /packages/debugger-extension/schema/main.json:3
 msgctxt "schema"
@@ -558,236 +566,236 @@ msgstr ""
 
 #: /packages/notebook-extension/schema/tracker.json:309
 msgid "Shut down kernel"
-msgstr ""
+msgstr "Arresta il kernel"
 
 #: /packages/notebook-extension/schema/tracker.json:310
 msgctxt "schema"
 msgid "Whether to shut down or not the kernel when closing a notebook."
-msgstr ""
+msgstr "Se spegnere o no il kernel chiudendo un notebook."
 
 #: /packages/notebook-extension/schema/tracker.json:315
 msgid "Markdown Cell Configuration"
-msgstr ""
+msgstr "Configurazione della Cella di Markdown"
 
 #: /packages/notebook-extension/schema/tracker.json:316
 msgctxt "schema"
 msgid "The configuration for all markdown cells."
-msgstr ""
+msgstr "La configurazione per tutte le celle di markdown."
 
 #: /packages/notebook-extension/schema/tracker.json:336
 msgid "Raw Cell Configuration"
-msgstr ""
+msgstr "Configurazione della Cella Grezza"
 
 #: /packages/notebook-extension/schema/tracker.json:337
 msgctxt "schema"
 msgid "The configuration for all raw cells."
-msgstr ""
+msgstr "La configurazione per tutte le celle grezze."
 
 #: /packages/notebook-extension/schema/tracker.json:357
 msgid "Scroll past last cell"
-msgstr ""
+msgstr "Scorri oltre l'ultima cella"
 
 #: /packages/notebook-extension/schema/tracker.json:358
 msgctxt "schema"
 msgid "Whether to be able to scroll so the last cell is at the top of the panel"
-msgstr ""
+msgstr "Se poter scorrere così che l'ultima cella sia in cima al pannello"
 
 #: /packages/notebook-extension/schema/tracker.json:363
 msgid "Recording timing"
-msgstr ""
+msgstr "Tempo di registrazione"
 
 #: /packages/notebook-extension/schema/tracker.json:364
 msgctxt "schema"
 msgid "Should timing data be recorded in cell metadata"
-msgstr ""
+msgstr "I dati del tempo dovrebbero esser registrati nei metadati della cella"
 
 #: /packages/settingeditor-extension/schema/plugin.json:2
 msgctxt "schema"
 msgid "Setting Editor"
-msgstr ""
+msgstr "Editor delle Impostazioni"
 
 #: /packages/settingeditor-extension/schema/plugin.json:3
 msgctxt "schema"
 msgid "Setting editor settings."
-msgstr ""
+msgstr "Impostazioni dell'Editor delle Impostazioni."
 
 #: /packages/shortcuts-extension/schema/shortcuts.json:11
 msgctxt "schema"
 msgid "The list of keyboard shortcuts."
-msgstr ""
+msgstr "L'elenco di scorciatoie da tastiera."
 
 #: /packages/shortcuts-extension/schema/shortcuts.json:5
 msgctxt "schema"
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Scorciatoie da Tastiera"
 
 #: /packages/shortcuts-extension/schema/shortcuts.json:6
 msgctxt "schema"
 msgid "Keyboard shortcut settings."
-msgstr ""
+msgstr "Impostazioni della scorciatoia da tastiera."
 
 #: /packages/statusbar-extension/schema/plugin.json:10
 msgctxt "schema"
 msgid "Whether to show status bar or not"
-msgstr ""
+msgstr "Se mostrare o no la barra di stato"
 
 #: /packages/statusbar-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Status Bar"
-msgstr ""
+msgstr "Barra di Stato"
 
 #: /packages/statusbar-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Status Bar settings."
-msgstr ""
+msgstr "Impostazioni della Barra di Stato."
 
 #: /packages/statusbar-extension/schema/plugin.json:9
 msgid "Status Bar Visibility"
-msgstr ""
+msgstr "Visibilità della Barra di Stato"
 
 #: /packages/terminal-extension/schema/plugin.json:34
 msgid "Font family"
-msgstr ""
+msgstr "Famiglia del font"
 
 #: /packages/terminal-extension/schema/plugin.json:35
 msgctxt "schema"
 msgid "The font family used to render text."
-msgstr ""
+msgstr "La famiglia del font usata per renderizzare il testo."
 
 #: /packages/terminal-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminale"
 
 #: /packages/terminal-extension/schema/plugin.json:40
 msgid "Font size"
-msgstr ""
+msgstr "Dimensioni del font"
 
 #: /packages/terminal-extension/schema/plugin.json:41
 msgctxt "schema"
 msgid "The font size used to render text."
-msgstr ""
+msgstr "La dimensione del font usato per renderizzare il testo."
 
 #: /packages/terminal-extension/schema/plugin.json:46
 msgid "Line height"
-msgstr ""
+msgstr "Altezza della linea"
 
 #: /packages/terminal-extension/schema/plugin.json:47
 msgctxt "schema"
 msgid "The line height used to render text."
-msgstr ""
+msgstr "L'altezza della linea usata per renderizzare il testo."
 
 #: /packages/terminal-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Terminal settings."
-msgstr ""
+msgstr "Impostazioni del terminale."
 
 #: /packages/terminal-extension/schema/plugin.json:53
 msgctxt "schema"
 msgid "The theme for the terminal."
-msgstr ""
+msgstr "Il tema per il terminale."
 
 #: /packages/terminal-extension/schema/plugin.json:58
 msgid "Screen Reader Mode"
-msgstr ""
+msgstr "Modalità Lettore Schermo"
 
 #: /packages/terminal-extension/schema/plugin.json:59
 msgctxt "schema"
 msgid "Add accessibility elements for use with screen readers."
-msgstr ""
+msgstr "Aggiungi elementi d'accessibilità per l'uso con lettori dello schermo."
 
 #: /packages/terminal-extension/schema/plugin.json:64
 msgid "Scrollback Buffer"
-msgstr ""
+msgstr "Buffer di Scorrimento"
 
 #: /packages/terminal-extension/schema/plugin.json:65
 msgctxt "schema"
 msgid "The amount of scrollback beyond initial viewport"
-msgstr ""
+msgstr "La quantità di scorrimento tra porte di visualizzazione iniziali"
 
 #: /packages/terminal-extension/schema/plugin.json:70
 msgid "Shut down on close"
-msgstr ""
+msgstr "Spegni alla chiusura"
 
 #: /packages/terminal-extension/schema/plugin.json:71
 msgctxt "schema"
 msgid "Shut down the session when closing the terminal."
-msgstr ""
+msgstr "Arresta la sessione chiudendo il terminale."
 
 #: /packages/terminal-extension/schema/plugin.json:76
 msgid "Paste with Ctrl+V"
-msgstr ""
+msgstr "Incolla con Ctrl+V"
 
 #: /packages/terminal-extension/schema/plugin.json:77
 msgctxt "schema"
 msgid "Enable pasting with Ctrl+V.  This can be disabled to use Ctrl+V in the vi editor, for instance.  This setting has no effect on macOS, where Cmd+V is available"
-msgstr ""
+msgstr "Abilita incolla con Ctrl+V. Questo può esser disabilitato per usare Ctrl+V nell'editor vi, per esempio. Quest'impostazione non ha alcun effetto su macOS, dove Cmd+V è disponibile"
 
 #: /packages/terminal-extension/schema/plugin.json:82
 msgid "Treat option as meta key on macOS"
-msgstr ""
+msgstr "Tratta l'opzione come meta-chiave su macOS"
 
 #: /packages/terminal-extension/schema/plugin.json:83
 msgctxt "schema"
 msgid "Option key on macOS can be used as meta key. This enables to use shortcuts such as option + f to move cursor forward one word"
-msgstr ""
+msgstr "Il tasto dell'opzione su macOS è utilizzabile come meta-chiave. Questo abilita l'uso di scorciatoie come option+f per spostare il cursore in avanti di una parola"
 
 #: /packages/tooltip-extension/schema/consoles.json:2
 msgctxt "schema"
 msgid "Console Tooltips"
-msgstr ""
+msgstr "Suggerimenti della Console"
 
 #: /packages/tooltip-extension/schema/consoles.json:3
 msgctxt "schema"
 msgid "Console tooltip settings."
-msgstr ""
+msgstr "Impostazioni dei suggerimenti della console."
 
 #: /packages/tooltip-extension/schema/files.json:2
 msgctxt "schema"
 msgid "File Editor Tooltips"
-msgstr ""
+msgstr "Suggerimenti dell'Editor di File"
 
 #: /packages/tooltip-extension/schema/files.json:3
 msgctxt "schema"
 msgid "File editor tooltip settings."
-msgstr ""
+msgstr "Impostazioni dei suggerimenti dell'editor di file."
 
 #: /packages/tooltip-extension/schema/notebooks.json:2
 msgctxt "schema"
 msgid "Notebook Tooltips"
-msgstr ""
+msgstr "Suggerimenti Notebook"
 
 #: /packages/tooltip-extension/schema/notebooks.json:3
 msgctxt "schema"
 msgid "Notebook tooltip settings."
-msgstr ""
+msgstr "Impostazioni dei suggerimenti del notebook."
 
 #: /packages/translation-extension/schema/plugin.json:10
 msgid "Language locale"
-msgstr ""
+msgstr "Lingua locale"
 
 #: /packages/translation-extension/schema/plugin.json:11
 msgctxt "schema"
 msgid "Set the interface display language. Examples: 'es_CO', 'fr'."
-msgstr ""
+msgstr "Imposta la lingua di visualizzazione dell'interfaccia. Esempi: 'es_CO', 'fr'."
 
 #: /packages/translation-extension/schema/plugin.json:16
 msgid "Localized strings prefix"
-msgstr ""
+msgstr "Prefisso delle stringhe localizzate"
 
 #: /packages/translation-extension/schema/plugin.json:17
 msgctxt "schema"
 msgid "Add a prefix to localized strings."
-msgstr ""
+msgstr "Aggiungi un prefisso alle stringhe localizzate."
 
 #: /packages/translation-extension/schema/plugin.json:22
 msgid "Display localized strings prefix"
-msgstr ""
+msgstr "Mostra il prefisso delle stringhe localizzate"
 
 #: /packages/translation-extension/schema/plugin.json:23
 msgctxt "schema"
 msgid "Display the `stringsPrefix` on localized strings."
-msgstr ""
+msgstr "Mostra lo 'stringsPrefix' sulle stringhe localizzate."
 
 #: /packages/translation-extension/schema/plugin.json:4
 msgctxt "schema"
@@ -997,203 +1005,203 @@ msgstr ""
 
 #: packages/apputils-extension/src/themesplugins.ts:193 packages/apputils-extension/src/themesplugins.ts:270
 msgid "Decrease Code Font Size"
-msgstr ""
+msgstr "Riduci la Dimensione del Font del Codice"
 
 #: packages/apputils-extension/src/themesplugins.ts:203 packages/apputils-extension/src/themesplugins.ts:279
 msgid "Increase Content Font Size"
-msgstr ""
+msgstr "Aumenta la Dimensione del Font del Contenuto"
 
 #: packages/apputils-extension/src/themesplugins.ts:210 packages/apputils-extension/src/themesplugins.ts:287
 msgid "Decrease Content Font Size"
-msgstr ""
+msgstr "Riduci la Dimensione del Font del Contenuto"
 
 #: packages/apputils-extension/src/themesplugins.ts:220 packages/apputils-extension/src/themesplugins.ts:296
 msgid "Increase UI Font Size"
-msgstr ""
+msgstr "Aumenta la Dimensione del Font dell'UI"
 
 #: packages/apputils-extension/src/themesplugins.ts:227 packages/apputils-extension/src/themesplugins.ts:304
 msgid "Decrease UI Font Size"
-msgstr ""
+msgstr "Riduci la Dimensione del Font dell'UI"
 
 #: packages/apputils-extension/src/themesplugins.ts:96
 msgid "Use Theme: %1"
-msgstr ""
+msgstr "Usa Tema: %1"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:105
 msgid "Save Current Workspace"
-msgstr ""
+msgstr "Salva l'Area di Lavoro Corrente"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:213
 msgid "Workspace loader"
-msgstr ""
+msgstr "Caricatore area di lavoro"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:286 packages/apputils-extension/src/workspacesplugin.ts:292 packages/docmanager/src/widgetmanager.ts:378 packages/docregistry/src/context.ts:879 packages/docregistry/src/context.ts:886
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:288 packages/apputils-extension/src/workspacesplugin.ts:91
 msgid "Save Current Workspace As..."
-msgstr ""
+msgstr "Salva Area di Lavoro Corrente Come..."
 
 #: packages/apputils-extension/src/workspacesplugin.ts:290 packages/apputils/src/sessioncontext.tsx:1204 packages/docmanager-extension/src/index.ts:523 packages/docmanager-extension/src/index.ts:573 packages/docmanager-extension/src/index.ts:813 packages/docmanager/src/dialogs.ts:118 packages/docmanager/src/dialogs.ts:58 packages/docmanager/src/widgetmanager.ts:384 packages/extensionmanager/src/companions.tsx:218 packages/filebrowser/src/listing.ts:422 packages/filebrowser/src/model.ts:451 packages/filebrowser/src/opendialog.ts:83 packages/notebook/src/actions.tsx:1413 packages/running/src/index.tsx:238 packages/settingeditor/src/plugineditor.ts:148 packages/translation-extension/src/index.ts:144
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:74
 msgid "JupyterLab workspace File"
-msgstr ""
+msgstr "File dell'area di lavoro di JupyterLab"
 
 #: packages/apputils/src/sessioncontext.tsx:1205 packages/apputils/src/sessioncontext.tsx:1206 packages/apputils/src/sessioncontext.tsx:1226 packages/apputils/src/sessioncontext.tsx:1590 packages/apputils/src/sessioncontext.tsx:488 packages/apputils/src/sessioncontext.tsx:489 packages/apputils/src/sessioncontext.tsx:509 packages/apputils/src/sessioncontext.tsx:518 packages/apputils/src/sessioncontext.tsx:544 packages/apputils/src/sessioncontext.tsx:669
 msgid "No Kernel"
-msgstr ""
+msgstr "Nessun Kernel"
 
 #: packages/apputils/src/sessioncontext.tsx:1210 packages/filebrowser/src/opendialog.ts:85
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 #: packages/apputils/src/sessioncontext.tsx:1214
 msgid "Select Kernel"
-msgstr ""
+msgstr "Seleziona Kernel"
 
 #: packages/apputils/src/sessioncontext.tsx:1270
 msgid "Restart Kernel?"
-msgstr ""
+msgstr "Riavviare il Kernel?"
 
 #: packages/apputils/src/sessioncontext.tsx:1271
 msgid "Do you want to restart the current kernel? All variables will be lost."
-msgstr ""
+msgstr "Vuoi riavviare il kernel corrente? Tutte le variabili saranno perse."
 
 #: packages/apputils/src/sessioncontext.tsx:1325
 msgid "Select kernel for:"
-msgstr ""
+msgstr "Seleziona kernel per:"
 
 #: packages/apputils/src/sessioncontext.tsx:1459
 msgid "Start Preferred Kernel"
-msgstr ""
+msgstr "Avvia Kernel Preferito"
 
 #: packages/apputils/src/sessioncontext.tsx:1474
 msgid "Start Other Kernel"
-msgstr ""
+msgstr "Avvia Altro Kernel"
 
 #: packages/apputils/src/sessioncontext.tsx:1523
 msgid "Use Kernel from Preferred Session"
-msgstr ""
+msgstr "Usa Kernel dalla Sessione Preferita"
 
 #: packages/apputils/src/sessioncontext.tsx:1538
 msgid "Use Kernel from Other Session"
-msgstr ""
+msgstr "Usa Kernel da Altra Sessione"
 
 #: packages/apputils/src/sessioncontext.tsx:1612
 msgid "Path:"
-msgstr ""
+msgstr "Percorso:"
 
 #: packages/apputils/src/sessioncontext.tsx:1613
 msgid "Name:"
-msgstr ""
+msgstr "Nome:"
 
 #: packages/apputils/src/sessioncontext.tsx:1614
 msgid "Kernel Name:"
-msgstr ""
+msgstr "Nome del Kernel:"
 
 #: packages/apputils/src/sessioncontext.tsx:1615
 msgid "Kernel Id:"
-msgstr ""
+msgstr "Id del Kernel:"
 
 #: packages/apputils/src/sessioncontext.tsx:953
 msgid "Error Starting Kernel"
-msgstr ""
+msgstr "Errore Avviando il Kernel"
 
 #: packages/apputils/src/thememanager.ts:371
 msgid "Neither theme %1 nor default %2 loaded."
-msgstr ""
+msgstr "Né il tema %1 né il predefinito %2 hanno caricato."
 
 #: packages/apputils/src/thememanager.ts:448
 msgid "Error Loading Theme"
-msgstr ""
+msgstr "Errore Caricando il Tema"
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: packages/apputils/src/toolbar.tsx:386
 msgid "Interrupt the kernel"
-msgstr ""
+msgstr "Interrompi il kernel"
 
 #: packages/apputils/src/toolbar.tsx:408
 msgid "Restart the kernel"
-msgstr ""
+msgstr "Riavvia il kernel"
 
 #: packages/apputils/src/toolbar.tsx:746
 msgid "Switch kernel"
-msgstr ""
+msgstr "Cambia kernel"
 
 #: packages/apputils/src/toolbar.tsx:786
 msgid "Kernel %1"
-msgstr ""
+msgstr "Kernel %1"
 
 #: packages/celltags/src/addwidget.ts:159 packages/celltags/src/addwidget.ts:31
 msgid "Add Tag"
-msgstr ""
+msgstr "Aggiungi Tag"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
-msgstr ""
+msgstr "Tag della cella"
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
-msgstr ""
+msgstr "Nessun dato!"
 
 #: packages/codeeditor/src/jsoneditor.ts:60
 msgid "Revert changes to data"
-msgstr ""
+msgstr "Inverti le modifiche ai dati"
 
 #: packages/codeeditor/src/jsoneditor.ts:65
 msgid "Commit changes to data"
-msgstr ""
+msgstr "Conferma le modifiche ai dati"
 
 #: packages/codemirror-extension/src/index.ts:305
 msgid "Text Editor Theme"
-msgstr ""
+msgstr "Tema dell'Editor di Testo"
 
 #: packages/codemirror-extension/src/index.ts:306
 msgid "Text Editor Key Map"
-msgstr ""
+msgstr "Mappa Chiave dell'Editor di Testo"
 
 #: packages/codemirror-extension/src/index.ts:307
 msgid "Text Editor Syntax Highlighting"
-msgstr ""
+msgstr "Evidenziazione della Sintassi dell'Editor di Testo"
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr ""
+msgstr "codemirror"
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr ""
+msgstr "Testo Sublime"
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
-msgstr ""
+msgstr "Trova..."
 
 #: packages/codemirror-extension/src/index.ts:359
 msgid "Go to Line..."
-msgstr ""
+msgstr "Vai alla Linea..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr ""
+msgstr "jupyter"
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
-msgstr ""
+msgstr "predefinito"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr ""
+msgstr "abcdef"
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
-msgstr ""
+msgstr "base16-dark"
 
 #: packages/codemirror-extension/src/index.ts:419
 msgid "base16-light"
@@ -1399,67 +1407,67 @@ msgstr ""
 
 #: packages/debugger-extension/src/index.ts:439 packages/debugger-extension/src/index.ts:440
 msgid "Continue"
-msgstr ""
+msgstr "Continua"
 
 #: packages/debugger-extension/src/index.ts:452 packages/debugger-extension/src/index.ts:453
 msgid "Terminate"
-msgstr ""
+msgstr "Termina"
 
 #: packages/debugger-extension/src/index.ts:465 packages/debugger-extension/src/index.ts:466
 msgid "Next"
-msgstr ""
+msgstr "Successivo"
 
 #: packages/debugger-extension/src/index.ts:477 packages/debugger-extension/src/index.ts:478
 msgid "Step In"
-msgstr ""
+msgstr "Passo In"
 
 #: packages/debugger-extension/src/index.ts:489 packages/debugger-extension/src/index.ts:490
 msgid "Step Out"
-msgstr ""
+msgstr "Esci"
 
 #: packages/debugger-extension/src/index.ts:518
 msgid "Debugger"
-msgstr ""
+msgstr "Debugger"
 
 #: packages/debugger/src/handler.ts:54 packages/debugger/src/handler.ts:80
 msgid "Enable / Disable Debugger"
-msgstr ""
+msgstr "Abilita / Disabilita Debugger"
 
 #: packages/debugger/src/panels/breakpoints/header.ts:23
 msgid "Breakpoints"
-msgstr ""
+msgstr "Punti di Interruzione"
 
 #: packages/debugger/src/panels/breakpoints/index.ts:45
 msgid "Remove All Breakpoints"
-msgstr ""
+msgstr "Rimuovi Tutti i Punti di Interruzione"
 
 #: packages/debugger/src/panels/callstack/header.ts:23
 msgid "Callstack"
-msgstr ""
+msgstr "Callstack"
 
 #: packages/debugger/src/panels/sources/header.tsx:32
 msgid "Source"
-msgstr ""
+msgstr "Fonte"
 
 #: packages/debugger/src/panels/sources/index.ts:48
 msgid "Open in the Main Area"
-msgstr ""
+msgstr "Apri nell'Area Principale"
 
 #: packages/debugger/src/panels/variables/header.ts:23
 msgid "Variables"
-msgstr ""
+msgstr "Variabili"
 
 #: packages/debugger/src/panels/variables/index.ts:73
 msgid "Tree View"
-msgstr ""
+msgstr "Vista ad Albero"
 
 #: packages/debugger/src/panels/variables/index.ts:80
 msgid "Table View"
-msgstr ""
+msgstr "Vista a Tabella"
 
 #: packages/debugger/src/panels/variables/scope.tsx:53
 msgid "Scope"
-msgstr ""
+msgstr "Ambito"
 
 #: packages/docmanager-extension/src/index.ts:235
 msgid "Overrides for the default viewers for file types.\n"
