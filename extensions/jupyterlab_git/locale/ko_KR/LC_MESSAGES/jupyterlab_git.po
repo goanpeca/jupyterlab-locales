@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: ko\n"
-"X-Crowdin-File: /master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
-"X-Crowdin-File-ID: 28\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
+"X-Crowdin-File-ID: 52\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-04-25 23:39\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -75,12 +75,12 @@ msgstr ""
 
 #: /schema/plugin.json:46
 msgid "Refresh if the Git tab is hidden"
-msgstr "Git 탭이 숨겨져있다면 새로고침하십시오"
+msgstr ""
 
 #: /schema/plugin.json:47
 msgctxt "schema"
 msgid "Whether to check Git status when the Git tab is not visible. Choose `false` for higher performance."
-msgstr "Git 탭이 보이지 않을 때 Git status 확인 여부. 높은 성능을 위해서 `false`를 선택하십시오."
+msgstr ""
 
 #: /schema/plugin.json:5
 msgctxt "schema"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: /schema/plugin.json:64
 msgid "Trigger push on commit"
-msgstr "Commit과 동시에 push하기"
+msgstr ""
 
 #: /schema/plugin.json:65
 msgctxt "schema"
