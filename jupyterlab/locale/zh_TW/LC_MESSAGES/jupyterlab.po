@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: zh-TW\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2021-04-25 22:37\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -232,7 +232,7 @@ msgstr "所選指標"
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr "CodeMirror"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
@@ -532,7 +532,7 @@ msgstr "JupyterLab 主選單設定。"
 #: /packages/notebook-extension/schema/tracker.json:221
 msgctxt "schema"
 msgid "Notebook"
-msgstr "Notebook"
+msgstr ""
 
 #: /packages/notebook-extension/schema/tracker.json:222
 msgctxt "schema"
@@ -940,7 +940,8 @@ msgstr "載入中..."
 #: packages/apputils-extension/src/index.ts:213
 msgid "The loading screen is taking a long time. \n"
 "Would you like to clear the workspace or keep waiting?"
-msgstr ""
+msgstr "載入畫面耗費大量時間。\n"
+"是否清除工作區或持續等待?"
 
 #: packages/apputils-extension/src/index.ts:216
 msgid "Keep Waiting"
@@ -952,7 +953,7 @@ msgstr "清除工作區"
 
 #: packages/apputils-extension/src/index.ts:282
 msgid "Print..."
-msgstr ""
+msgstr "列印..."
 
 #: packages/apputils-extension/src/index.ts:407
 msgid "Reset Application State"
@@ -1168,11 +1169,11 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr "codemirror"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr "Sublime Text"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1184,7 +1185,7 @@ msgstr "跳至行號..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr "jupyter"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1236,23 +1237,23 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:428
 msgid "xq-light"
-msgstr "xq-light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
-msgstr "zenburn"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr "sublime"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr "vim"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr "emacs"
+msgstr ""
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1589,7 +1590,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:787
 msgid "Rename %1…"
-msgstr ""
+msgstr "重新命名 %1"
 
 #: packages/docmanager-extension/src/index.ts:800
 msgid "Delete %1"
@@ -1734,7 +1735,7 @@ msgstr "文字"
 
 #: packages/docregistry/src/registry.ts:1307 packages/launcher/src/index.tsx:158 packages/launcher/src/index.tsx:163 packages/notebook-extension/src/index.ts:475 packages/notebook-extension/src/index.ts:744 packages/notebook-extension/src/index.ts:785
 msgid "Notebook"
-msgstr "Notebook"
+msgstr ""
 
 #: packages/docregistry/src/registry.ts:1332
 msgid "Directory"
@@ -2145,7 +2146,7 @@ msgstr "刪除失敗"
 
 #: packages/filebrowser/src/listing.ts:1450
 msgid "showErrorMessage"
-msgstr "showErrorMessage"
+msgstr ""
 
 #: packages/filebrowser/src/listing.ts:1452
 msgctxt "showErrorMessage"
@@ -2439,7 +2440,7 @@ msgstr "PROJECT JUPYTER 的更多資訊"
 
 #: packages/help-extension/src/index.tsx:340
 msgid "© 2015-2020 Project Jupyter Contributors"
-msgstr ""
+msgstr "© 2015-2020 Project Jupyter 協力開發人員"
 
 #: packages/help-extension/src/index.tsx:387
 msgid "Launch Classic Notebook"
@@ -2478,7 +2479,7 @@ msgstr "信任 HTML"
 
 #: packages/hub-extension/src/index.ts:103
 msgid "Hub"
-msgstr "Hub"
+msgstr ""
 
 #: packages/hub-extension/src/index.ts:157
 msgid "Server unavailable or unreachable"
@@ -2575,7 +2576,7 @@ msgstr "執行"
 
 #: packages/json-extension/src/component.tsx:67
 msgid "Filter..."
-msgstr ""
+msgstr "篩選器..."
 
 #: packages/launcher-extension/src/index.ts:101 packages/launcher-extension/src/index.ts:77
 msgid "Launcher"
@@ -3116,23 +3117,23 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr "HTML"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr "LaTeX"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr "Markdown"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr "PDF"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
-msgstr "ReStructured Text"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2527
 msgid "Executable Script"
@@ -3272,7 +3273,7 @@ msgstr ""
 
 #: packages/notebook/src/notebooktools.ts:587
 msgid "Notebook Metadata"
-msgstr "Notebook Metadata"
+msgstr ""
 
 #: packages/notebook/src/notebooktools.ts:620
 msgid "Cell Metadata"
@@ -3600,10 +3601,10 @@ msgstr "確定要重新整理嗎?"
 #. obsolete
 #: packages/fileeditor-extension/src/commands.ts:1200
 msgid "Editor"
-msgstr ""
+msgstr "編輯器"
 
 #. obsolete
 #: packages/debugger/src/panels/variables/index.ts:70
 msgid "Table / Tree View"
-msgstr ""
+msgstr "表格/樹狀檢視"
 
