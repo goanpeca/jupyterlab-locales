@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 52\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-06-29 10:07\n"
+"PO-Revision-Date: 2021-06-29 19:27\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -62,7 +62,7 @@ msgstr ""
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr ""
+msgstr "Git"
 
 #: /schema/plugin.json:40
 msgid "History count"
@@ -164,11 +164,11 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:182 src/commandsAndMenu.tsx:295 src/commandsAndMenu.tsx:743 src/commandsAndMenu.tsx:786
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: src/commandsAndMenu.tsx:183
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: src/commandsAndMenu.tsx:189
 msgid "Initializing..."
@@ -232,15 +232,15 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:296
 msgid "CLONE"
-msgstr ""
+msgstr "KLONEN"
 
 #: src/commandsAndMenu.tsx:303
 msgid "Cloning..."
-msgstr ""
+msgstr "Wird geklont ..."
 
 #: src/commandsAndMenu.tsx:313
 msgid "Successfully cloned"
-msgstr ""
+msgstr "Erfolgreich geklont"
 
 #: src/commandsAndMenu.tsx:324
 msgid "Failed to clone"
@@ -248,7 +248,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:335 src/commandsAndMenu.tsx:336
 msgid "Open .gitignore"
-msgstr ""
+msgstr ".gitignore öffnen"
 
 #: src/commandsAndMenu.tsx:345
 msgid "Push to Remote"
@@ -320,15 +320,15 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:511
 msgid "Open"
-msgstr ""
+msgstr "Öffnen"
 
 #: src/commandsAndMenu.tsx:513
 msgid "Open selected file"
-msgstr ""
+msgstr "Ausgewählte Datei öffnen"
 
 #: src/commandsAndMenu.tsx:514
 msgid "Open selected files"
-msgstr ""
+msgstr "Ausgewählte Dateien öffnen"
 
 #: src/commandsAndMenu.tsx:522
 msgid "Open File Failed"
@@ -336,7 +336,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:523
 msgid "This file has been deleted!"
-msgstr ""
+msgstr "Diese Datei wurde gelöscht!"
 
 #: src/commandsAndMenu.tsx:544
 msgid "Diff"
@@ -400,19 +400,19 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:722 src/commandsAndMenu.tsx:744
 msgid "Delete"
-msgstr ""
+msgstr "Löschen"
 
 #: src/commandsAndMenu.tsx:724
 msgid "Delete this file"
-msgstr ""
+msgstr "Diese Datei löschen"
 
 #: src/commandsAndMenu.tsx:725
 msgid "Delete these files"
-msgstr ""
+msgstr "Diese Dateien löschen"
 
 #: src/commandsAndMenu.tsx:732
 msgid "Delete Files"
-msgstr ""
+msgstr "Dateien löschen"
 
 #: src/commandsAndMenu.tsx:735
 msgid "Are you sure you want to permanently delete the following files?               This action cannot be undone."
@@ -428,7 +428,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:765 src/commandsAndMenu.tsx:787
 msgid "Discard"
-msgstr ""
+msgstr "Verwerfen"
 
 #: src/commandsAndMenu.tsx:767
 msgid "Discard recent changes of selected file"
@@ -474,7 +474,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:862
 msgid "Ignore file extension"
-msgstr ""
+msgstr "Dateiendung ignorieren"
 
 #: src/commandsAndMenu.tsx:863
 msgid "Are you sure you want to ignore all %1 files within this git repository?"
@@ -482,11 +482,11 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:869 src/commandsAndMenu.tsx:872
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorieren"
 
 #: src/commandsAndMenu.tsx:889
 msgid "No actions available"
-msgstr ""
+msgstr "Keine Aktionen verfügbar"
 
 #: src/commandsAndMenu.tsx:908
 msgid "Set Up Remotes"
@@ -494,11 +494,11 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:912
 msgid "Git Documentation"
-msgstr ""
+msgstr "Git-Dokumentation"
 
 #: src/commandsAndMenu.tsx:943
 msgid " Help "
-msgstr ""
+msgstr " Hilfe "
 
 #: src/components/BranchMenu.tsx:51
 msgid "Unable to switch branch"
@@ -554,7 +554,7 @@ msgstr ""
 
 #: src/widgets/CredentialsBox.tsx:36
 msgid "username"
-msgstr ""
+msgstr "Benutzername"
 
 #: src/widgets/CredentialsBox.tsx:37
 msgid "password / personal access token"
