@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: ar\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-06-07 15:45\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -319,7 +319,7 @@ msgstr ""
 #: /packages/debugger-extension/schema/main.json:3
 msgctxt "schema"
 msgid "Debugger settings"
-msgstr "إعدادات المنقّح"
+msgstr ""
 
 #: /packages/debugger-extension/schema/main.json:34
 msgid "Variable filter"
@@ -337,7 +337,7 @@ msgstr ""
 
 #: /packages/docmanager-extension/schema/plugin.json:22 packages/docmanager-extension/src/index.ts:693
 msgid "Autosave Documents"
-msgstr "حفظ تلقائي للمستندات"
+msgstr ""
 
 #: /packages/docmanager-extension/schema/plugin.json:23
 msgctxt "schema"
@@ -399,11 +399,11 @@ msgstr ""
 #: /packages/extensionmanager-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Extension manager settings."
-msgstr "اعدادات ادارة الحزم."
+msgstr ""
 
 #: /packages/extensionmanager-extension/schema/plugin.json:8
 msgid "Enabled Status"
-msgstr "حالة التفعيل"
+msgstr ""
 
 #: /packages/extensionmanager-extension/schema/plugin.json:9
 msgctxt "schema"
@@ -442,7 +442,7 @@ msgstr ""
 #: /packages/fileeditor-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Text Editor"
-msgstr "محرر النص"
+msgstr ""
 
 #: /packages/fileeditor-extension/schema/plugin.json:5
 msgctxt "schema"
@@ -949,7 +949,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/index.ts:282
 msgid "Print..."
-msgstr ""
+msgstr "طباعة..."
 
 #: packages/apputils-extension/src/index.ts:407
 msgid "Reset Application State"
