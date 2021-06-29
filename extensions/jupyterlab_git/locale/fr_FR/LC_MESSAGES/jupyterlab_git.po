@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
-"X-Crowdin-File-ID: 28\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
+"X-Crowdin-File-ID: 52\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-04-30 17:48\n"
+"PO-Revision-Date: 2021-06-29 10:07\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -62,7 +62,7 @@ msgstr "Si vrai, un double clic sur un fichier dans la liste des fichiers modifi
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr "Git"
+msgstr ""
 
 #: /schema/plugin.json:40
 msgid "History count"
@@ -75,7 +75,7 @@ msgstr "Nombre de commits (plus récents) affichés dans l'historique"
 
 #: /schema/plugin.json:46
 msgid "Refresh if the Git tab is hidden"
-msgstr "Actualiser si l'onglet Git est caché"
+msgstr ""
 
 #: /schema/plugin.json:47
 msgctxt "schema"
@@ -116,451 +116,451 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:117
 msgid "Commit from the Commit Box"
-msgstr "Valider depuis la boîte de validation"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1172
 msgid "Git credentials required"
-msgstr "Informations d'identification Git requises"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1175 src/widgets/CredentialsBox.tsx:14
 msgid "Enter credentials for remote repository"
-msgstr "Entrez vos informations d'identification pour le dépôt distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1176
 msgid "Incorrect username or password."
-msgstr "Nom d'utilisateur ou mot de passe incorrect."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:118
 msgid "Submit the commit using the summary and description from commit box"
-msgstr "Soumettre le commit en utilisant le résumé et la description de la boîte de validation"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:129
 msgid "Open Git Repository in Terminal"
-msgstr "Ouvrir le dépôt Git dans le terminal"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:130
 msgid "Open a New Terminal to the Git Repository"
-msgstr "Ouvrez un Nouveau Terminal dans le Dépôt Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:159
 msgid "Git Interface"
-msgstr "Interface Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:160
 msgid "Go to Git user interface"
-msgstr "Aller à l'interface utilisateur de Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:172 src/commandsAndMenu.tsx:179
 msgid "Initialize a Repository"
-msgstr "Initialiser un Dépôt"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:173
 msgid "Create an empty Git repository or reinitialize an existing one"
-msgstr "Créer un référentiel Git vide ou réinitialiser un référentiel existant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:180
 msgid "Do you really want to make this directory a Git Repo?"
-msgstr "Êtes-vous sûr de vouloir faire de ce répertoire un dépôt Git?"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:182 src/commandsAndMenu.tsx:295 src/commandsAndMenu.tsx:743 src/commandsAndMenu.tsx:786
 msgid "Cancel"
-msgstr "Annuler"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:183
 msgid "Yes"
-msgstr "Oui"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:189
 msgid "Initializing..."
-msgstr "Initialisation..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:196
 msgid "Git repository initialized."
-msgstr "Dépôt Git initialisé."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:201
 msgid "Encountered an error when initializing the repository. Error: "
-msgstr "Une erreur s'est produite lors de l'initialisation du dépôt. Erreur: "
+msgstr ""
 
 #: src/commandsAndMenu.tsx:207
 msgid "Failed to initialize the Git repository"
-msgstr "L'initialisation du dépôt Git a échoué"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:228
 msgid "Simple staging"
-msgstr "Indexation Simple"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:237
 msgid "Double click opens diff"
-msgstr "Double clic ouvre les différences"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:246
 msgid "Add Remote Repository"
-msgstr "Ajouter un Dépôt Distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:247
 msgid "Add a Git remote repository"
-msgstr "Ajouter un dépôt Git distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:252
 msgid "Not in a Git repository. Unable to add a remote."
-msgstr "Pas dans un dépôt Git. Impossible d'ajouter un dépôt distant."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:261
 msgid "Add a remote repository"
-msgstr "Ajouter un dépôt distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:262
 msgid "Remote Git repository URL"
-msgstr "URL du dépôt Git distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:276
 msgid "Error when adding remote repository"
-msgstr "Erreur produite lors de l'ajout d'un dépôt distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:286
 msgid "Clone a Repository"
-msgstr "Cloner un dépôt"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:287
 msgid "Clone a repository from a URL"
-msgstr "Cloner un dépôt à partir d'un URL"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:291
 msgid "Clone a repo"
-msgstr "Cloner un dépôt"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:296
 msgid "CLONE"
-msgstr "CLONER"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:303
 msgid "Cloning..."
-msgstr "Clonage en cours..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:313
 msgid "Successfully cloned"
-msgstr "Clonage a réussi"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:324
 msgid "Failed to clone"
-msgstr "Clonage a échoué"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:335 src/commandsAndMenu.tsx:336
 msgid "Open .gitignore"
-msgstr "Ouvrir .gitignore"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:345
 msgid "Push to Remote"
-msgstr "Pousser vers un dépôt distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:346
 msgid "Push code to remote repository"
-msgstr "Pousser le code vers le dépôt distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:351
 msgid "Pushing..."
-msgstr "Poussage en cours..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:360
 msgid "Successfully pushed"
-msgstr "Poussage a réussi"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:366
 msgid "Encountered an error when pushing changes. Error: "
-msgstr "Une erreur s'est produite lors du poussage des modifications. Erreur: "
+msgstr ""
 
 #: src/commandsAndMenu.tsx:370
 msgid "Failed to push"
-msgstr "Poussage a échoué"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:380
 msgid "Pull from Remote"
-msgstr "Tirer Depuis un Dépôt Distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:381
 msgid "Pull latest code from remote repository"
-msgstr "Tirer le dernier code du dépôt distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:386
 msgid "Pulling..."
-msgstr "Tirage en cours..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:395
 msgid "Successfully pulled"
-msgstr "Tirée avec succès"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:405
 msgid "Failed to pull"
-msgstr "Tirage a échoué"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:421
 msgid "Show Diff"
-msgstr "Afficher les différences"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:422
 msgid "Display a file diff."
-msgstr "Afficher le diff d'un fichier."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:468
 msgid "Refresh"
-msgstr "Actualiser"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:473
 msgid "Refresh diff widget"
-msgstr "Actualiser le widget de diff"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:496
 msgid "Diff Not Supported"
-msgstr "Diff non pris en charge"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:497
 msgid "Diff is not supported for %1 files."
-msgstr "Diff n'est pas pris en charge pour les fichiers %1."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:511
 msgid "Open"
-msgstr "Ouvrir"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:513
 msgid "Open selected file"
-msgstr "Ouvrir le fichier sélectionné"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:514
 msgid "Open selected files"
-msgstr "Ouvrir les fichiers sélectionnés"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:522
 msgid "Open File Failed"
-msgstr "L'ouverture du fichier a échoué"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:523
 msgid "This file has been deleted!"
-msgstr "Ce fichier a été supprimé!"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:544
 msgid "Diff"
-msgstr "Diff"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:546
 msgid "Diff selected file"
-msgstr "Diff le fichier sélectionné"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:547
 msgid "Diff selected files"
-msgstr "Diff les fichiers sélectionnés"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:651
 msgid "Add"
-msgstr "Ajouter"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:653
 msgid "Stage or track the changes to selected file"
-msgstr "Stage or track the changes to selected file"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:654
 msgid "Stage or track the changes of selected files"
-msgstr "Indexer ou suivre les modifications apportées aux fichiers sélectionnés"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:666
 msgid "Stage"
-msgstr "Indexer"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:668
 msgid "Stage the changes of selected file"
-msgstr "Indexer les modifications du fichier sélectionné"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:669
 msgid "Stage the changes of selected files"
-msgstr "Indexer les modifications apportées aux fichiers sélectionnés"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:681
 msgid "Track"
-msgstr "Suivre"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:683
 msgid "Start tracking selected file"
-msgstr "Commencer à suivre le fichier sélectionné"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:684
 msgid "Start tracking selected files"
-msgstr "Commencer à suivre les fichiers sélectionnés"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:696
 msgid "Unstage"
-msgstr "Désindexer"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:698
 msgid "Unstage the changes of selected file"
-msgstr "Désindexer les modifications du fichier sélectionné"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:699
 msgid "Unstage the changes of selected files"
-msgstr "Désindexer les modifications apportées aux fichiers sélectionnés"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:722 src/commandsAndMenu.tsx:744
 msgid "Delete"
-msgstr "Supprimer"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:724
 msgid "Delete this file"
-msgstr "Supprimer ce fichier"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:725
 msgid "Delete these files"
-msgstr "Supprimer ces fichiers"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:732
 msgid "Delete Files"
-msgstr "Supprimer ces fichiers"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:735
 msgid "Are you sure you want to permanently delete the following files?               This action cannot be undone."
-msgstr "Êtes-vous sûr de vouloir supprimer définitivement les fichiers suivants? Cette action est irréversible."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:754
 msgid "Deleting %1 failed."
-msgstr "La suppression de %1 a échoué."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:755 src/commandsAndMenu.tsx:810 src/index.ts:128
 msgid "DISMISS"
-msgstr "REJETER"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:765 src/commandsAndMenu.tsx:787
 msgid "Discard"
-msgstr "Abandonner"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:767
 msgid "Discard recent changes of selected file"
-msgstr "Annuler les modifications récentes du fichier sélectionné"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:768
 msgid "Discard recent changes of selected files"
-msgstr "Annuler les modifications récentes apportées aux fichiers sélectionnés"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:775
 msgid "Discard changes"
-msgstr "Annuler les modifications"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:778
 msgid "Are you sure you want to permanently discard changes to the following files?               This action cannot be undone."
-msgstr "Êtes-vous sûr de vouloir supprimer définitivement les modifications aux fichiers suivants? Cette action ne peut pas être annulée."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:808
 msgid "Discard changes for %1 failed."
-msgstr "La suppression des modifications pour %1 a échoué."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:821 src/commandsAndMenu.tsx:825
 msgid "Ignore this file (add to .gitignore)"
-msgstr "Ignorer ce fichier (ajouter à .gitignore)"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:822 src/commandsAndMenu.tsx:826
 msgid "Ignore these files (add to .gitignore)"
-msgstr "Ignorer ces fichiers (ajouter à .gitignore)"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:844
 msgid "Ignore %2 extension (add to .gitignore)"
 msgid_plural "Ignore %2 extensions (add to .gitignore)"
-msgstr[0] "Ignorer l'extension %2 (ajouter à .gitignore)"
-msgstr[1] "Ignorer les extensions %2 (ajouter à .gitignore)"
+msgstr[0] ""
+msgstr[1] ""
 
 #: src/commandsAndMenu.tsx:852
 msgid "Ignore this file extension (add to .gitignore)"
-msgstr "Ignorer cette extension de fichier (ajouter à .gitignore)"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:853
 msgid "Ignore these files extension (add to .gitignore)"
-msgstr "Ignorer ces extensions de fichier (ajouter à .gitignore)"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:862
 msgid "Ignore file extension"
-msgstr "Ignorer cette extension de fichier"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:863
 msgid "Are you sure you want to ignore all %1 files within this git repository?"
-msgstr "Êtes-vous sûr de vouloir ignorer tous les fichiers %1 de ce dépôt Git?"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:869 src/commandsAndMenu.tsx:872
 msgid "Ignore"
-msgstr "Ignorer"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:889
 msgid "No actions available"
-msgstr "Aucune action disponible"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:908
 msgid "Set Up Remotes"
-msgstr "Mise en place d'un dépôt distant"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:912
 msgid "Git Documentation"
-msgstr "Documentation Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:943
 msgid " Help "
-msgstr " Aide "
+msgstr ""
 
 #: src/components/BranchMenu.tsx:51
 msgid "Unable to switch branch"
-msgstr "Impossible de changer de branche"
+msgstr ""
 
 #: src/components/BranchMenu.tsx:55 src/components/TagMenu.tsx:49
 msgid "Your changes to the following files would be overwritten by switching:"
-msgstr "Vos modifications apportées aux fichiers suivants seraient écrasées:"
+msgstr ""
 
 #: src/components/BranchMenu.tsx:63
 msgid "Please commit, stash, or discard your changes before you switch branches."
-msgstr "Veuillez valider, remiser ou annuler vos modifications avant de changer de branche."
+msgstr ""
 
 #: src/components/BranchMenu.tsx:69 src/components/TagMenu.tsx:63
 msgid "Dismiss"
-msgstr "Rejeter"
+msgstr ""
 
 #: src/components/BranchMenu.tsx:74
 msgid "Failed to switch branch."
-msgstr "Échec du changement de branche."
+msgstr ""
 
 #: src/components/TagMenu.tsx:45
 msgid "Unable to checkout tag"
-msgstr "Impossible d'extraire l'étiquette"
+msgstr ""
 
 #: src/components/TagMenu.tsx:57
 msgid "Please commit, stash, or discard your changes before you checkout tags."
-msgstr "Veuillez valider, remiser ou annuler vos modifications avant d'extraire des étiquettes."
+msgstr ""
 
 #: src/components/TagMenu.tsx:68
 msgid "Failed to checkout tag."
-msgstr "Impossible d'extraire l'étiquette."
+msgstr ""
 
 #: src/index.ts:102
 msgid "git command version must be > 2; got %1."
-msgstr "la version de la commande git doit être > 2; obtenu %1."
+msgstr ""
 
 #: src/index.ts:109
 msgid "The versions of the JupyterLab Git server frontend and backend do not match. The @jupyterlab/git frontend extension has version: %1 while the python package has version %2. Please install identical version of jupyterlab-git Python package and the @jupyterlab/git extension. Try running: pip install --upgrade jupyterlab-git"
-msgstr "Les versions du frontend et du backend du serveur JupyterLab Git ne correspondent pas. L'extension frontend @jupyterlab/git contient la version: %1 tandis que le paquetage Python contient la version %2. Veuillez installer une version identique du paquetage Python jupyterlab-git et l'extension@jupyterlab/git. Essayez d'exécuter: pip install --upgrade jupyterlab-git"
+msgstr ""
 
 #: src/index.ts:126
 msgid "Failed to load the jupyterlab-git server extension"
-msgstr "Impossible de charger l'extension de serveur jupyterlab-git"
+msgstr ""
 
 #: src/index.ts:94
 msgid "git command not found - please ensure you have Git > 2 installed"
-msgstr "commande git est introuvable - veuillez vous assurer que Git > 2 est installé"
+msgstr ""
 
 #: src/server.ts:27
 msgid "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list."
-msgstr "L'extension de serveur Git n'est pas disponible. Veuillez vous assurer que vous avez installé l'extension de serveur JupyterLab Git en exécutant: pip install --upgrade jupyterlab-git. Pour confirmer que l'extension de serveur est installée, exécutez: jupyter server extension list."
+msgstr ""
 
 #: src/widgets/CredentialsBox.tsx:36
 msgid "username"
-msgstr "nom d'utilisateur"
+msgstr ""
 
 #: src/widgets/CredentialsBox.tsx:37
 msgid "password / personal access token"
-msgstr "mot de passe / jeton d'accès personnel"
+msgstr ""
 
 #: src/widgets/GitCloneForm.ts:30
 msgid "Enter the Clone URI of the repository"
-msgstr "Entrez l'URI de clonage du dépôt"
+msgstr ""
 
