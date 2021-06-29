@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: ja\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2021-04-25 22:36\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -236,7 +236,7 @@ msgstr "選択範囲ポインター"
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr "CodeMirror"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
@@ -245,7 +245,7 @@ msgstr "値は真偽値または文字列です。例: 'pointer'"
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr "Ctrl-C"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
@@ -540,7 +540,7 @@ msgstr "メインJupyterLabメニューの設定。"
 #: /packages/notebook-extension/schema/tracker.json:221
 msgctxt "schema"
 msgid "Notebook"
-msgstr "Notebook"
+msgstr ""
 
 #: /packages/notebook-extension/schema/tracker.json:222
 msgctxt "schema"
@@ -947,7 +947,8 @@ msgstr "読み込み中…"
 #: packages/apputils-extension/src/index.ts:213
 msgid "The loading screen is taking a long time. \n"
 "Would you like to clear the workspace or keep waiting?"
-msgstr ""
+msgstr "画面の読み込みに時間がかかっています。\n"
+"ワークスペースをクリアしますか、それとも待ち続けますか?"
 
 #: packages/apputils-extension/src/index.ts:216
 msgid "Keep Waiting"
@@ -959,7 +960,7 @@ msgstr "ワークスペースのクリア"
 
 #: packages/apputils-extension/src/index.ts:282
 msgid "Print..."
-msgstr ""
+msgstr "印刷..."
 
 #: packages/apputils-extension/src/index.ts:407
 msgid "Reset Application State"
@@ -1123,7 +1124,7 @@ msgstr "テーマの読み込みエラー"
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: packages/apputils/src/toolbar.tsx:386
 msgid "Interrupt the kernel"
@@ -1175,11 +1176,11 @@ msgstr "テキストエディタのシンタックスハイライト"
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr "codemirror"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr "Sublime Text"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1191,7 +1192,7 @@ msgstr "行へ移動..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr "jupyter"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1199,67 +1200,67 @@ msgstr "デフォルト"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr "abcdef"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
-msgstr "base16-dark"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:419
 msgid "base16-light"
-msgstr "base16-light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:420
 msgid "hopscotch"
-msgstr "hopscotch"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:421
 msgid "material"
-msgstr "material"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr "mbo"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
-msgstr "mdn-like"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr "seti"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
-msgstr "solarized dark"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:426
 msgid "solarized light"
-msgstr "solarized light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:427
 msgid "the-matrix"
-msgstr "the-matrix"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:428
 msgid "xq-light"
-msgstr "xq-light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
-msgstr "zenburn"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr "sublime"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr "vim"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr "emacs"
+msgstr ""
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1526,7 +1527,7 @@ msgstr "現在のウィジェットにコンテキストが見つかりません
 
 #: packages/docmanager-extension/src/index.ts:512 packages/docmanager-extension/src/index.ts:557 packages/docmanager-extension/src/index.ts:603 packages/docmanager-extension/src/index.ts:610 packages/docmanager-extension/src/index.ts:664 packages/notebook/src/actions.tsx:1405 packages/notebook/src/actions.tsx:1414 packages/notebook/src/actions.tsx:1604 packages/notebook/src/default-toolbar.tsx:69 packages/notebook/src/model.ts:295 packages/notebook/src/panel.ts:208 packages/settingeditor/src/plugineditor.ts:149 packages/settingeditor/src/plugineditor.ts:271 packages/translation-extension/src/index.ts:145
 msgid "Ok"
-msgstr "Ok"
+msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:518
 msgid "Are you sure you want to reload the %1 from the disk?"
@@ -1606,7 +1607,7 @@ msgstr "%1 の新しいビュー"
 
 #: packages/docmanager-extension/src/index.ts:787
 msgid "Rename %1…"
-msgstr ""
+msgstr "%1の名前を変更…"
 
 #: packages/docmanager-extension/src/index.ts:800
 msgid "Delete %1"
@@ -1750,7 +1751,7 @@ msgstr "テキスト"
 
 #: packages/docregistry/src/registry.ts:1307 packages/launcher/src/index.tsx:158 packages/launcher/src/index.tsx:163 packages/notebook-extension/src/index.ts:475 packages/notebook-extension/src/index.ts:744 packages/notebook-extension/src/index.ts:785
 msgid "Notebook"
-msgstr "Notebook"
+msgstr ""
 
 #: packages/docregistry/src/registry.ts:1332
 msgid "Directory"
@@ -2162,7 +2163,7 @@ msgstr "削除に失敗"
 
 #: packages/filebrowser/src/listing.ts:1450
 msgid "showErrorMessage"
-msgstr "showErrorMessage"
+msgstr ""
 
 #: packages/filebrowser/src/listing.ts:1452
 msgctxt "showErrorMessage"
@@ -2420,7 +2421,7 @@ msgstr "JupyterLab リファレンス"
 
 #: packages/help-extension/src/index.tsx:112
 msgid "JupyterLab FAQ"
-msgstr "JupyterLab FAQ"
+msgstr ""
 
 #: packages/help-extension/src/index.tsx:117
 msgid "Jupyter Reference"
@@ -2495,7 +2496,7 @@ msgstr "HTMLを信用する"
 
 #: packages/hub-extension/src/index.ts:103
 msgid "Hub"
-msgstr "Hub"
+msgstr ""
 
 #: packages/hub-extension/src/index.ts:157
 msgid "Server unavailable or unreachable"
@@ -2593,7 +2594,7 @@ msgstr "実行"
 
 #: packages/json-extension/src/component.tsx:67
 msgid "Filter..."
-msgstr ""
+msgstr "フィルタ..."
 
 #: packages/launcher-extension/src/index.ts:101 packages/launcher-extension/src/index.ts:77
 msgid "Launcher"
@@ -3134,23 +3135,23 @@ msgstr "Notebook:"
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr "HTML"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr "LaTeX"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr "Markdown"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr "PDF"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
-msgstr "ReStructured Text"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2527
 msgid "Executable Script"
@@ -3254,7 +3255,7 @@ msgstr "コード"
 
 #: packages/notebook/src/default-toolbar.tsx:345
 msgid "Raw"
-msgstr "Raw"
+msgstr ""
 
 #: packages/notebook/src/default-toolbar.tsx:85
 msgid "Save the notebook contents and create checkpoint"
@@ -3504,7 +3505,7 @@ msgstr "1 から %1 の行番号に移動"
 
 #: packages/statusbar/src/defaults/lineCol.tsx:238
 msgid "Ln %1, Col %2"
-msgstr "Ln %1, Col %2"
+msgstr ""
 
 #: packages/statusbar/src/defaults/lineCol.tsx:239
 msgid "Go to line number…"
@@ -3633,10 +3634,10 @@ msgstr "更新してよろしいですか?"
 #. obsolete
 #: packages/fileeditor-extension/src/commands.ts:1200
 msgid "Editor"
-msgstr ""
+msgstr "エディタ"
 
 #. obsolete
 #: packages/debugger/src/panels/variables/index.ts:70
 msgid "Table / Tree View"
-msgstr ""
+msgstr "表 / ツリービュー"
 
