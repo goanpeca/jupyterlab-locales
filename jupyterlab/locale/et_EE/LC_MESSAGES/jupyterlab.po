@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: et\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Estonian\n"
 "Language: et_EE\n"
-"PO-Revision-Date: 2021-04-25 22:37\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -230,7 +230,7 @@ msgstr ""
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr "CodeMirror"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
@@ -239,7 +239,7 @@ msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr "Ctrl-C"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
@@ -948,7 +948,7 @@ msgstr "Tühjenda tööala"
 
 #: packages/apputils-extension/src/index.ts:282
 msgid "Print..."
-msgstr ""
+msgstr "Prindi..."
 
 #: packages/apputils-extension/src/index.ts:407
 msgid "Reset Application State"
@@ -1112,7 +1112,7 @@ msgstr ""
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: packages/apputils/src/toolbar.tsx:386
 msgid "Interrupt the kernel"
@@ -1164,11 +1164,11 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr "codemirror"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr "Sublime Text"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1180,7 +1180,7 @@ msgstr "Mine reale..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr "jupyter"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1188,7 +1188,7 @@ msgstr "vaikeväärtus"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr "abcdef"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
@@ -1200,15 +1200,15 @@ msgstr "base16-hele"
 
 #: packages/codemirror-extension/src/index.ts:420
 msgid "hopscotch"
-msgstr "hopscotch"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:421
 msgid "material"
-msgstr "material"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr "mbo"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
@@ -1216,7 +1216,7 @@ msgstr "mdn-sarnane"
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr "seti"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
@@ -1240,15 +1240,15 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr "sublime"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr "vim"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr "emacs"
+msgstr ""
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1356,7 +1356,7 @@ msgstr "Kaust: %1\n"
 
 #: packages/console/src/panel.ts:318
 msgid "Kernel: %1"
-msgstr "Kernel: %1"
+msgstr ""
 
 #: packages/console/src/panel.ts:321
 msgid "\n"
@@ -2224,8 +2224,7 @@ msgstr ""
 #: packages/filebrowser/src/listing.ts:836
 msgid "%1\n"
 "Kernel: %2"
-msgstr "%1\n"
-"Kernel: %2"
+msgstr ""
 
 #: packages/filebrowser/src/listing.ts:981
 msgctxt "showErrorMessage"
@@ -2433,7 +2432,7 @@ msgstr "PROJEKTI JUPYTER INFO"
 
 #: packages/help-extension/src/index.tsx:340
 msgid "© 2015-2020 Project Jupyter Contributors"
-msgstr ""
+msgstr "© 2015-2020 Projekti Jupyter kaastöölised"
 
 #: packages/help-extension/src/index.tsx:387
 msgid "Launch Classic Notebook"
@@ -2472,7 +2471,7 @@ msgstr ""
 
 #: packages/hub-extension/src/index.ts:103
 msgid "Hub"
-msgstr "Hub"
+msgstr ""
 
 #: packages/hub-extension/src/index.ts:157
 msgid "Server unavailable or unreachable"
@@ -2614,7 +2613,7 @@ msgstr "Kriitiline"
 
 #: packages/logconsole-extension/src/index.tsx:411
 msgid "Info"
-msgstr "Info"
+msgstr ""
 
 #: packages/logconsole-extension/src/index.tsx:412
 msgid "Debug"
@@ -2750,7 +2749,7 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:513
 msgid "Kernel"
-msgstr "Kernel"
+msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:526
 msgid "Reconnect to Kernel"
@@ -3110,19 +3109,19 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr "HTML"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr "LaTeX"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr "Markdown"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr "PDF"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
@@ -3286,7 +3285,7 @@ msgstr ""
 
 #: packages/notebook/src/notebooktools.ts:889
 msgid "Fragment"
-msgstr "Fragment"
+msgstr ""
 
 #: packages/notebook/src/notebooktools.ts:89
 msgid "Advanced Tools"
@@ -3593,7 +3592,7 @@ msgstr "Oled sa kindel, et soovid värskendada?"
 #. obsolete
 #: packages/fileeditor-extension/src/commands.ts:1200
 msgid "Editor"
-msgstr ""
+msgstr "Redaktor"
 
 #. obsolete
 #: packages/debugger/src/panels/variables/index.ts:70
