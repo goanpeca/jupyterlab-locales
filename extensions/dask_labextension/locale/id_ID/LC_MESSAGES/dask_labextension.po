@@ -8,32 +8,32 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: id\n"
-"X-Crowdin-File: /master/extensions/dask_labextension/locale/dask_labextension.pot\n"
-"X-Crowdin-File-ID: 26\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/dask_labextension/locale/dask_labextension.pot\n"
+"X-Crowdin-File-ID: 50\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-23 15:45\n"
+"PO-Revision-Date: 2021-06-29 10:07\n"
 
 #: /schema/plugin.json:14
 msgid "Auto-Start Client"
-msgstr "Klien Pengasutan Otomatik"
+msgstr ""
 
 #: /schema/plugin.json:15
 msgctxt "schema"
 msgid "If set to true, every notebook and console will automatically have a dask client for the active cluster injected into the kernel under the name 'client'"
-msgstr "Jika disetel ke TRUE, setiap komputer notebook dan konsol akan secara otomatis memiliki klien Dask untuk kluster aktif yang disuntikkan ke kernal dengan nama 'klien'"
+msgstr ""
 
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Dask Dashboard"
-msgstr "Dasbor Dask"
+msgstr ""
 
 #: /schema/plugin.json:5
 msgctxt "schema"
 msgid "Settings for the Dask Dashboard plugin."
-msgstr "Pengaturan untuk pengaya Dasbor Dask."
+msgstr ""
 
 #: /schema/plugin.json:9
 msgid "Default URL for the Dask Dashboard Webserver"
-msgstr "URL Bawaan untuk Dasbor Dask Server Web"
+msgstr ""
 
