@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
-"X-Crowdin-File-ID: 28\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
+"X-Crowdin-File-ID: 52\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2021-04-24 09:33\n"
+"PO-Revision-Date: 2021-06-29 10:07\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -62,7 +62,7 @@ msgstr "Doğruysa, değiştirilen dosyalar listesindeki bir dosyaya çift tıkla
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr "Git"
+msgstr ""
 
 #: /schema/plugin.json:40
 msgid "History count"
@@ -75,12 +75,12 @@ msgstr "Geçmiş günlüğünde gösterilen (en son) taahhütlerin sayısı"
 
 #: /schema/plugin.json:46
 msgid "Refresh if the Git tab is hidden"
-msgstr "Git sekmesi saklanmış ise yenile"
+msgstr ""
 
 #: /schema/plugin.json:47
 msgctxt "schema"
 msgid "Whether to check Git status when the Git tab is not visible. Choose `false` for higher performance."
-msgstr "Git sekmesi görünmez iken Git durumunun kontrol edilip edilmemesi. Yüksek performans için 'False' seçiniz."
+msgstr ""
 
 #: /schema/plugin.json:5
 msgctxt "schema"
@@ -107,7 +107,7 @@ msgstr "Doğruysa, basitleştirilmiş bir evreleme kavramı kullanın. Yalnızca
 
 #: /schema/plugin.json:64
 msgid "Trigger push on commit"
-msgstr "Atama sırasında itme işlemini gerçekleştir"
+msgstr ""
 
 #: /schema/plugin.json:65
 msgctxt "schema"
@@ -144,111 +144,111 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:159
 msgid "Git Interface"
-msgstr "Git arayüzü"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:160
 msgid "Go to Git user interface"
-msgstr "Git kullanıcı arayüzüne gidiniz"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:172 src/commandsAndMenu.tsx:179
 msgid "Initialize a Repository"
-msgstr "Git deponuzu başlatın"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:173
 msgid "Create an empty Git repository or reinitialize an existing one"
-msgstr "Boş bir Git deposu oluşturun veya mevcut bir tanesini yeniden başlatın"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:180
 msgid "Do you really want to make this directory a Git Repo?"
-msgstr "Bu klasörü bir git deposu yapmayı gerçekten istiyor musunuz?"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:182 src/commandsAndMenu.tsx:295 src/commandsAndMenu.tsx:743 src/commandsAndMenu.tsx:786
 msgid "Cancel"
-msgstr "İptal"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:183
 msgid "Yes"
-msgstr "Evet"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:189
 msgid "Initializing..."
-msgstr "Başlatılıyor ..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:196
 msgid "Git repository initialized."
-msgstr "Git deposu başlatıldı."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:201
 msgid "Encountered an error when initializing the repository. Error: "
-msgstr "Depoyu başlatırken bir hata ile karşılaşıldı. Hata:"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:207
 msgid "Failed to initialize the Git repository"
-msgstr "Git deposu başlatma başarısızdır"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:228
 msgid "Simple staging"
-msgstr "Basit evreleme"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:237
 msgid "Double click opens diff"
-msgstr "Çift tıklama farkları açar"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:246
 msgid "Add Remote Repository"
-msgstr "Uzak depoyu ekleyin"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:247
 msgid "Add a Git remote repository"
-msgstr "Uzak bir depoyu ekleyin"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:252
 msgid "Not in a Git repository. Unable to add a remote."
-msgstr "Bir Git deposunda değildir. Uzaktaki eklenememektedir."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:261
 msgid "Add a remote repository"
-msgstr "Uzak bir depoyu ekleyin"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:262
 msgid "Remote Git repository URL"
-msgstr "Uzaktaki Git deposu URL'si"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:276
 msgid "Error when adding remote repository"
-msgstr "Uzaktaki depo eklenirken hata oluştu"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:286
 msgid "Clone a Repository"
-msgstr "Bir depoyu çoğaltın "
+msgstr ""
 
 #: src/commandsAndMenu.tsx:287
 msgid "Clone a repository from a URL"
-msgstr "Bir URL'den depoyu çoğaltın"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:291
 msgid "Clone a repo"
-msgstr "Bir depoyu çoğaltın"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:296
 msgid "CLONE"
-msgstr "ÇOĞALTIN"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:303
 msgid "Cloning..."
-msgstr "Çoğaltılıyor..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:313
 msgid "Successfully cloned"
-msgstr "Başarıyla çoğaltıldı"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:324
 msgid "Failed to clone"
-msgstr "Çoğaltma başarısız"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:335 src/commandsAndMenu.tsx:336
 msgid "Open .gitignore"
-msgstr ".gitignore açınız"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:345
 msgid "Push to Remote"
