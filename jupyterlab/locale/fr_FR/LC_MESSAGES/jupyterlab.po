@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"PO-Revision-Date: 2021-06-29 18:06\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -544,7 +544,7 @@ msgstr "Paramètres du menu principal de JupyterLab."
 #: /packages/notebook-extension/schema/tracker.json:221
 msgctxt "schema"
 msgid "Notebook"
-msgstr ""
+msgstr "Notebook"
 
 #: /packages/notebook-extension/schema/tracker.json:222
 msgctxt "schema"
@@ -670,7 +670,7 @@ msgstr "Famille de polices utilisée pour afficher le texte."
 #: /packages/terminal-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: /packages/terminal-extension/schema/plugin.json:40
 msgid "Font size"
@@ -928,7 +928,7 @@ msgstr "Mode Présentation"
 
 #: packages/application-extension/src/index.tsx:821 packages/statusbar-extension/src/index.ts:379
 msgid "Simple Interface"
-msgstr ""
+msgstr "Interface simplifiée"
 
 #: packages/application-extension/src/index.tsx:935
 msgid "Property Inspector"
@@ -1130,7 +1130,7 @@ msgstr "Erreur lors du chargement du thème"
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: packages/apputils/src/toolbar.tsx:386
 msgid "Interrupt the kernel"
@@ -1154,7 +1154,7 @@ msgstr "Ajouter une étiquette"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
-msgstr ""
+msgstr "Tags de cellule"
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
@@ -1186,7 +1186,7 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr ""
+msgstr "Sublime Text"
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1198,7 +1198,7 @@ msgstr "Aller à la ligne..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr ""
+msgstr "jupyter"
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1206,7 +1206,7 @@ msgstr "défaut"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr ""
+msgstr "abcdef"
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
@@ -1266,7 +1266,7 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1966,7 +1966,8 @@ msgstr ""
 #: packages/extensionmanager/src/widget.tsx:386
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    apply following instructions."
-msgstr ""
+msgstr "Ceci est une extension préconstruite. Pour la désinstaller, veuillez\n"
+"    appliquer les instructions suivantes."
 
 #: packages/extensionmanager/src/widget.tsx:396
 msgid "This is a prebuilt extension. To uninstall it, please\n"
@@ -3161,19 +3162,19 @@ msgstr "Pour le notebook:"
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr ""
+msgstr "LaTeX"
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr ""
+msgstr "Markdown"
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
@@ -3193,7 +3194,7 @@ msgstr "Diapositives"
 
 #: packages/notebook-extension/src/index.ts:474
 msgid "Script"
-msgstr ""
+msgstr "Script"
 
 #: packages/notebook-extension/src/index.ts:476
 msgid "Custom"
@@ -3345,7 +3346,7 @@ msgstr "Sous-diapositive"
 
 #: packages/notebook/src/notebooktools.ts:889
 msgid "Fragment"
-msgstr ""
+msgstr "Fragment"
 
 #: packages/notebook/src/notebooktools.ts:89
 msgid "Advanced Tools"
@@ -3423,15 +3424,15 @@ msgstr "Onglets ouverts"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr ""
+msgstr "Fermer tous"
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir fermer tous les onglets ?"
 
 #: packages/running/src/index.tsx:294
 msgid "Refresh List"
