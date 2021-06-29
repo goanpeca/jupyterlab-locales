@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: he\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2021-04-26 22:55\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -125,12 +125,12 @@ msgstr "מעקפים"
 
 #: /packages/apputils-extension/schema/palette.json:13
 msgid "Modal Command Palette"
-msgstr "לוח פקודות מרחף"
+msgstr ""
 
 #: /packages/apputils-extension/schema/palette.json:14
 msgctxt "schema"
 msgid "Whether the command palette should be modal or in the left panel."
-msgstr "האם לוח הפקודות ירחף או יופיע בחלונית משמאל."
+msgstr ""
 
 #: /packages/apputils-extension/schema/palette.json:2
 msgctxt "schema"
@@ -239,7 +239,7 @@ msgstr "מצביע בחירה"
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr "CodeMirror"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
@@ -248,7 +248,7 @@ msgstr "הערך הוא בוליאני או מחרוזת, למשל „pointer”
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr "Ctrl-C"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
@@ -928,7 +928,7 @@ msgstr "מצב מצגת"
 
 #: packages/application-extension/src/index.tsx:821 packages/statusbar-extension/src/index.ts:379
 msgid "Simple Interface"
-msgstr "מנשק פשוט"
+msgstr ""
 
 #: packages/application-extension/src/index.tsx:935
 msgid "Property Inspector"
@@ -1002,7 +1002,7 @@ msgstr "עיצוב סרגלי הגלילה"
 
 #: packages/apputils-extension/src/themesplugins.ts:117
 msgid "waiting for fonts"
-msgstr "בהמתנה לגופנים"
+msgstr ""
 
 #: packages/apputils-extension/src/themesplugins.ts:165
 msgid "JupyterLab Theme"
@@ -1154,7 +1154,7 @@ msgstr "הוספת תגית"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
-msgstr "תגיות תא"
+msgstr ""
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
@@ -1182,11 +1182,11 @@ msgstr "הדגשת התחביר של עורך הטקסט"
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr "codemirror"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr "Sublime Text"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1198,7 +1198,7 @@ msgstr "מעבר לשורה…"
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr "jupyter"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1206,7 +1206,7 @@ msgstr "בררת מחדל"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr "abcdef"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
@@ -1218,15 +1218,15 @@ msgstr "בסיס16-בהיר"
 
 #: packages/codemirror-extension/src/index.ts:420
 msgid "hopscotch"
-msgstr "hopscotch"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:421
 msgid "material"
-msgstr "material"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr "mbo"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
@@ -1234,7 +1234,7 @@ msgstr "דמוי-mdn"
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr "seti"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
@@ -1250,23 +1250,23 @@ msgstr "המטריקס"
 
 #: packages/codemirror-extension/src/index.ts:428
 msgid "xq-light"
-msgstr "xq-light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
-msgstr "zenburn"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr "sublime"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr "vim"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr "emacs"
+msgstr ""
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1398,15 +1398,15 @@ msgstr "מעבר לשורה"
 
 #: packages/csvviewer/src/toolbar.ts:128
 msgid "tab"
-msgstr "tab"
+msgstr ""
 
 #: packages/csvviewer/src/toolbar.ts:129
 msgid "pipe"
-msgstr "pipe"
+msgstr ""
 
 #: packages/csvviewer/src/toolbar.ts:130
 msgid "hash"
-msgstr "hash"
+msgstr ""
 
 #: packages/csvviewer/src/toolbar.ts:136
 msgid "Delimiter: "
@@ -1470,15 +1470,15 @@ msgstr "משתנים"
 
 #: packages/debugger/src/panels/variables/index.ts:73
 msgid "Tree View"
-msgstr "תצוגת עץ"
+msgstr ""
 
 #: packages/debugger/src/panels/variables/index.ts:80
 msgid "Table View"
-msgstr "תצוגת טבלה"
+msgstr ""
 
 #: packages/debugger/src/panels/variables/scope.tsx:53
 msgid "Scope"
-msgstr "היקף"
+msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:235
 msgid "Overrides for the default viewers for file types.\n"
@@ -1962,19 +1962,17 @@ msgstr "להסיר"
 
 #: packages/extensionmanager/src/widget.tsx:367
 msgid "About"
-msgstr "על אודות"
+msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:386
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    apply following instructions."
-msgstr "זו הרחבה שהורכבה מראש. כדי להסיר אותה,\n"
-"    נא לפעול לפי ההנחיות הבאות."
+msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:396
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    read the user guide on:"
-msgstr "זו הרחבה שהורכבה מראש, כדי להסיר אותה,\n"
-"    נא לקרוא את המדריך למשתמש בכתובת:"
+msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:493
 msgid "No entries"
@@ -2186,7 +2184,7 @@ msgstr "המחיקה נכשלה"
 
 #: packages/filebrowser/src/listing.ts:1450
 msgid "showErrorMessage"
-msgstr "showErrorMessage"
+msgstr ""
 
 #: packages/filebrowser/src/listing.ts:1452
 msgctxt "showErrorMessage"
@@ -2489,7 +2487,7 @@ msgstr "על מיזם JUPYTER"
 
 #: packages/help-extension/src/index.tsx:340
 msgid "© 2015-2020 Project Jupyter Contributors"
-msgstr "© 2015‏-2020 מתנדבי מיזם Jupyter"
+msgstr "© 2015‏-2020 תורמי מיזם Jupyter"
 
 #: packages/help-extension/src/index.tsx:387
 msgid "Launch Classic Notebook"
@@ -2531,11 +2529,11 @@ msgstr "מתן אמון ב־HTML"
 
 #: packages/hub-extension/src/index.ts:103
 msgid "Hub"
-msgstr "Hub"
+msgstr ""
 
 #: packages/hub-extension/src/index.ts:157
 msgid "Server unavailable or unreachable"
-msgstr "השרת אינו זמין או שאינו נגיש"
+msgstr ""
 
 #: packages/hub-extension/src/index.ts:158
 msgid "Your server at %1 is not running.\n"
@@ -2814,7 +2812,7 @@ msgstr "ליבה"
 
 #: packages/mainmenu-extension/src/index.ts:526
 msgid "Reconnect to Kernel"
-msgstr "התחברות מחדש לליבה"
+msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:548
 msgid "Restart Kernel and Clear…"
@@ -3170,23 +3168,23 @@ msgstr "למחברת:"
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr "HTML"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr "LaTeX"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr "Markdown"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr "PDF"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
-msgstr "ReStructured Text"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2527
 msgid "Executable Script"
@@ -3417,7 +3415,7 @@ msgstr "ליבות"
 
 #: packages/running-extension/src/kernels.ts:47
 msgid "Are you sure you want to permanently shut down all running kernels?"
-msgstr "לכבות לצמיתות את כל הליבות הפעילות?"
+msgstr ""
 
 #: packages/running-extension/src/kernels.ts:86
 msgid "Path: %1\n"
@@ -3431,15 +3429,15 @@ msgstr "לשוניות פתוחות"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr "סגירה"
+msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr "סגירה של הכול"
+msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
-msgstr "לסגור את כל הלשוניות הפתוחות?"
+msgstr ""
 
 #: packages/running/src/index.tsx:294
 msgid "Refresh List"
@@ -3521,11 +3519,11 @@ msgstr "לתשומת לבך: כדי להשבית קיצור בררת מחדל ש
 
 #: packages/statusbar-extension/src/index.ts:377
 msgid "Simple Interface (%1)"
-msgstr "מנשק פשוט (%1)"
+msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr "פשוט"
+msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
@@ -3581,7 +3579,7 @@ msgstr "מסופים"
 
 #: packages/terminal-extension/src/index.ts:299
 msgid "Are you sure you want to permanently shut down all running terminals?"
-msgstr "לכבות את כל המסופים הפעילים?"
+msgstr ""
 
 #: packages/terminal-extension/src/index.ts:341
 msgid "New Terminal"
