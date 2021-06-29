@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: ro\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2021-04-25 22:37\n"
+"PO-Revision-Date: 2021-06-29 10:07\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -104,7 +104,7 @@ msgstr "Suprascrieri pentru unde sa se afișeze elementele sidebar-ului e.g., {\
 #: /packages/application-extension/schema/sidebar.json:3
 msgctxt "schema"
 msgid "Sidebar"
-msgstr "Sidebar"
+msgstr ""
 
 #: /packages/application-extension/schema/sidebar.json:4
 msgctxt "schema"
@@ -231,7 +231,7 @@ msgstr "Selecție Pointer"
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr "CodeMirror"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
@@ -240,7 +240,7 @@ msgstr "Valoarea este boolean sau string, ex. 'pointer'"
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr "Ctrl-C"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
@@ -254,7 +254,7 @@ msgstr "Setări editor de text pentru toți editorii CodeMirror."
 
 #: /packages/codemirror-extension/schema/commands.json:9
 msgid "Key Map"
-msgstr "Key Map"
+msgstr ""
 
 #: /packages/completer-extension/schema/consoles.json:2
 msgctxt "schema"
@@ -845,7 +845,7 @@ msgstr "Build Recomandat"
 
 #: packages/application-extension/src/index.tsx:258
 msgid "Build"
-msgstr "Build"
+msgstr ""
 
 #: packages/application-extension/src/index.tsx:264
 msgid "Are you sure you want to exit JupyterLab?\n\n"
@@ -954,7 +954,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/index.ts:282
 msgid "Print..."
-msgstr ""
+msgstr "Printare..."
 
 #: packages/apputils-extension/src/index.ts:407
 msgid "Reset Application State"
@@ -1118,7 +1118,7 @@ msgstr ""
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: packages/apputils/src/toolbar.tsx:386
 msgid "Interrupt the kernel"
@@ -1174,7 +1174,7 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr "Sublime Text"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1186,7 +1186,7 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr "jupyter"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1424,7 +1424,7 @@ msgstr ""
 
 #: packages/debugger-extension/src/index.ts:518
 msgid "Debugger"
-msgstr "Debugger"
+msgstr ""
 
 #: packages/debugger/src/handler.ts:54 packages/debugger/src/handler.ts:80
 msgid "Enable / Disable Debugger"
@@ -1733,7 +1733,7 @@ msgstr ""
 
 #: packages/docregistry/src/registry.ts:1307 packages/launcher/src/index.tsx:158 packages/launcher/src/index.tsx:163 packages/notebook-extension/src/index.ts:475 packages/notebook-extension/src/index.ts:744 packages/notebook-extension/src/index.ts:785
 msgid "Notebook"
-msgstr "Notebook"
+msgstr ""
 
 #: packages/docregistry/src/registry.ts:1332
 msgid "Directory"
@@ -3120,7 +3120,7 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr "Markdown"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
@@ -3232,7 +3232,7 @@ msgstr "Cod"
 
 #: packages/notebook/src/default-toolbar.tsx:345
 msgid "Raw"
-msgstr "Raw"
+msgstr ""
 
 #: packages/notebook/src/default-toolbar.tsx:85
 msgid "Save the notebook contents and create checkpoint"
@@ -3519,7 +3519,7 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:341 packages/terminal-extension/src/index.ts:91 packages/terminal/src/widget.ts:76
 msgid "Terminal"
-msgstr "Terminal"
+msgstr ""
 
 #: packages/terminal-extension/src/index.ts:342
 msgid "Start a new terminal session"
