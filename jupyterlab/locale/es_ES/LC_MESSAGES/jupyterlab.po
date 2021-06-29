@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"PO-Revision-Date: 2021-06-29 12:28\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -125,12 +125,12 @@ msgstr "Sobre-escrituras"
 
 #: /packages/apputils-extension/schema/palette.json:13
 msgid "Modal Command Palette"
-msgstr ""
+msgstr "Paleta de comandos"
 
 #: /packages/apputils-extension/schema/palette.json:14
 msgctxt "schema"
 msgid "Whether the command palette should be modal or in the left panel."
-msgstr ""
+msgstr "Si la paleta de comandos debe ser modal o en el panel izquierdo."
 
 #: /packages/apputils-extension/schema/palette.json:2
 msgctxt "schema"
@@ -239,7 +239,7 @@ msgstr "Puntero de selección"
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr ""
+msgstr "CodeMirror"
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
@@ -248,7 +248,7 @@ msgstr "El valor es booleano o cadena de texto, por ejemplo, 'puntero'"
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr ""
+msgstr "Ctrl-C"
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
@@ -484,7 +484,7 @@ msgstr "Configuración del visor de imágenes."
 #: /packages/inspector-extension/schema/inspector.json:2
 msgctxt "schema"
 msgid "Inspector"
-msgstr ""
+msgstr "Inspector"
 
 #: /packages/inspector-extension/schema/inspector.json:3
 msgctxt "schema"
@@ -668,7 +668,7 @@ msgstr "La familia de fuentes utilizada para representar texto."
 #: /packages/terminal-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: /packages/terminal-extension/schema/plugin.json:40
 msgid "Font size"
@@ -926,7 +926,7 @@ msgstr "Modo de presentación"
 
 #: packages/application-extension/src/index.tsx:821 packages/statusbar-extension/src/index.ts:379
 msgid "Simple Interface"
-msgstr ""
+msgstr "Interfaz simple"
 
 #: packages/application-extension/src/index.tsx:935
 msgid "Property Inspector"
@@ -1000,7 +1000,7 @@ msgstr "Tema"
 
 #: packages/apputils-extension/src/themesplugins.ts:117
 msgid "waiting for fonts"
-msgstr ""
+msgstr "esperando fuentes"
 
 #: packages/apputils-extension/src/themesplugins.ts:165
 msgid "JupyterLab Theme"
@@ -1152,7 +1152,7 @@ msgstr "Añadir etiqueta"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
-msgstr ""
+msgstr "Etiquetas de Celda"
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
@@ -1184,7 +1184,7 @@ msgstr "CodeMirror"
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr ""
+msgstr "Sublime Text"
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1196,7 +1196,7 @@ msgstr "Ir a la línea..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr ""
+msgstr "jupyter"
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1204,7 +1204,7 @@ msgstr "por defecto"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr ""
+msgstr "abcdef"
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
@@ -1220,19 +1220,19 @@ msgstr "rayuela"
 
 #: packages/codemirror-extension/src/index.ts:421
 msgid "material"
-msgstr ""
+msgstr "material"
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr ""
+msgstr "mbo"
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
-msgstr ""
+msgstr "mdn-like"
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr ""
+msgstr "seti"
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
@@ -1252,19 +1252,19 @@ msgstr "xq-claro"
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
-msgstr ""
+msgstr "zenburn"
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr ""
+msgstr "sublime"
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1404,7 +1404,7 @@ msgstr "tubería"
 
 #: packages/csvviewer/src/toolbar.ts:130
 msgid "hash"
-msgstr ""
+msgstr "hash"
 
 #: packages/csvviewer/src/toolbar.ts:136
 msgid "Delimiter: "
@@ -1452,7 +1452,7 @@ msgstr "Eliminar todos los puntos de interrupción"
 
 #: packages/debugger/src/panels/callstack/header.ts:23
 msgid "Callstack"
-msgstr ""
+msgstr "Callstack"
 
 #: packages/debugger/src/panels/sources/header.tsx:32
 msgid "Source"
@@ -1464,19 +1464,19 @@ msgstr "Abrir en el área principal"
 
 #: packages/debugger/src/panels/variables/header.ts:23
 msgid "Variables"
-msgstr ""
+msgstr "Variables"
 
 #: packages/debugger/src/panels/variables/index.ts:73
 msgid "Tree View"
-msgstr ""
+msgstr "Vista de Árbol"
 
 #: packages/debugger/src/panels/variables/index.ts:80
 msgid "Table View"
-msgstr ""
+msgstr "Vista de Tabla"
 
 #: packages/debugger/src/panels/variables/scope.tsx:53
 msgid "Scope"
-msgstr ""
+msgstr "Ámbito"
 
 #: packages/docmanager-extension/src/index.ts:235
 msgid "Overrides for the default viewers for file types.\n"
@@ -1508,7 +1508,7 @@ msgstr "Operaciones de Archivos"
 
 #: packages/docmanager-extension/src/index.ts:434 packages/logconsole-extension/src/index.tsx:409
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: packages/docmanager-extension/src/index.ts:490 packages/filebrowser-extension/src/index.ts:703
 msgid "Open in New Browser Tab"
@@ -1532,7 +1532,7 @@ msgstr "No se encontró ningún contexto para el widget actual!"
 
 #: packages/docmanager-extension/src/index.ts:512 packages/docmanager-extension/src/index.ts:557 packages/docmanager-extension/src/index.ts:603 packages/docmanager-extension/src/index.ts:610 packages/docmanager-extension/src/index.ts:664 packages/notebook/src/actions.tsx:1405 packages/notebook/src/actions.tsx:1414 packages/notebook/src/actions.tsx:1604 packages/notebook/src/default-toolbar.tsx:69 packages/notebook/src/model.ts:295 packages/notebook/src/panel.ts:208 packages/settingeditor/src/plugineditor.ts:149 packages/settingeditor/src/plugineditor.ts:271 packages/translation-extension/src/index.ts:145
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: packages/docmanager-extension/src/index.ts:518
 msgid "Are you sure you want to reload the %1 from the disk?"
@@ -1956,17 +1956,19 @@ msgstr "Desinstalar"
 
 #: packages/extensionmanager/src/widget.tsx:367
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: packages/extensionmanager/src/widget.tsx:386
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    apply following instructions."
-msgstr ""
+msgstr "Esta es una extensión preconstruida. Para desinstalarla, por favor\n"
+"    aplique las siguientes instrucciones."
 
 #: packages/extensionmanager/src/widget.tsx:396
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    read the user guide on:"
-msgstr ""
+msgstr "Esta es una extensión preconstruida. Para desinstalarla, por favor\n"
+"    lea la guía de usuario en:"
 
 #: packages/extensionmanager/src/widget.tsx:493
 msgid "No entries"
@@ -2177,7 +2179,7 @@ msgstr "Error al eliminar"
 
 #: packages/filebrowser/src/listing.ts:1450
 msgid "showErrorMessage"
-msgstr ""
+msgstr "mostrar mensaje de error"
 
 #: packages/filebrowser/src/listing.ts:1452
 msgctxt "showErrorMessage"
@@ -2265,7 +2267,8 @@ msgstr "Apagar el kernel"
 #: packages/filebrowser/src/listing.ts:836
 msgid "%1\n"
 "Kernel: %2"
-msgstr ""
+msgstr "%1\n"
+"Kernel: %2"
 
 #: packages/filebrowser/src/listing.ts:981
 msgctxt "showErrorMessage"
@@ -2515,11 +2518,11 @@ msgstr "Confiar en HTML"
 
 #: packages/hub-extension/src/index.ts:103
 msgid "Hub"
-msgstr ""
+msgstr "Hub"
 
 #: packages/hub-extension/src/index.ts:157
 msgid "Server unavailable or unreachable"
-msgstr ""
+msgstr "Servidor no disponible o no accesible"
 
 #: packages/hub-extension/src/index.ts:158
 msgid "Your server at %1 is not running.\n"
@@ -2658,7 +2661,7 @@ msgstr "Crítico"
 
 #: packages/logconsole-extension/src/index.tsx:411
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: packages/logconsole-extension/src/index.tsx:412
 msgid "Debug"
@@ -2794,11 +2797,11 @@ msgstr "Cerrar sesión en JupyterLab"
 
 #: packages/mainmenu-extension/src/index.ts:513
 msgid "Kernel"
-msgstr ""
+msgstr "Kernel"
 
 #: packages/mainmenu-extension/src/index.ts:526
 msgid "Reconnect to Kernel"
-msgstr ""
+msgstr "Reconectar al Kernel"
 
 #: packages/mainmenu-extension/src/index.ts:548
 msgid "Restart Kernel and Clear…"
@@ -3154,19 +3157,19 @@ msgstr "Para el Notebook:"
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr ""
+msgstr "LaTeX"
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr ""
+msgstr "Markdown"
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
@@ -3274,7 +3277,7 @@ msgstr "Código"
 
 #: packages/notebook/src/default-toolbar.tsx:345
 msgid "Raw"
-msgstr ""
+msgstr "Raw"
 
 #: packages/notebook/src/default-toolbar.tsx:85
 msgid "Save the notebook contents and create checkpoint"
@@ -3396,11 +3399,11 @@ msgstr "Terminales y Kernels en ejecución"
 
 #: packages/running-extension/src/kernels.ts:36
 msgid "Kernels"
-msgstr ""
+msgstr "Kernels"
 
 #: packages/running-extension/src/kernels.ts:47
 msgid "Are you sure you want to permanently shut down all running kernels?"
-msgstr ""
+msgstr "¿Estás seguro de que quieres apagar permanentemente todos los núcleos en ejecución?"
 
 #: packages/running-extension/src/kernels.ts:86
 msgid "Path: %1\n"
@@ -3414,15 +3417,15 @@ msgstr "Pestañas abiertas"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr ""
+msgstr "Cerrar todo"
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
-msgstr ""
+msgstr "¿Realmente desea cerrar todas las pestañas abiertas?"
 
 #: packages/running/src/index.tsx:294
 msgid "Refresh List"
@@ -3504,11 +3507,11 @@ msgstr "Nota: Para deshabilitar un atajo de teclado por defecto del sistema,\n"
 
 #: packages/statusbar-extension/src/index.ts:377
 msgid "Simple Interface (%1)"
-msgstr ""
+msgstr "Interfaz simple (%1)"
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
@@ -3528,7 +3531,7 @@ msgstr "Ir al número de línea entre 1 y %1"
 
 #: packages/statusbar/src/defaults/lineCol.tsx:238
 msgid "Ln %1, Col %2"
-msgstr ""
+msgstr "Ln %1, Col %2"
 
 #: packages/statusbar/src/defaults/lineCol.tsx:239
 msgid "Go to line number…"
@@ -3564,7 +3567,7 @@ msgstr "Terminales"
 
 #: packages/terminal-extension/src/index.ts:299
 msgid "Are you sure you want to permanently shut down all running terminals?"
-msgstr ""
+msgstr "¿Está seguro de que desea cerrar permanentemente todas las terminales en ejecución?"
 
 #: packages/terminal-extension/src/index.ts:341
 msgid "New Terminal"
@@ -3572,7 +3575,7 @@ msgstr "Nueva Terminal"
 
 #: packages/terminal-extension/src/index.ts:341 packages/terminal-extension/src/index.ts:91 packages/terminal/src/widget.ts:76
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: packages/terminal-extension/src/index.ts:342
 msgid "Start a new terminal session"
@@ -3604,7 +3607,7 @@ msgstr "Establecer el tema de la terminal"
 
 #: packages/terminal/src/widget.ts:97
 msgid "Terminal %1"
-msgstr ""
+msgstr "Terminal %1"
 
 #: packages/theme-dark-extension/src/index.ts:32
 msgid "JupyterLab Dark"
@@ -3657,7 +3660,7 @@ msgstr "¿Estás seguro que quiere refrescar la sesión?"
 #. obsolete
 #: packages/fileeditor-extension/src/commands.ts:1200
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #. obsolete
 #: packages/debugger/src/panels/variables/index.ts:70
