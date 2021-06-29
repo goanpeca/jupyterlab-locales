@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: he\n"
-"X-Crowdin-File: /master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
-"X-Crowdin-File-ID: 28\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
+"X-Crowdin-File-ID: 52\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2021-06-22 11:13\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -62,7 +62,7 @@ msgstr "אם „אמת” (true), לחיצה כפולה על הקובץ ברשי
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr "Git"
+msgstr ""
 
 #: /schema/plugin.json:40
 msgid "History count"
@@ -75,12 +75,12 @@ msgstr "מספר ההגשות (העדכניות ביותר) שתופענה בי�
 
 #: /schema/plugin.json:46
 msgid "Refresh if the Git tab is hidden"
-msgstr "לרענן אם לשונית ה־Git מוסתרת"
+msgstr ""
 
 #: /schema/plugin.json:47
 msgctxt "schema"
 msgid "Whether to check Git status when the Git tab is not visible. Choose `false` for higher performance."
-msgstr "האם לבדוק את מצב ה־Git כאשר לשונית ה־Git אינה גלויה. יש לבחור ב־`false` (שקר) לשיפור הביצועים."
+msgstr ""
 
 #: /schema/plugin.json:5
 msgctxt "schema"
@@ -107,28 +107,28 @@ msgstr "אם הוגדר ל„אמת” (true), להשתמש בעיקרון מו�
 
 #: /schema/plugin.json:64
 msgid "Trigger push on commit"
-msgstr "להפעיל דחיפה עם הגשה"
+msgstr ""
 
 #: /schema/plugin.json:65
 msgctxt "schema"
 msgid "Whether to trigger or not a push for each commit."
-msgstr "האם להפעיל או לא להפעיל דחיפה (push) על כל הגשה (commit)."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:117
 msgid "Commit from the Commit Box"
-msgstr "הגשה מתיבת ההגשות"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1172
 msgid "Git credentials required"
-msgstr "נדרשים פרטי גישה ל־Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1175 src/widgets/CredentialsBox.tsx:14
 msgid "Enter credentials for remote repository"
-msgstr "נא למלא את פרטי הגישה למאגר המרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1176
 msgid "Incorrect username or password."
-msgstr "שם משתמש או ססמה שגויים."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:118
 msgid "Submit the commit using the summary and description from commit box"
@@ -136,55 +136,55 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:129
 msgid "Open Git Repository in Terminal"
-msgstr "פתיחת מאגר Git במסוף"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:130
 msgid "Open a New Terminal to the Git Repository"
-msgstr "פתיחת מסוף חדש במאגר ה־Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:159
 msgid "Git Interface"
-msgstr "מנשק Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:160
 msgid "Go to Git user interface"
-msgstr "מעבר למנשק המשתמש של Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:172 src/commandsAndMenu.tsx:179
 msgid "Initialize a Repository"
-msgstr "אתחול מאגר"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:173
 msgid "Create an empty Git repository or reinitialize an existing one"
-msgstr "עליך ליצור מאגר Git ריק או לאתחל מחדש אחד קיים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:180
 msgid "Do you really want to make this directory a Git Repo?"
-msgstr "להפוך את התיקייה הזאת למאגר Git?"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:182 src/commandsAndMenu.tsx:295 src/commandsAndMenu.tsx:743 src/commandsAndMenu.tsx:786
 msgid "Cancel"
-msgstr "ביטול"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:183
 msgid "Yes"
-msgstr "כן"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:189
 msgid "Initializing..."
-msgstr "מתבצע אתחול…"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:196
 msgid "Git repository initialized."
-msgstr "מאגר ה־Git אותחל."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:201
 msgid "Encountered an error when initializing the repository. Error: "
-msgstr "עלתה שגיאה בעת אתחול המאגר. שגיאה: "
+msgstr ""
 
 #: src/commandsAndMenu.tsx:207
 msgid "Failed to initialize the Git repository"
-msgstr "אתחול מאגר ה־Git נכשל"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:228
 msgid "Simple staging"
@@ -196,75 +196,75 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:246
 msgid "Add Remote Repository"
-msgstr "הוספת מאגר מרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:247
 msgid "Add a Git remote repository"
-msgstr "הוספת מאגר Git מרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:252
 msgid "Not in a Git repository. Unable to add a remote."
-msgstr "לא במאגר Git. לא ניתן להוסיף מרוחק."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:261
 msgid "Add a remote repository"
-msgstr "הוספת מאגר מרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:262
 msgid "Remote Git repository URL"
-msgstr "כתובת מאגר ה־Git המרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:276
 msgid "Error when adding remote repository"
-msgstr "שגיאה בהוספת המאגר המרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:286
 msgid "Clone a Repository"
-msgstr "שיבוט מאגר"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:287
 msgid "Clone a repository from a URL"
-msgstr "שיבוט מאגר מכתובת"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:291
 msgid "Clone a repo"
-msgstr "שיבוט מאגר"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:296
 msgid "CLONE"
-msgstr "שיבוט"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:303
 msgid "Cloning..."
-msgstr "מתבצע שיבוט…"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:313
 msgid "Successfully cloned"
-msgstr "השיבוט הצליח"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:324
 msgid "Failed to clone"
-msgstr "השיבוט נכשל"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:335 src/commandsAndMenu.tsx:336
 msgid "Open .gitignore"
-msgstr "פתיחת ‎.gitignore"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:345
 msgid "Push to Remote"
-msgstr "דחיפה לצד המרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:346
 msgid "Push code to remote repository"
-msgstr "דחיפת קוד למאגר מרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:351
 msgid "Pushing..."
-msgstr "מתבצעת דחיפה…"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:360
 msgid "Successfully pushed"
-msgstr "הדחיפה הצליחה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:366
 msgid "Encountered an error when pushing changes. Error: "
@@ -272,87 +272,87 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:370
 msgid "Failed to push"
-msgstr "הדחיפה נכשלה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:380
 msgid "Pull from Remote"
-msgstr "משיכה מצד מרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:381
 msgid "Pull latest code from remote repository"
-msgstr "משיכת הקוד העדכני ביותר ממאגר מרוחק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:386
 msgid "Pulling..."
-msgstr "מתבצעת משיכה…"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:395
 msgid "Successfully pulled"
-msgstr "המשיכה הצליחה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:405
 msgid "Failed to pull"
-msgstr "המשיכה נכשלה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:421
 msgid "Show Diff"
-msgstr "להציג הבדלים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:422
 msgid "Display a file diff."
-msgstr "להציג הבדלים בין קבצים."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:468
 msgid "Refresh"
-msgstr "רענון"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:473
 msgid "Refresh diff widget"
-msgstr "רענון וידג׳ט ההבדלים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:496
 msgid "Diff Not Supported"
-msgstr "אין תמיכה בשקלול הבדלים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:497
 msgid "Diff is not supported for %1 files."
-msgstr "אין תמיכה ב־Diff על קובצי %1."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:511
 msgid "Open"
-msgstr "פתיחה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:513
 msgid "Open selected file"
-msgstr "לפתוח את הקובץ הנבחר"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:514
 msgid "Open selected files"
-msgstr "לפתוח את הקבצים הנבחרים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:522
 msgid "Open File Failed"
-msgstr "פתיחת הקובץ נכשלה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:523
 msgid "This file has been deleted!"
-msgstr "הקובץ נמחק!"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:544
 msgid "Diff"
-msgstr "הבדלים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:546
 msgid "Diff selected file"
-msgstr "הבדלים מול הקובץ הנבחר"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:547
 msgid "Diff selected files"
-msgstr "הבדלים מול הקבצים הנבחרים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:651
 msgid "Add"
-msgstr "הוספה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:653
 msgid "Stage or track the changes to selected file"
@@ -376,15 +376,15 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:681
 msgid "Track"
-msgstr "מעקב"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:683
 msgid "Start tracking selected file"
-msgstr "התחלת מעקב על הקובץ הנבחר"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:684
 msgid "Start tracking selected files"
-msgstr "התחלת מעקב אחר הקובץ הנבחר"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:696
 msgid "Unstage"
@@ -400,27 +400,27 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:722 src/commandsAndMenu.tsx:744
 msgid "Delete"
-msgstr "למחוק"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:724
 msgid "Delete this file"
-msgstr "למחוק קובץ זה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:725
 msgid "Delete these files"
-msgstr "למחוק קבצים אלו"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:732
 msgid "Delete Files"
-msgstr "מחיקת קבצים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:735
 msgid "Are you sure you want to permanently delete the following files?               This action cannot be undone."
-msgstr "למחוק את הקבצים האלו לצמיתות?             זו פעולה בלתי הפיכה."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:754
 msgid "Deleting %1 failed."
-msgstr "מחיקת %1 נכשלה."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:755 src/commandsAndMenu.tsx:810 src/index.ts:128
 msgid "DISMISS"
@@ -428,59 +428,59 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:765 src/commandsAndMenu.tsx:787
 msgid "Discard"
-msgstr "השלכה"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:767
 msgid "Discard recent changes of selected file"
-msgstr "השלכת שינויים אחרונים בקובץ נבחר"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:768
 msgid "Discard recent changes of selected files"
-msgstr "השלכת שינויים אחרונים בקבצים נבחרים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:775
 msgid "Discard changes"
-msgstr "השלכת השינויים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:778
 msgid "Are you sure you want to permanently discard changes to the following files?               This action cannot be undone."
-msgstr "להשליך את השינויים לקבצים האלו לצמיתות?               זו פעולה בלתי הפיכה."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:808
 msgid "Discard changes for %1 failed."
-msgstr "השלכת השינויים אצל %1 נכשלה."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:821 src/commandsAndMenu.tsx:825
 msgid "Ignore this file (add to .gitignore)"
-msgstr "התעלמות מקובץ זה (הוספה ל־‎.gitignore)"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:822 src/commandsAndMenu.tsx:826
 msgid "Ignore these files (add to .gitignore)"
-msgstr "התעלמות מקבצים אלה (הוספה ל־‎.gitignore)"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:844
 msgid "Ignore %2 extension (add to .gitignore)"
 msgid_plural "Ignore %2 extensions (add to .gitignore)"
-msgstr[0] "התעלמות מהסיומת %2 (הוספה ל־‎.gitignore)"
-msgstr[1] "התעלמות מהסיומות %2 (הוספה ל־‎.gitignore)"
-msgstr[2] "התעלמות מהסיומות %2 (הוספה ל־‎.gitignore)"
-msgstr[3] "התעלמות מהסיומות %2 (הוספה ל־‎.gitignore)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: src/commandsAndMenu.tsx:852
 msgid "Ignore this file extension (add to .gitignore)"
-msgstr "התעלמות מסיומת קובץ זו (הוספה ל־‎.gitignore)"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:853
 msgid "Ignore these files extension (add to .gitignore)"
-msgstr "התעלמות מסיומות קבצים אלו (הוספה ל־‎.gitignore)"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:862
 msgid "Ignore file extension"
-msgstr "התעלמות מסיומת קובץ"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:863
 msgid "Are you sure you want to ignore all %1 files within this git repository?"
-msgstr "להתעלם מכל קובצי ה־%1 שבמאגר ה־git הזה?"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:869 src/commandsAndMenu.tsx:872
 msgid "Ignore"
@@ -488,27 +488,27 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:889
 msgid "No actions available"
-msgstr "אין פעולות זמינות"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:908
 msgid "Set Up Remotes"
-msgstr "הגדרת קישורים מרוחקים"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:912
 msgid "Git Documentation"
-msgstr "התיעוד של Git"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:943
 msgid " Help "
-msgstr " עזרה "
+msgstr ""
 
 #: src/components/BranchMenu.tsx:51
 msgid "Unable to switch branch"
-msgstr "לא ניתן להחליף ענף"
+msgstr ""
 
 #: src/components/BranchMenu.tsx:55 src/components/TagMenu.tsx:49
 msgid "Your changes to the following files would be overwritten by switching:"
-msgstr "השינויים שערכת לקבצים הבאים ישוכתבו בהחלפת הענף:"
+msgstr ""
 
 #: src/components/BranchMenu.tsx:63
 msgid "Please commit, stash, or discard your changes before you switch branches."
@@ -520,7 +520,7 @@ msgstr ""
 
 #: src/components/BranchMenu.tsx:74
 msgid "Failed to switch branch."
-msgstr "החלפת ענף נכשלה."
+msgstr ""
 
 #: src/components/TagMenu.tsx:45
 msgid "Unable to checkout tag"
@@ -536,7 +536,7 @@ msgstr ""
 
 #: src/index.ts:102
 msgid "git command version must be > 2; got %1."
-msgstr "גרסת פקודת ה־git חייבת להיות גדולה מ־2, התקבלה %1."
+msgstr ""
 
 #: src/index.ts:109
 msgid "The versions of the JupyterLab Git server frontend and backend do not match. The @jupyterlab/git frontend extension has version: %1 while the python package has version %2. Please install identical version of jupyterlab-git Python package and the @jupyterlab/git extension. Try running: pip install --upgrade jupyterlab-git"
@@ -544,25 +544,25 @@ msgstr ""
 
 #: src/index.ts:126
 msgid "Failed to load the jupyterlab-git server extension"
-msgstr "טעינת הרחבת השרת jupyterlab-git נכשלה"
+msgstr ""
 
 #: src/index.ts:94
 msgid "git command not found - please ensure you have Git > 2 installed"
-msgstr "הפקודה git לא נמצאה - נא לוודא שמותקן אצלך Git בגרסה 2 ומעלה"
+msgstr ""
 
 #: src/server.ts:27
 msgid "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list."
-msgstr "הרחבת שרת ה־Git אינה זמינה. נא לוודא שהתקנת את הרחבת שרת ה־Git ל־JupyterLab על ידי הרצת הפקודה: pip instal --upgrade jupyterlab-git. כדי לאשר שהרחבת השרת מותקנת עליך להריץ את הפקודה: jupyter server extension list."
+msgstr ""
 
 #: src/widgets/CredentialsBox.tsx:36
 msgid "username"
-msgstr "שם משתמש"
+msgstr ""
 
 #: src/widgets/CredentialsBox.tsx:37
 msgid "password / personal access token"
-msgstr "ססמה / אסימון גישה אישי"
+msgstr ""
 
 #: src/widgets/GitCloneForm.ts:30
 msgid "Enter the Clone URI of the repository"
-msgstr "נא למלא את כתובת שיבוט המאגר"
+msgstr ""
 
