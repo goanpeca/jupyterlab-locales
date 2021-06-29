@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /master/extensions/dask_labextension/locale/dask_labextension.pot\n"
-"X-Crowdin-File-ID: 26\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/dask_labextension/locale/dask_labextension.pot\n"
+"X-Crowdin-File-ID: 50\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2021-04-24 08:31\n"
+"PO-Revision-Date: 2021-06-29 10:07\n"
 
 #: /schema/plugin.json:14
 msgid "Auto-Start Client"
@@ -35,5 +35,5 @@ msgstr "Paralel Hesaplama Kontrol Paneli eklentisi için ayarlar."
 
 #: /schema/plugin.json:9
 msgid "Default URL for the Dask Dashboard Webserver"
-msgstr "Dask Kontrol Paneli Ağ Sunucusu için varsayılan URL"
+msgstr "Paralel Hesaplama Kontrol Paneli Ağ Sunucusu için varsayılan URL"
 
