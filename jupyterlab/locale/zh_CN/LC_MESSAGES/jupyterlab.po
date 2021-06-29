@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: zh-CN\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-04-26 06:18\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -125,12 +125,12 @@ msgstr "覆盖"
 
 #: /packages/apputils-extension/schema/palette.json:13
 msgid "Modal Command Palette"
-msgstr "命令面板"
+msgstr ""
 
 #: /packages/apputils-extension/schema/palette.json:14
 msgctxt "schema"
 msgid "Whether the command palette should be modal or in the left panel."
-msgstr "命令面板是否应该浮窗是还是出现在左侧。"
+msgstr ""
 
 #: /packages/apputils-extension/schema/palette.json:2
 msgctxt "schema"
@@ -239,7 +239,7 @@ msgstr "选择指针"
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr "CodeMirror"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
@@ -542,7 +542,7 @@ msgstr "JupyterLab 主菜单设置。"
 #: /packages/notebook-extension/schema/tracker.json:221
 msgctxt "schema"
 msgid "Notebook"
-msgstr "Notebook"
+msgstr ""
 
 #: /packages/notebook-extension/schema/tracker.json:222
 msgctxt "schema"
@@ -925,7 +925,7 @@ msgstr "演示模式"
 
 #: packages/application-extension/src/index.tsx:821 packages/statusbar-extension/src/index.ts:379
 msgid "Simple Interface"
-msgstr "简易界面"
+msgstr ""
 
 #: packages/application-extension/src/index.tsx:935
 msgid "Property Inspector"
@@ -950,8 +950,8 @@ msgstr "加载中..."
 #: packages/apputils-extension/src/index.ts:213
 msgid "The loading screen is taking a long time. \n"
 "Would you like to clear the workspace or keep waiting?"
-msgstr "加载屏幕花费了较长时间。 \n"
-"您是否要清除工作区或是继续等待？"
+msgstr "加载屏幕花费了很长时间。 \n"
+"您想要清除工作区还是继续等待？"
 
 #: packages/apputils-extension/src/index.ts:216
 msgid "Keep Waiting"
@@ -999,7 +999,7 @@ msgstr "主题滚动条"
 
 #: packages/apputils-extension/src/themesplugins.ts:117
 msgid "waiting for fonts"
-msgstr "正在等待字体"
+msgstr ""
 
 #: packages/apputils-extension/src/themesplugins.ts:165
 msgid "JupyterLab Theme"
@@ -1151,7 +1151,7 @@ msgstr "添加标签"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
-msgstr "单元格标签"
+msgstr ""
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
@@ -1179,11 +1179,11 @@ msgstr "文本编辑器语法加亮"
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr "codemirror"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr "Sublime Text"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1195,75 +1195,75 @@ msgstr "跳至行..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr "jupyter"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
-msgstr "default"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr "abcdef"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
-msgstr "base16-dark"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:419
 msgid "base16-light"
-msgstr "base16-light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:420
 msgid "hopscotch"
-msgstr "hopscotch"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:421
 msgid "material"
-msgstr "material"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr "mbo"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
-msgstr "mdn-like"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr "seti"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
-msgstr "solarized dark"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:426
 msgid "solarized light"
-msgstr "solarized light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:427
 msgid "the-matrix"
-msgstr "the-matrix"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:428
 msgid "xq-light"
-msgstr "xq-light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
-msgstr "zenburn"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr "sublime"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr "vim"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr "emacs"
+msgstr ""
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1467,15 +1467,15 @@ msgstr "变量"
 
 #: packages/debugger/src/panels/variables/index.ts:73
 msgid "Tree View"
-msgstr "树状视图"
+msgstr ""
 
 #: packages/debugger/src/panels/variables/index.ts:80
 msgid "Table View"
-msgstr "表格视图"
+msgstr ""
 
 #: packages/debugger/src/panels/variables/scope.tsx:53
 msgid "Scope"
-msgstr "范围"
+msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:235
 msgid "Overrides for the default viewers for file types.\n"
@@ -1757,7 +1757,7 @@ msgstr "文本"
 
 #: packages/docregistry/src/registry.ts:1307 packages/launcher/src/index.tsx:158 packages/launcher/src/index.tsx:163 packages/notebook-extension/src/index.ts:475 packages/notebook-extension/src/index.ts:744 packages/notebook-extension/src/index.ts:785
 msgid "Notebook"
-msgstr "Notebook"
+msgstr ""
 
 #: packages/docregistry/src/registry.ts:1332
 msgid "Directory"
@@ -1954,19 +1954,17 @@ msgstr "卸载"
 
 #: packages/extensionmanager/src/widget.tsx:367
 msgid "About"
-msgstr "关于"
+msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:386
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    apply following instructions."
-msgstr "这是一个预设扩展。要卸载它，请\n"
-"    应用以下说明。"
+msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:396
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    read the user guide on:"
-msgstr "这是一个预设扩展。要卸载它，请\n"
-"    阅读以下用户指南："
+msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:493
 msgid "No entries"
@@ -2514,11 +2512,11 @@ msgstr "信任的HTML"
 
 #: packages/hub-extension/src/index.ts:103
 msgid "Hub"
-msgstr "Hub"
+msgstr ""
 
 #: packages/hub-extension/src/index.ts:157
 msgid "Server unavailable or unreachable"
-msgstr "服务器不可用或无法访问"
+msgstr ""
 
 #: packages/hub-extension/src/index.ts:158
 msgid "Your server at %1 is not running.\n"
@@ -2797,7 +2795,7 @@ msgstr "内核"
 
 #: packages/mainmenu-extension/src/index.ts:526
 msgid "Reconnect to Kernel"
-msgstr "重新连接到内核"
+msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:548
 msgid "Restart Kernel and Clear…"
@@ -3153,19 +3151,19 @@ msgstr "对 Notebook:"
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr "HTML"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr "LaTeX"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr "Markdown"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr "PDF"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
@@ -3401,7 +3399,7 @@ msgstr "内核"
 
 #: packages/running-extension/src/kernels.ts:47
 msgid "Are you sure you want to permanently shut down all running kernels?"
-msgstr "您确定要永久关闭所有正在运行的内核吗？"
+msgstr ""
 
 #: packages/running-extension/src/kernels.ts:86
 msgid "Path: %1\n"
@@ -3415,15 +3413,15 @@ msgstr "开启的标签页"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr "关闭"
+msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr "关闭全部"
+msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
-msgstr "您确定要关闭所有打开的标签页吗？"
+msgstr ""
 
 #: packages/running/src/index.tsx:294
 msgid "Refresh List"
@@ -3505,11 +3503,11 @@ msgstr "注意，要禁用系统默认的快捷键\n"
 
 #: packages/statusbar-extension/src/index.ts:377
 msgid "Simple Interface (%1)"
-msgstr "简易界面（%1）"
+msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr "简易的"
+msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
@@ -3565,7 +3563,7 @@ msgstr "终端"
 
 #: packages/terminal-extension/src/index.ts:299
 msgid "Are you sure you want to permanently shut down all running terminals?"
-msgstr "您确定要永久关闭所有正在运行的终端吗？"
+msgstr ""
 
 #: packages/terminal-extension/src/index.ts:341
 msgid "New Terminal"
@@ -3663,5 +3661,5 @@ msgstr "编辑器"
 #. obsolete
 #: packages/debugger/src/panels/variables/index.ts:70
 msgid "Table / Tree View"
-msgstr "表格 / 树状视图"
+msgstr "表格/树视图"
 
