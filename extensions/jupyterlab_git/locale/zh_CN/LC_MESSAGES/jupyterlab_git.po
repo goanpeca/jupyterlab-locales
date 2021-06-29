@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: zh-CN\n"
-"X-Crowdin-File: /master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
-"X-Crowdin-File-ID: 28\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
+"X-Crowdin-File-ID: 52\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-04-25 10:50\n"
+"PO-Revision-Date: 2021-06-29 10:07\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -62,7 +62,7 @@ msgstr "如果设置为 true，双击已更改文件列表中的某个文件，�
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr "Git"
+msgstr ""
 
 #: /schema/plugin.json:40
 msgid "History count"
@@ -75,12 +75,12 @@ msgstr "在历史日志中显示的（最新）提交数量"
 
 #: /schema/plugin.json:46
 msgid "Refresh if the Git tab is hidden"
-msgstr "如果 Git 标签页隐藏则刷新"
+msgstr ""
 
 #: /schema/plugin.json:47
 msgctxt "schema"
 msgid "Whether to check Git status when the Git tab is not visible. Choose `false` for higher performance."
-msgstr "当 Git 标签页不可见时，是否检查 Git 状态。选择 `false` 以提高性能。"
+msgstr ""
 
 #: /schema/plugin.json:5
 msgctxt "schema"
@@ -107,459 +107,459 @@ msgstr "如果设置为 true，使用简化的暂存概念。只显示已经更�
 
 #: /schema/plugin.json:64
 msgid "Trigger push on commit"
-msgstr "提交代码后触发推送"
+msgstr ""
 
 #: /schema/plugin.json:65
 msgctxt "schema"
 msgid "Whether to trigger or not a push for each commit."
-msgstr "是否在每次提交后触发推送。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:117
 msgid "Commit from the Commit Box"
-msgstr "从提交框提交"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1172
 msgid "Git credentials required"
-msgstr "需要 Git 凭据"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1175 src/widgets/CredentialsBox.tsx:14
 msgid "Enter credentials for remote repository"
-msgstr "输入远程仓库的登录凭据"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1176
 msgid "Incorrect username or password."
-msgstr "用户名或密码错误"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:118
 msgid "Submit the commit using the summary and description from commit box"
-msgstr "使用提交框中的摘要和描述进行提交"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:129
 msgid "Open Git Repository in Terminal"
-msgstr "在终端中打开 Git 仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:130
 msgid "Open a New Terminal to the Git Repository"
-msgstr "打开一个新的终端到 Git 仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:159
 msgid "Git Interface"
-msgstr "Git 界面"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:160
 msgid "Go to Git user interface"
-msgstr "转到 Git 用户界面"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:172 src/commandsAndMenu.tsx:179
 msgid "Initialize a Repository"
-msgstr "初始化仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:173
 msgid "Create an empty Git repository or reinitialize an existing one"
-msgstr "创建一个空的 Git 仓库或重新初始化一个现有的库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:180
 msgid "Do you really want to make this directory a Git Repo?"
-msgstr "您真的要将这个目录作为 Git 仓库吗？"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:182 src/commandsAndMenu.tsx:295 src/commandsAndMenu.tsx:743 src/commandsAndMenu.tsx:786
 msgid "Cancel"
-msgstr "取消"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:183
 msgid "Yes"
-msgstr "是"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:189
 msgid "Initializing..."
-msgstr "正在初始化..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:196
 msgid "Git repository initialized."
-msgstr "Git 仓库已初始化。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:201
 msgid "Encountered an error when initializing the repository. Error: "
-msgstr "初始化仓库时出现错误。错误："
+msgstr ""
 
 #: src/commandsAndMenu.tsx:207
 msgid "Failed to initialize the Git repository"
-msgstr "初始化 Git 仓库失败"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:228
 msgid "Simple staging"
-msgstr "简易暂存模式"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:237
 msgid "Double click opens diff"
-msgstr "双击打开文件对比"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:246
 msgid "Add Remote Repository"
-msgstr "添加远程仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:247
 msgid "Add a Git remote repository"
-msgstr "添加一个 Git 远程仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:252
 msgid "Not in a Git repository. Unable to add a remote."
-msgstr "不在 Git 仓库中。无法添加远程版本。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:261
 msgid "Add a remote repository"
-msgstr "添加一个远程仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:262
 msgid "Remote Git repository URL"
-msgstr "远程 Git 仓库 URL"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:276
 msgid "Error when adding remote repository"
-msgstr "添加远程仓库时出错"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:286
 msgid "Clone a Repository"
-msgstr "克隆一个仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:287
 msgid "Clone a repository from a URL"
-msgstr "从 URL 克隆一个仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:291
 msgid "Clone a repo"
-msgstr "克隆一个仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:296
 msgid "CLONE"
-msgstr "克隆"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:303
 msgid "Cloning..."
-msgstr "正在克隆..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:313
 msgid "Successfully cloned"
-msgstr "克隆成功"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:324
 msgid "Failed to clone"
-msgstr "克隆失败"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:335 src/commandsAndMenu.tsx:336
 msgid "Open .gitignore"
-msgstr "打开 .gitignore"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:345
 msgid "Push to Remote"
-msgstr "推送至远程"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:346
 msgid "Push code to remote repository"
-msgstr "推送代码到远程仓库"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:351
 msgid "Pushing..."
-msgstr "正在推送..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:360
 msgid "Successfully pushed"
-msgstr "推送成功"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:366
 msgid "Encountered an error when pushing changes. Error: "
-msgstr "在推送更改时出现错误。错误："
+msgstr ""
 
 #: src/commandsAndMenu.tsx:370
 msgid "Failed to push"
-msgstr "推送失败"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:380
 msgid "Pull from Remote"
-msgstr "从远程拉取"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:381
 msgid "Pull latest code from remote repository"
-msgstr "从远程仓库拉取最新代码"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:386
 msgid "Pulling..."
-msgstr "正在拉取..."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:395
 msgid "Successfully pulled"
-msgstr "拉取成功"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:405
 msgid "Failed to pull"
-msgstr "拉取失败"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:421
 msgid "Show Diff"
-msgstr "显示差异对比"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:422
 msgid "Display a file diff."
-msgstr "显示一个文件的差异对比。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:468
 msgid "Refresh"
-msgstr "刷新"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:473
 msgid "Refresh diff widget"
-msgstr "刷新差异小部件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:496
 msgid "Diff Not Supported"
-msgstr "不支持差异对比"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:497
 msgid "Diff is not supported for %1 files."
-msgstr "%1 文件不支持差异对比。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:511
 msgid "Open"
-msgstr "打开"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:513
 msgid "Open selected file"
-msgstr "打开选中的文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:514
 msgid "Open selected files"
-msgstr "打开选中的文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:522
 msgid "Open File Failed"
-msgstr "打开文件失败"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:523
 msgid "This file has been deleted!"
-msgstr "该文件已删除"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:544
 msgid "Diff"
-msgstr "差异对比"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:546
 msgid "Diff selected file"
-msgstr "比较选中的文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:547
 msgid "Diff selected files"
-msgstr "比较选中的文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:651
 msgid "Add"
-msgstr "添加"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:653
 msgid "Stage or track the changes to selected file"
-msgstr "暂存或追踪选定文件的改动"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:654
 msgid "Stage or track the changes of selected files"
-msgstr "暂存或追踪选定文件的改动"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:666
 msgid "Stage"
-msgstr "暂存"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:668
 msgid "Stage the changes of selected file"
-msgstr "暂存选定文件的改动"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:669
 msgid "Stage the changes of selected files"
-msgstr "暂存选定文件的改动"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:681
 msgid "Track"
-msgstr "追踪"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:683
 msgid "Start tracking selected file"
-msgstr "开始跟踪选定的文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:684
 msgid "Start tracking selected files"
-msgstr "开始跟踪选定的文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:696
 msgid "Unstage"
-msgstr "取消暂存"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:698
 msgid "Unstage the changes of selected file"
-msgstr "取消暂存选定文件的改动"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:699
 msgid "Unstage the changes of selected files"
-msgstr "取消暂存选定文件的改动"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:722 src/commandsAndMenu.tsx:744
 msgid "Delete"
-msgstr "删除"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:724
 msgid "Delete this file"
-msgstr "删除此文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:725
 msgid "Delete these files"
-msgstr "删除此文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:732
 msgid "Delete Files"
-msgstr "删除文件"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:735
 msgid "Are you sure you want to permanently delete the following files?               This action cannot be undone."
-msgstr "您确定要永久删除以下文件吗？               此操作无法撤消。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:754
 msgid "Deleting %1 failed."
-msgstr "删除 %1 失败。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:755 src/commandsAndMenu.tsx:810 src/index.ts:128
 msgid "DISMISS"
-msgstr "忽略"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:765 src/commandsAndMenu.tsx:787
 msgid "Discard"
-msgstr "丢弃"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:767
 msgid "Discard recent changes of selected file"
-msgstr "放弃选定文件的改动"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:768
 msgid "Discard recent changes of selected files"
-msgstr "放弃选定文件的更改"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:775
 msgid "Discard changes"
-msgstr "丢弃更改"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:778
 msgid "Are you sure you want to permanently discard changes to the following files?               This action cannot be undone."
-msgstr "您确定要永久放弃对以下文件的改动？               此操作无法撤消。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:808
 msgid "Discard changes for %1 failed."
-msgstr "放弃对 %1 的更改失败。"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:821 src/commandsAndMenu.tsx:825
 msgid "Ignore this file (add to .gitignore)"
-msgstr "忽略此文件（添加到 .gitignore）"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:822 src/commandsAndMenu.tsx:826
 msgid "Ignore these files (add to .gitignore)"
-msgstr "忽略此文件（添加到 .gitignore）"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:844
 msgid "Ignore %2 extension (add to .gitignore)"
 msgid_plural "Ignore %2 extensions (add to .gitignore)"
-msgstr[0] "忽略 %2 文件扩展（添加到 .gitignore）"
+msgstr[0] ""
 
 #: src/commandsAndMenu.tsx:852
 msgid "Ignore this file extension (add to .gitignore)"
-msgstr "忽略此文件扩展（添加到 .gitignore）"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:853
 msgid "Ignore these files extension (add to .gitignore)"
-msgstr "忽略此文件扩展（添加到 .gitignore）"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:862
 msgid "Ignore file extension"
-msgstr "忽略文件扩展"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:863
 msgid "Are you sure you want to ignore all %1 files within this git repository?"
-msgstr "您确定要忽略此 git 仓库中的所有 %1 个文件吗？"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:869 src/commandsAndMenu.tsx:872
 msgid "Ignore"
-msgstr "忽略"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:889
 msgid "No actions available"
-msgstr "无可用操作"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:908
 msgid "Set Up Remotes"
-msgstr "设置远程版本"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:912
 msgid "Git Documentation"
-msgstr "Git 文档"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:943
 msgid " Help "
-msgstr " 帮助 "
+msgstr ""
 
 #: src/components/BranchMenu.tsx:51
 msgid "Unable to switch branch"
-msgstr "无法切换分支"
+msgstr ""
 
 #: src/components/BranchMenu.tsx:55 src/components/TagMenu.tsx:49
 msgid "Your changes to the following files would be overwritten by switching:"
-msgstr "您对以下文件的改动将通过切换被覆盖："
+msgstr ""
 
 #: src/components/BranchMenu.tsx:63
 msgid "Please commit, stash, or discard your changes before you switch branches."
-msgstr "请在切换分支之前提交、发布或放弃您的改动。"
+msgstr ""
 
 #: src/components/BranchMenu.tsx:69 src/components/TagMenu.tsx:63
 msgid "Dismiss"
-msgstr "忽略"
+msgstr ""
 
 #: src/components/BranchMenu.tsx:74
 msgid "Failed to switch branch."
-msgstr "切换分支失败。"
+msgstr ""
 
 #: src/components/TagMenu.tsx:45
 msgid "Unable to checkout tag"
-msgstr "无法检出标签"
+msgstr ""
 
 #: src/components/TagMenu.tsx:57
 msgid "Please commit, stash, or discard your changes before you checkout tags."
-msgstr "请在检出标签之前提交、发布或放弃您的改动。"
+msgstr ""
 
 #: src/components/TagMenu.tsx:68
 msgid "Failed to checkout tag."
-msgstr "检出标签失败。"
+msgstr ""
 
 #: src/index.ts:102
 msgid "git command version must be > 2; got %1."
-msgstr "git 命令版本必大于 2；当前版本为 %1。"
+msgstr ""
 
 #: src/index.ts:109
 msgid "The versions of the JupyterLab Git server frontend and backend do not match. The @jupyterlab/git frontend extension has version: %1 while the python package has version %2. Please install identical version of jupyterlab-git Python package and the @jupyterlab/git extension. Try running: pip install --upgrade jupyterlab-git"
-msgstr "JupyterLab Git 服务器的前端和后端版本不匹配。@jupyterlab/git 前端扩展版本为：%1。而 Python 包版本为 %2。请安装相同版本的 jupyterlab-git Python 包和 @jupyterlab/git 扩展。尝试运行：pip install --upyterlab-git"
+msgstr ""
 
 #: src/index.ts:126
 msgid "Failed to load the jupyterlab-git server extension"
-msgstr "加载 jupyterlab-git 服务器扩展失败"
+msgstr ""
 
 #: src/index.ts:94
 msgid "git command not found - please ensure you have Git > 2 installed"
-msgstr "git 命令未找到 - 请确保您已安装 Git 2 或更高版本"
+msgstr ""
 
 #: src/server.ts:27
 msgid "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list."
-msgstr "Git 服务器扩展不可用。请确保您已经通过运行 pip install --upyterlab-git 安装了 JupyterLab Git 服务器扩展。要确认服务器扩展已安装，请运行：jupyter server extension list。"
+msgstr ""
 
 #: src/widgets/CredentialsBox.tsx:36
 msgid "username"
-msgstr "用户名"
+msgstr ""
 
 #: src/widgets/CredentialsBox.tsx:37
 msgid "password / personal access token"
-msgstr "密码 / 个人访问令牌"
+msgstr ""
 
 #: src/widgets/GitCloneForm.ts:30
 msgid "Enter the Clone URI of the repository"
-msgstr "输入仓库的克隆 URI"
+msgstr ""
 
