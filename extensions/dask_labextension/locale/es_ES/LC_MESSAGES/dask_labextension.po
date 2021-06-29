@@ -8,25 +8,25 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/extensions/dask_labextension/locale/dask_labextension.pot\n"
-"X-Crowdin-File-ID: 26\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/dask_labextension/locale/dask_labextension.pot\n"
+"X-Crowdin-File-ID: 50\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-04-25 16:04\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /schema/plugin.json:14
 msgid "Auto-Start Client"
-msgstr "Inicio automático del cliente"
+msgstr "Autoiniciar cliente"
 
 #: /schema/plugin.json:15
 msgctxt "schema"
 msgid "If set to true, every notebook and console will automatically have a dask client for the active cluster injected into the kernel under the name 'client'"
-msgstr "Si es verdadero, cada libreta y consola tendrá automáticamente un cliente de dask para el clúster activado incluido en el núcleo bajo el nombre 'client'"
+msgstr "Si es verdadero, cada portátil y consola tendrá automáticamente un cliente de dask para el clúster activo inyectado en el núcleo bajo el nombre 'client'"
 
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Dask Dashboard"
-msgstr "Panel de tareas"
+msgstr "Tablero de Dask"
 
 #: /schema/plugin.json:5
 msgctxt "schema"
