@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: zh-TW\n"
-"X-Crowdin-File: /master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
-"X-Crowdin-File-ID: 28\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
+"X-Crowdin-File-ID: 52\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2021-04-24 01:20\n"
+"PO-Revision-Date: 2021-06-29 10:07\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -63,7 +63,7 @@ msgstr "若為 true, 雙擊已變更檔案列表中的檔案將開啟一個diff�
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr "Git"
+msgstr ""
 
 #: /schema/plugin.json:40
 msgid "History count"
