@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: ar\n"
-"X-Crowdin-File: /master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
-"X-Crowdin-File-ID: 28\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_git/locale/jupyterlab_git.pot\n"
+"X-Crowdin-File-ID: 52\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-06-07 15:45\n"
+"PO-Revision-Date: 2021-06-29 10:07\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -62,7 +62,7 @@ msgstr "إذا كان صحيحاً، فإن النقر المزدوج فوق م�
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr "Git"
+msgstr ""
 
 #: /schema/plugin.json:40
 msgid "History count"
@@ -75,7 +75,7 @@ msgstr "عدد (الأحدث عهدا) الالتزامات المبينة في 
 
 #: /schema/plugin.json:46
 msgid "Refresh if the Git tab is hidden"
-msgstr "حدث عند اختفاء علامة التبويب Git"
+msgstr ""
 
 #: /schema/plugin.json:47
 msgctxt "schema"
@@ -107,7 +107,7 @@ msgstr "إذا كان صحيحاً، استخدم مفهوماً مبسطاً ل
 
 #: /schema/plugin.json:64
 msgid "Trigger push on commit"
-msgstr "الرفع التلقائي بعد حفظ التغييرات"
+msgstr ""
 
 #: /schema/plugin.json:65
 msgctxt "schema"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:1172
 msgid "Git credentials required"
-msgstr "بيانات الولوج لـ git مطلوبة"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:1175 src/widgets/CredentialsBox.tsx:14
 msgid "Enter credentials for remote repository"
@@ -128,7 +128,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:1176
 msgid "Incorrect username or password."
-msgstr "خطأ في اسم المستخدم او كلمة المرور."
+msgstr ""
 
 #: src/commandsAndMenu.tsx:118
 msgid "Submit the commit using the summary and description from commit box"
@@ -192,7 +192,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:237
 msgid "Double click opens diff"
-msgstr "النقر المزدوج لفتح diff"
+msgstr ""
 
 #: src/commandsAndMenu.tsx:246
 msgid "Add Remote Repository"
