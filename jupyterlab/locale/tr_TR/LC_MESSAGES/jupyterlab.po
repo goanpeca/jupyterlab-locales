@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /master/jupyterlab/locale/jupyterlab.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
+"X-Crowdin-File-ID: 48\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2021-05-01 15:24\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -243,7 +243,7 @@ msgstr "Değer boolean veya string türünde. Örnek 'pointer'"
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr "Ctrl-C"
+msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
@@ -661,7 +661,7 @@ msgstr "Metin oluşturmak için kullanılan yazı tipi."
 #: /packages/terminal-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Terminal"
-msgstr "Terminal"
+msgstr ""
 
 #: /packages/terminal-extension/schema/plugin.json:40
 msgid "Font size"
@@ -919,7 +919,7 @@ msgstr "Sunum Modu"
 
 #: packages/application-extension/src/index.tsx:821 packages/statusbar-extension/src/index.ts:379
 msgid "Simple Interface"
-msgstr "Basit arayüz"
+msgstr ""
 
 #: packages/application-extension/src/index.tsx:935
 msgid "Property Inspector"
@@ -943,7 +943,7 @@ msgstr "Yükleniyor..."
 msgid "The loading screen is taking a long time. \n"
 "Would you like to clear the workspace or keep waiting?"
 msgstr "Ekranı yüklemek uzun zaman alıyor.\n"
-"Çalışma alanını temizlemek mi yada beklemeye devam etmek mi istersin?"
+"Çalışma alanını temizleme yada beklemeye devam etmek mi istersin?"
 
 #: packages/apputils-extension/src/index.ts:216
 msgid "Keep Waiting"
@@ -1171,11 +1171,11 @@ msgstr "Metin Düzenleyicisinin Sözdizimi Vurgulaması"
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr "codemirror"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr "Sublime Text"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1187,7 +1187,7 @@ msgstr "Satıra git..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr "jupyter"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
@@ -1195,15 +1195,15 @@ msgstr "Varsayılan"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr "abcdef"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
-msgstr "base16-dark"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:419
 msgid "base16-light"
-msgstr "base16-light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:420
 msgid "hopscotch"
@@ -1215,15 +1215,15 @@ msgstr "malzeme"
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr "mbo"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
-msgstr "mdn-like"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr "seti"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
@@ -1239,7 +1239,7 @@ msgstr "matrix"
 
 #: packages/codemirror-extension/src/index.ts:428
 msgid "xq-light"
-msgstr "xq-light"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
@@ -1247,15 +1247,15 @@ msgstr "Zenburn"
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr "sublime"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr "vim"
+msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr "emacs"
+msgstr ""
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1394,7 +1394,7 @@ msgstr "veriyolu"
 
 #: packages/csvviewer/src/toolbar.ts:130
 msgid "hash"
-msgstr "hash"
+msgstr ""
 
 #: packages/csvviewer/src/toolbar.ts:136
 msgid "Delimiter: "
@@ -1458,15 +1458,15 @@ msgstr "Değişkenler"
 
 #: packages/debugger/src/panels/variables/index.ts:73
 msgid "Tree View"
-msgstr "Ağaç Görünümü"
+msgstr ""
 
 #: packages/debugger/src/panels/variables/index.ts:80
 msgid "Table View"
-msgstr "Tablo Görünümü"
+msgstr ""
 
 #: packages/debugger/src/panels/variables/scope.tsx:53
 msgid "Scope"
-msgstr "Kapsam"
+msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:235
 msgid "Overrides for the default viewers for file types.\n"
@@ -1939,7 +1939,7 @@ msgstr "Sil"
 
 #: packages/extensionmanager/src/widget.tsx:367
 msgid "About"
-msgstr "Hakkında"
+msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:386
 msgid "This is a prebuilt extension. To uninstall it, please\n"
@@ -3133,23 +3133,23 @@ msgstr "Not Defteri İçin:"
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr "HTML"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr "LaTeX"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr "Markdown"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr "PDF"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
-msgstr "ReStructured Text"
+msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2527
 msgid "Executable Script"
@@ -3332,7 +3332,7 @@ msgstr "Notlar"
 
 #: packages/notebook/src/notebooktools.ts:929
 msgid "Raw NBConvert Format"
-msgstr "Raw NBConvert Format"
+msgstr ""
 
 #: packages/notebook/src/panel.ts:203
 msgid "Kernel Restarting"
@@ -3394,15 +3394,15 @@ msgstr "Açılan Sekmeler"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr "Kapat"
+msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr "Tümünü Kapat"
+msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
-msgstr "Tüm sekmeleri kapatmak istediğinizden emin misiniz?"
+msgstr ""
 
 #: packages/running/src/index.tsx:294
 msgid "Refresh List"
@@ -3486,7 +3486,7 @@ msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr "Basit"
+msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
@@ -3550,7 +3550,7 @@ msgstr "Yeni terminal"
 
 #: packages/terminal-extension/src/index.ts:341 packages/terminal-extension/src/index.ts:91 packages/terminal/src/widget.ts:76
 msgid "Terminal"
-msgstr "Terminal"
+msgstr ""
 
 #: packages/terminal-extension/src/index.ts:342
 msgid "Start a new terminal session"
@@ -3582,7 +3582,7 @@ msgstr "Terminal temasını ayarla"
 
 #: packages/terminal/src/widget.ts:97
 msgid "Terminal %1"
-msgstr "Terminal %1"
+msgstr ""
 
 #: packages/theme-dark-extension/src/index.ts:32
 msgid "JupyterLab Dark"
@@ -3635,7 +3635,7 @@ msgstr "Yenilemek istediğinize emin misiniz?"
 #. obsolete
 #: packages/fileeditor-extension/src/commands.ts:1200
 msgid "Editor"
-msgstr ""
+msgstr "Düzenleyici"
 
 #. obsolete
 #: packages/debugger/src/panels/variables/index.ts:70
