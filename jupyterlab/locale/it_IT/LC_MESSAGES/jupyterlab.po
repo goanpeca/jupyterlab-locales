@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-06-29 13:58\n"
+"PO-Revision-Date: 2021-06-30 08:47\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -1821,11 +1821,11 @@ msgstr "Sostituisci Tutto"
 
 #: packages/extensionmanager-extension/src/index.ts:109 packages/extensionmanager-extension/src/index.ts:58
 msgid "Extension Manager"
-msgstr ""
+msgstr "Gestore dell'Estensione"
 
 #: packages/extensionmanager-extension/src/index.ts:139
 msgid "Enable Extension Manager?"
-msgstr ""
+msgstr "Abilitare il Gestore dell'Estensione?"
 
 #: packages/extensionmanager-extension/src/index.ts:140
 msgid "Thanks for trying out JupyterLab's extension manager.\n"
@@ -1834,7 +1834,12 @@ msgid "Thanks for trying out JupyterLab's extension manager.\n"
 "However, we cannot vouch for every extension,\n"
 "and some may introduce security risks.\n"
 "Do you want to continue?"
-msgstr ""
+msgstr "Grazie per aver provato il nostro gestore dell'estensione di JupyterLab.\n"
+"Il team di sviluppo di JupyterLab è entusiasta di avere una robusta\n"
+"community di estensioni di terze parti.\n"
+"Tuttavia, non possiamo garantire per ogni estensione,\n"
+"e alcune potrebbero introdurre rischi di sicurezza.\n"
+"Desideri continuare?"
 
 #: packages/extensionmanager-extension/src/index.ts:147 packages/extensionmanager/src/widget.tsx:331 packages/extensionmanager/src/widget.tsx:800
 msgid "Disable"
@@ -2057,205 +2062,211 @@ msgstr "Duplica"
 
 #: packages/filebrowser-extension/src/index.ts:581
 msgid "Open from Path…"
-msgstr ""
+msgstr "Apri dal Percorso…"
 
 #: packages/filebrowser-extension/src/index.ts:581 packages/filebrowser-extension/src/index.ts:583
 msgid "Open %1"
-msgstr ""
+msgstr "Apri %1"
 
 #: packages/filebrowser-extension/src/index.ts:583
 msgid "Open from path"
-msgstr ""
+msgstr "Apri dal percorso"
 
 #: packages/filebrowser-extension/src/index.ts:592
 msgid "Path"
-msgstr ""
+msgstr "Percorso"
 
 #: packages/filebrowser-extension/src/index.ts:594
 msgid "Open Path"
-msgstr ""
+msgstr "Apri Percorso"
 
 #: packages/filebrowser-extension/src/index.ts:595 packages/filebrowser-extension/src/index.ts:680
 msgid "Open"
-msgstr ""
+msgstr "Apri"
 
 #: packages/filebrowser-extension/src/index.ts:626
 msgid "Could not find path: %1"
-msgstr ""
+msgstr "Impossibile trovare il percorso: %1"
 
 #: packages/filebrowser-extension/src/index.ts:628
 msgid "Cannot open"
-msgstr ""
+msgstr "Impossibile aprire"
 
 #: packages/filebrowser-extension/src/index.ts:721
 msgid "Copy Download Link"
-msgstr ""
+msgstr "Copia Link di Download"
 
 #: packages/filebrowser-extension/src/index.ts:734 packages/fileeditor-extension/src/commands.ts:787
 msgid "Paste"
-msgstr ""
+msgstr "Incolla"
 
 #: packages/filebrowser-extension/src/index.ts:747 packages/filebrowser/src/browser.ts:96
 msgid "New Folder"
-msgstr ""
+msgstr "Nuova Cartella"
 
 #: packages/filebrowser-extension/src/index.ts:762
 msgid "New File"
-msgstr ""
+msgstr "Nuovo File"
 
 #: packages/filebrowser-extension/src/index.ts:777 packages/fileeditor-extension/src/commands.ts:892
 msgid "New Markdown File"
-msgstr ""
+msgstr "Nuovo File di Markdown"
 
 #: packages/filebrowser-extension/src/index.ts:810
 msgid "Copy Path"
-msgstr ""
+msgstr "Copia Percorso"
 
 #: packages/filebrowser-extension/src/index.ts:852 packages/mainmenu-extension/src/index.ts:577
 msgid "Shut Down Kernel"
-msgstr ""
+msgstr "Arresta il Kernel"
 
 #: packages/filebrowser-extension/src/index.ts:871
 msgid "Show Active File in File Browser"
-msgstr ""
+msgstr "Mostra File Attivi in Esplora File"
 
 #: packages/filebrowser-extension/src/index.ts:885
 msgid "Toggle Last Modified Column"
-msgstr ""
+msgstr "Attiva/Disattiva Colonna Ultima Modifica"
 
 #: packages/filebrowser-extension/src/index.ts:907
 msgid "Search on File Names"
-msgstr ""
+msgstr "Cerca sui Nomi File"
 
 #: packages/filebrowser/src/browser.ts:105
 msgid "Refresh File List"
-msgstr ""
+msgstr "Ricarica l'Elenco dei File"
 
 #: packages/filebrowser/src/browser.ts:121 packages/filebrowser/src/browser.ts:175
 msgid "Filter files by name"
-msgstr ""
+msgstr "Filtra file per nome"
 
 #: packages/filebrowser/src/browser.ts:342
 msgid "Directory not found"
-msgstr ""
+msgstr "Cartella non trovata"
 
 #: packages/filebrowser/src/browser.ts:343 packages/filebrowser/src/model.ts:304
 msgid "Directory not found: \"%1\""
-msgstr ""
+msgstr "Cartella non trovata: \"%1\""
 
 #: packages/filebrowser/src/crumbs.ts:173
 msgid "Open Error"
-msgstr ""
+msgstr "Errore d'Apertura"
 
 #: packages/filebrowser/src/crumbs.ts:281
 msgid "Move Error"
-msgstr ""
+msgstr "Errore di Spostamento"
 
 #: packages/filebrowser/src/listing.ts:1202
 msgctxt "showErrorMessage"
 msgid "Error while copying/moving files"
-msgstr ""
+msgstr "Errore copiando/spostando i file"
 
 #: packages/filebrowser/src/listing.ts:1419
 msgctxt "showErrorMessage"
 msgid "Delete Failed"
-msgstr ""
+msgstr "Eliminazione Fallita"
 
 #: packages/filebrowser/src/listing.ts:1450
 msgid "showErrorMessage"
-msgstr ""
+msgstr "showErrorMessage"
 
 #: packages/filebrowser/src/listing.ts:1452
 msgctxt "showErrorMessage"
 msgid "\"%1\" is not a valid name for a file. Names must have nonzero length, and cannot include \"/\", \"\\\", or \":\""
-msgstr ""
+msgstr "\"%1\" non è un nome valido per un file. I nomi devono avere una lunghezza non pari a zero, e non possono includere \"/\", \"\\\" o \":\""
 
 #: packages/filebrowser/src/listing.ts:1476
 msgctxt "showErrorMessage"
 msgid "Rename Error"
-msgstr ""
+msgstr "Errore di Rinominazione"
 
 #: packages/filebrowser/src/listing.ts:1781
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: packages/filebrowser/src/listing.ts:1783
 msgid "Last Modified"
-msgstr ""
+msgstr "Ultima Modifica"
 
 #: packages/filebrowser/src/listing.ts:1926
 msgid "Name: %1"
-msgstr ""
+msgstr "Nome: %1"
 
 #: packages/filebrowser/src/listing.ts:1930
 msgid "\n"
 "Size: %1"
-msgstr ""
+msgstr "\n"
+"Dimensioni: %1"
 
 #: packages/filebrowser/src/listing.ts:1938
 msgid "\n"
 "Path: %1"
-msgstr ""
+msgstr "\n"
+"Percorso: %1"
 
 #: packages/filebrowser/src/listing.ts:1945
 msgid "\n"
 "Created: %1"
-msgstr ""
+msgstr "\n"
+"Creato: %1"
 
 #: packages/filebrowser/src/listing.ts:1951
 msgid "\n"
 "Modified: %1"
-msgstr ""
+msgstr "\n"
+"Modificato: %1"
 
 #: packages/filebrowser/src/listing.ts:1956
 msgid "\n"
 "Writable: %1"
-msgstr ""
+msgstr "\n"
+"Scrivibile: %1"
 
 #: packages/filebrowser/src/listing.ts:2026
 msgid "%1 Item"
 msgid_plural "%1 Items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 Elemento"
+msgstr[1] "%1 Elementi"
 
 #: packages/filebrowser/src/listing.ts:389
 msgctxt "showErrorMessage"
 msgid "Paste Error"
-msgstr ""
+msgstr "Errore Incollando"
 
 #: packages/filebrowser/src/listing.ts:409
 msgid "Are you sure you want to permanently delete: %1?"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare permanentemente: %1?"
 
 #: packages/filebrowser/src/listing.ts:413
 msgid "Are you sure you want to permanently delete the %1 selected item?"
 msgid_plural "Are you sure you want to permanently delete the %1 selected items?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sei sicuro di voler eliminare permanente %1 elemento selezionato?"
+msgstr[1] "Sei sicuro di voler eliminare permanente %1 elementi selezionati?"
 
 #: packages/filebrowser/src/listing.ts:453
 msgctxt "showErrorMessage"
 msgid "Duplicate file"
-msgstr ""
+msgstr "File duplicato"
 
 #: packages/filebrowser/src/listing.ts:493
 msgctxt "showErrorMessage"
 msgid "Shut down kernel"
-msgstr ""
+msgstr "Arresta il kernel"
 
 #: packages/filebrowser/src/listing.ts:836
 msgid "%1\n"
 "Kernel: %2"
-msgstr ""
+msgstr "%1\n"
+"Kernel: %2"
 
 #: packages/filebrowser/src/listing.ts:981
 msgctxt "showErrorMessage"
 msgid "Open directory"
-msgstr ""
+msgstr "Apri cartella"
 
 #: packages/filebrowser/src/model.ts:100
 msgid "Files still uploading"
-msgstr ""
+msgstr "File ancora in caricamento"
 
 #: packages/filebrowser/src/model.ts:416
 msgid "Cannot upload file (>%1 MB). %2"
@@ -2667,19 +2678,19 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:174
 msgid "Open Edit Menu"
-msgstr ""
+msgstr "Apri Menu di Modifica"
 
 #: packages/mainmenu-extension/src/index.ts:178
 msgid "Open File Menu"
-msgstr ""
+msgstr "Apri Menu dei File"
 
 #: packages/mainmenu-extension/src/index.ts:182
 msgid "Open Kernel Menu"
-msgstr ""
+msgstr "Apri Menu del Kernel"
 
 #: packages/mainmenu-extension/src/index.ts:186
 msgid "Open Run Menu"
-msgstr ""
+msgstr "Apri Menu di Esecuzione"
 
 #: packages/mainmenu-extension/src/index.ts:190
 msgid "Open View Menu"
@@ -2879,147 +2890,147 @@ msgstr "Esporta Notebook: %1"
 
 #: packages/notebook-extension/src/index.ts:1297 packages/notebook-extension/src/index.ts:2228
 msgid "Restart Kernel and Clear All Outputs…"
-msgstr ""
+msgstr "Riavvia Kernel e Cancella Tutti gli Output…"
 
 #: packages/notebook-extension/src/index.ts:1312
 msgid "Restart Kernel and Run up to Selected Cell…"
-msgstr ""
+msgstr "Riavvia Kernel ed Esegui alla Cella Selezionata…"
 
 #: packages/notebook-extension/src/index.ts:1339 packages/notebook-extension/src/index.ts:2296
 msgid "Restart Kernel and Run All Cells…"
-msgstr ""
+msgstr "Riavvia Kernel ed Esegui Tutte le Celle…"
 
 #: packages/notebook-extension/src/index.ts:1359 packages/notebook-extension/src/index.ts:2132
 msgid "Clear All Outputs"
-msgstr ""
+msgstr "Cancella Tutti gli Output"
 
 #: packages/notebook-extension/src/index.ts:1370
 msgid "Clear Outputs"
-msgstr ""
+msgstr "Cancella Output"
 
 #: packages/notebook-extension/src/index.ts:1398
 msgid "Change to Code Cell Type"
-msgstr ""
+msgstr "Cambia al Tipo di Cella di Codice"
 
 #: packages/notebook-extension/src/index.ts:1409
 msgid "Change to Markdown Cell Type"
-msgstr ""
+msgstr "Cambia al Tipo di Cella di Markdown"
 
 #: packages/notebook-extension/src/index.ts:1420
 msgid "Change to Raw Cell Type"
-msgstr ""
+msgstr "Cambia al Tipo di Cella Grezza"
 
 #: packages/notebook-extension/src/index.ts:1431
 msgid "Cut Cells"
-msgstr ""
+msgstr "Taglia Celle"
 
 #: packages/notebook-extension/src/index.ts:1442
 msgid "Copy Cells"
-msgstr ""
+msgstr "Copia Celle"
 
 #: packages/notebook-extension/src/index.ts:1453
 msgid "Paste Cells Below"
-msgstr ""
+msgstr "Incolla Celle Sotto"
 
 #: packages/notebook-extension/src/index.ts:1464
 msgid "Paste Cells Above"
-msgstr ""
+msgstr "Incolla Celle Sopra"
 
 #: packages/notebook-extension/src/index.ts:1475
 msgid "Paste Cells and Replace"
-msgstr ""
+msgstr "Incolla Celle e Sostituisci"
 
 #: packages/notebook-extension/src/index.ts:1486
 msgid "Delete Cells"
-msgstr ""
+msgstr "Elimina Celle"
 
 #: packages/notebook-extension/src/index.ts:1497
 msgid "Split Cell"
-msgstr ""
+msgstr "Dividi Celle"
 
 #: packages/notebook-extension/src/index.ts:1508
 msgid "Merge Selected Cells"
-msgstr ""
+msgstr "Unisci le Celle Selezionate"
 
 #: packages/notebook-extension/src/index.ts:1519
 msgid "Insert Cell Above"
-msgstr ""
+msgstr "Inserisci Cella Sopra"
 
 #: packages/notebook-extension/src/index.ts:1530
 msgid "Insert Cell Below"
-msgstr ""
+msgstr "Inserisci Cella Sotto"
 
 #: packages/notebook-extension/src/index.ts:1541
 msgid "Select Cell Above"
-msgstr ""
+msgstr "Seleziona Cella Sopra"
 
 #: packages/notebook-extension/src/index.ts:1552
 msgid "Select Cell Below"
-msgstr ""
+msgstr "Seleziona Cella Sotto"
 
 #: packages/notebook-extension/src/index.ts:1563
 msgid "Extend Selection Above"
-msgstr ""
+msgstr "Estendi Selezione Sopra"
 
 #: packages/notebook-extension/src/index.ts:1574
 msgid "Extend Selection to Top"
-msgstr ""
+msgstr "Estendi Selezione in Cima"
 
 #: packages/notebook-extension/src/index.ts:1585
 msgid "Extend Selection Below"
-msgstr ""
+msgstr "Estendi Selezione Sotto"
 
 #: packages/notebook-extension/src/index.ts:1596
 msgid "Extend Selection to Bottom"
-msgstr ""
+msgstr "Estendi Selezione in Fondo"
 
 #: packages/notebook-extension/src/index.ts:1607
 msgid "Select All Cells"
-msgstr ""
+msgstr "Seleziona Tutte le Celle"
 
 #: packages/notebook-extension/src/index.ts:1618
 msgid "Deselect All Cells"
-msgstr ""
+msgstr "Deseleziona Tutte le Celle"
 
 #: packages/notebook-extension/src/index.ts:1629
 msgid "Move Cells Up"
-msgstr ""
+msgstr "Sposta Celle Su"
 
 #: packages/notebook-extension/src/index.ts:1640
 msgid "Move Cells Down"
-msgstr ""
+msgstr "Sposta Celle Giù"
 
 #: packages/notebook-extension/src/index.ts:1651
 msgid "Toggle All Line Numbers"
-msgstr ""
+msgstr "Attiva/Disattiva Tutti i Numeri della Linea"
 
 #: packages/notebook-extension/src/index.ts:1662
 msgid "Enter Command Mode"
-msgstr ""
+msgstr "Inserisci Modalità di Comando"
 
 #: packages/notebook-extension/src/index.ts:1673
 msgid "Enter Edit Mode"
-msgstr ""
+msgstr "Inserisci Modalità di Modifica"
 
 #: packages/notebook-extension/src/index.ts:1684
 msgid "Undo Cell Operation"
-msgstr ""
+msgstr "Annulla l'Operazione della Cella"
 
 #: packages/notebook-extension/src/index.ts:1695
 msgid "Redo Cell Operation"
-msgstr ""
+msgstr "Ripeti Operazione Cella"
 
 #: packages/notebook-extension/src/index.ts:1720
 msgid "Reconnect To Kernel"
-msgstr ""
+msgstr "Riconnetti al Kernel"
 
 #: packages/notebook-extension/src/index.ts:1737
 msgid "Create New View for Output"
-msgstr ""
+msgstr "Crea Nuova Vista per Output"
 
 #: packages/notebook-extension/src/index.ts:1791 packages/notebook-extension/src/index.ts:2249
 msgid "New Console for Notebook"
-msgstr ""
+msgstr "Nuova Console per Notebook"
 
 #: packages/notebook-extension/src/index.ts:1808
 msgid "Change to Heading 1"
