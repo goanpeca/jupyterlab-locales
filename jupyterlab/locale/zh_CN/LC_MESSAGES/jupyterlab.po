@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-06-30 00:42\n"
+"PO-Revision-Date: 2021-06-30 01:39\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -125,12 +125,12 @@ msgstr "覆盖"
 
 #: /packages/apputils-extension/schema/palette.json:13
 msgid "Modal Command Palette"
-msgstr "模式命令面板"
+msgstr "模态命令面板"
 
 #: /packages/apputils-extension/schema/palette.json:14
 msgctxt "schema"
 msgid "Whether the command palette should be modal or in the left panel."
-msgstr ""
+msgstr "命令面板是模态的还是出现在左侧"
 
 #: /packages/apputils-extension/schema/palette.json:2
 msgctxt "schema"
@@ -239,7 +239,7 @@ msgstr "选择指针"
 #: /packages/codemirror-extension/schema/commands.json:4
 msgctxt "schema"
 msgid "CodeMirror"
-msgstr ""
+msgstr "CodeMirror"
 
 #: /packages/codemirror-extension/schema/commands.json:40
 msgctxt "schema"
@@ -542,7 +542,7 @@ msgstr "JupyterLab 主菜单设置。"
 #: /packages/notebook-extension/schema/tracker.json:221
 msgctxt "schema"
 msgid "Notebook"
-msgstr ""
+msgstr "笔记本"
 
 #: /packages/notebook-extension/schema/tracker.json:222
 msgctxt "schema"
@@ -925,7 +925,7 @@ msgstr "演示模式"
 
 #: packages/application-extension/src/index.tsx:821 packages/statusbar-extension/src/index.ts:379
 msgid "Simple Interface"
-msgstr ""
+msgstr "简化的用户界面"
 
 #: packages/application-extension/src/index.tsx:935
 msgid "Property Inspector"
@@ -999,7 +999,7 @@ msgstr "主题滚动条"
 
 #: packages/apputils-extension/src/themesplugins.ts:117
 msgid "waiting for fonts"
-msgstr ""
+msgstr "正在等待字体"
 
 #: packages/apputils-extension/src/themesplugins.ts:165
 msgid "JupyterLab Theme"
@@ -1151,7 +1151,7 @@ msgstr "添加标签"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
-msgstr ""
+msgstr "单元格标签"
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
@@ -1179,11 +1179,11 @@ msgstr "文本编辑器语法加亮"
 
 #: packages/codemirror-extension/src/index.ts:312
 msgid "codemirror"
-msgstr ""
+msgstr "codemirror"
 
 #: packages/codemirror-extension/src/index.ts:332
 msgid "Sublime Text"
-msgstr ""
+msgstr "Sublime Text"
 
 #: packages/codemirror-extension/src/index.ts:346
 msgid "Find..."
@@ -1195,15 +1195,15 @@ msgstr "跳至行..."
 
 #: packages/codemirror-extension/src/index.ts:415
 msgid "jupyter"
-msgstr ""
+msgstr "jupyter"
 
 #: packages/codemirror-extension/src/index.ts:416 packages/codemirror-extension/src/index.ts:439 packages/docregistry/src/registry.ts:1261
 msgid "default"
-msgstr ""
+msgstr "默认"
 
 #: packages/codemirror-extension/src/index.ts:417
 msgid "abcdef"
-msgstr ""
+msgstr "abcdef"
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
