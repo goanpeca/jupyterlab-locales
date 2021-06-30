@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-06-29 12:28\n"
+"PO-Revision-Date: 2021-06-30 19:08\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -395,7 +395,7 @@ msgstr "Czy użytkownik rozumie, że rozszerzenia zarządzane przez ten interfej
 #: /packages/extensionmanager-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Extension Manager"
-msgstr ""
+msgstr "Menedżer Rozszerzeń"
 
 #: /packages/extensionmanager-extension/schema/plugin.json:5
 msgctxt "schema"
