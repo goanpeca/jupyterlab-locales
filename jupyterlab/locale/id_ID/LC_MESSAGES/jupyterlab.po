@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-07-02 00:48\n"
+"PO-Revision-Date: 2021-07-02 01:53\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -706,7 +706,7 @@ msgstr ""
 
 #: /packages/terminal-extension/schema/plugin.json:70
 msgid "Shut down on close"
-msgstr ""
+msgstr "Matikan saat tutup"
 
 #: /packages/terminal-extension/schema/plugin.json:71
 msgctxt "schema"
@@ -824,7 +824,7 @@ msgstr ""
 
 #: packages/application-extension/src/index.tsx:220 packages/extensionmanager/src/build-helper.tsx:57
 msgid "Save Failed"
-msgstr ""
+msgstr "Gagal Menyimpan"
 
 #: packages/application-extension/src/index.tsx:229 packages/extensionmanager/src/build-helper.tsx:67
 msgid "Build Failed"
@@ -885,19 +885,19 @@ msgstr ""
 
 #: packages/application-extension/src/index.tsx:696
 msgid "Close Tab"
-msgstr ""
+msgstr "Tutup Tab"
 
 #: packages/application-extension/src/index.tsx:715
 msgid "Close All Tabs"
-msgstr ""
+msgstr "Tutup Semua Tab"
 
 #: packages/application-extension/src/index.tsx:722
 msgid "Close All Other Tabs"
-msgstr ""
+msgstr "Tutup semua tab yang lain"
 
 #: packages/application-extension/src/index.tsx:747
 msgid "Close Tabs to Right"
-msgstr ""
+msgstr "Tutup tab di kanan"
 
 #: packages/application-extension/src/index.tsx:765
 msgid "Show Left Sidebar"
@@ -992,27 +992,27 @@ msgstr ""
 
 #: packages/apputils-extension/src/themesplugins.ts:186 packages/apputils-extension/src/themesplugins.ts:262
 msgid "Increase Code Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font Kode"
 
 #: packages/apputils-extension/src/themesplugins.ts:193 packages/apputils-extension/src/themesplugins.ts:270
 msgid "Decrease Code Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font Kode"
 
 #: packages/apputils-extension/src/themesplugins.ts:203 packages/apputils-extension/src/themesplugins.ts:279
 msgid "Increase Content Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font Konten"
 
 #: packages/apputils-extension/src/themesplugins.ts:210 packages/apputils-extension/src/themesplugins.ts:287
 msgid "Decrease Content Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font Konten"
 
 #: packages/apputils-extension/src/themesplugins.ts:220 packages/apputils-extension/src/themesplugins.ts:296
 msgid "Increase UI Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font UI"
 
 #: packages/apputils-extension/src/themesplugins.ts:227 packages/apputils-extension/src/themesplugins.ts:304
 msgid "Decrease UI Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font UI"
 
 #: packages/apputils-extension/src/themesplugins.ts:96
 msgid "Use Theme: %1"
@@ -1028,7 +1028,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/workspacesplugin.ts:286 packages/apputils-extension/src/workspacesplugin.ts:292 packages/docmanager/src/widgetmanager.ts:378 packages/docregistry/src/context.ts:879 packages/docregistry/src/context.ts:886
 msgid "Save"
-msgstr ""
+msgstr "Simpan"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:288 packages/apputils-extension/src/workspacesplugin.ts:91
 msgid "Save Current Workspace As..."
@@ -1300,7 +1300,7 @@ msgstr ""
 
 #: packages/console-extension/src/index.ts:495
 msgid "Close and Shut Down…"
-msgstr ""
+msgstr "Tutup dan Matikan…"
 
 #: packages/console-extension/src/index.ts:502
 msgid "Shut down the console?"
@@ -1536,7 +1536,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:592
 msgid "Save %1"
-msgstr ""
+msgstr "Simpan %1"
 
 #: packages/docmanager-extension/src/index.ts:593
 msgid "Save and create checkpoint"
@@ -1544,7 +1544,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:601 packages/docmanager-extension/src/index.ts:608 packages/docmanager-extension/src/index.ts:662 packages/notebook/src/default-toolbar.tsx:67
 msgid "Cannot Save"
-msgstr ""
+msgstr "Tidak Bisa Menyimpan"
 
 #: packages/docmanager-extension/src/index.ts:609 packages/notebook/src/default-toolbar.tsx:68
 msgid "Document is read-only"
@@ -1552,11 +1552,11 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:629
 msgid "Save All"
-msgstr ""
+msgstr "Simpan Semua"
 
 #: packages/docmanager-extension/src/index.ts:630
 msgid "Save all open documents"
-msgstr ""
+msgstr "Simpan semua dokumen yang terbuka"
 
 #: packages/docmanager-extension/src/index.ts:653
 msgid "Save %1 As…"
@@ -2266,11 +2266,11 @@ msgstr ""
 
 #: packages/fileeditor-extension/src/commands.ts:1025
 msgid "Increase Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font"
 
 #: packages/fileeditor-extension/src/commands.ts:1028
 msgid "Decrease Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font"
 
 #: packages/fileeditor-extension/src/commands.ts:1084
 msgid "Text Editor Indentation"
@@ -2287,11 +2287,11 @@ msgstr[0] ""
 
 #: packages/fileeditor-extension/src/commands.ts:1106
 msgid "Increase Text Editor Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font Editor Teks"
 
 #: packages/fileeditor-extension/src/commands.ts:1110
 msgid "Decrease Text Editor Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font Editor Teks"
 
 #: packages/fileeditor-extension/src/commands.ts:1200 packages/fileeditor-extension/src/commands.ts:446
 msgid "Create Console for Editor"
@@ -2700,7 +2700,7 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:344
 msgid "Close and Shutdown"
-msgstr ""
+msgstr "Tutup dan Matikan"
 
 #: packages/mainmenu-extension/src/index.ts:374
 msgid "New Console for Activity"
@@ -2832,7 +2832,7 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:1223
 msgid "Close and Shut Down"
-msgstr ""
+msgstr "Tutup dan Matikan"
 
 #: packages/notebook-extension/src/index.ts:1234
 msgid "Shut down the notebook?"
@@ -3076,7 +3076,7 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2149
 msgid "Close and Shutdown Notebook"
-msgstr ""
+msgstr "Tutup dan Matikan Notebook"
 
 #: packages/notebook-extension/src/index.ts:2153
 msgid "Shut down the Notebook?"
@@ -3353,11 +3353,11 @@ msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr ""
+msgstr "Tutup Semua"
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
@@ -3514,11 +3514,11 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:412
 msgid "Increase Terminal Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font Terminal"
 
 #: packages/terminal-extension/src/index.ts:426
 msgid "Decrease Terminal Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font Terminal"
 
 #: packages/terminal-extension/src/index.ts:443
 msgid "Use Terminal Theme: %1"
