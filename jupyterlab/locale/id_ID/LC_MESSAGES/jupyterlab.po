@@ -12,11 +12,11 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"PO-Revision-Date: 2021-07-02 00:48\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
-msgstr ""
+msgstr "Keluarga Font"
 
 #: /examples/federated/md_package/./schema/plugin.json:31 /packages/markdownviewer-extension/schema/plugin.json:31
 msgctxt "schema"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:36 /packages/markdownviewer-extension/schema/plugin.json:36
 msgid "Font Size"
-msgstr ""
+msgstr "Ukuran Font"
 
 #: /examples/federated/md_package/./schema/plugin.json:37 /packages/markdownviewer-extension/schema/plugin.json:37
 msgctxt "schema"
@@ -646,7 +646,7 @@ msgstr ""
 
 #: /packages/terminal-extension/schema/plugin.json:34
 msgid "Font family"
-msgstr ""
+msgstr "Keluarga font"
 
 #: /packages/terminal-extension/schema/plugin.json:35
 msgctxt "schema"
@@ -660,7 +660,7 @@ msgstr ""
 
 #: /packages/terminal-extension/schema/plugin.json:40
 msgid "Font size"
-msgstr ""
+msgstr "Ukuran font"
 
 #: /packages/terminal-extension/schema/plugin.json:41
 msgctxt "schema"
@@ -984,7 +984,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/themesplugins.ts:117
 msgid "waiting for fonts"
-msgstr ""
+msgstr "mennuggu font"
 
 #: packages/apputils-extension/src/themesplugins.ts:165
 msgid "JupyterLab Theme"
