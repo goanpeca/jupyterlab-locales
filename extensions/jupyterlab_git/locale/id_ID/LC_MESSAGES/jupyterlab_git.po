@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 52\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-29 10:07\n"
+"PO-Revision-Date: 2021-07-02 00:48\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -128,7 +128,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:1176
 msgid "Incorrect username or password."
-msgstr ""
+msgstr "Salah identitas pegguna atau kata sandi."
 
 #: src/commandsAndMenu.tsx:118
 msgid "Submit the commit using the summary and description from commit box"
@@ -304,7 +304,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:468
 msgid "Refresh"
-msgstr ""
+msgstr "Segarkan"
 
 #: src/commandsAndMenu.tsx:473
 msgid "Refresh diff widget"
@@ -553,7 +553,7 @@ msgstr ""
 
 #: src/widgets/CredentialsBox.tsx:36
 msgid "username"
-msgstr ""
+msgstr "identitas pegguna"
 
 #: src/widgets/CredentialsBox.tsx:37
 msgid "password / personal access token"
