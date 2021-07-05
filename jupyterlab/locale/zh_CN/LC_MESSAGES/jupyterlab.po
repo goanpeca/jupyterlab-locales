@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-06-30 01:39\n"
+"PO-Revision-Date: 2021-07-05 04:31\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -1954,17 +1954,19 @@ msgstr "卸载"
 
 #: packages/extensionmanager/src/widget.tsx:367
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: packages/extensionmanager/src/widget.tsx:386
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    apply following instructions."
-msgstr ""
+msgstr "这是一个预构建扩展。要卸载它，请\n"
+"    使用下列说明。"
 
 #: packages/extensionmanager/src/widget.tsx:396
 msgid "This is a prebuilt extension. To uninstall it, please\n"
 "    read the user guide on:"
-msgstr ""
+msgstr "这是一个预构建扩展。要卸载它，请\n"
+"    阅读用户手册："
 
 #: packages/extensionmanager/src/widget.tsx:493
 msgid "No entries"
@@ -2516,7 +2518,7 @@ msgstr ""
 
 #: packages/hub-extension/src/index.ts:157
 msgid "Server unavailable or unreachable"
-msgstr ""
+msgstr "服务器不可用或不可访问"
 
 #: packages/hub-extension/src/index.ts:158
 msgid "Your server at %1 is not running.\n"
@@ -2795,7 +2797,7 @@ msgstr "内核"
 
 #: packages/mainmenu-extension/src/index.ts:526
 msgid "Reconnect to Kernel"
-msgstr ""
+msgstr "重新连接至内核"
 
 #: packages/mainmenu-extension/src/index.ts:548
 msgid "Restart Kernel and Clear…"
