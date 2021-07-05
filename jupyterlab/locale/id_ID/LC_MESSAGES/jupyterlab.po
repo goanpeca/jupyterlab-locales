@@ -7,66 +7,66 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
-"X-Crowdin-Language: ko\n"
+"X-Crowdin-Language: id\n"
 "X-Crowdin-File: /[jupyterlab.language-packs] master/jupyterlab/locale/jupyterlab.pot\n"
 "X-Crowdin-File-ID: 48\n"
-"Language-Team: Korean\n"
-"Language: ko_KR\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"PO-Revision-Date: 2021-07-02 03:05\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
-msgstr "글꼴"
+msgstr "Keluarga Font"
 
 #: /examples/federated/md_package/./schema/plugin.json:31 /packages/markdownviewer-extension/schema/plugin.json:31
 msgctxt "schema"
 msgid "The font family used to render markdown.\n"
 "If `null`, value from current theme is used."
-msgstr "마크다운을 표시할 때 사용하는 글꼴. 값이 `null`이면 현재 테마의 해당 값이 사용됩니다."
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:36 /packages/markdownviewer-extension/schema/plugin.json:36
 msgid "Font Size"
-msgstr "글자 크기"
+msgstr "Ukuran Font"
 
 #: /examples/federated/md_package/./schema/plugin.json:37 /packages/markdownviewer-extension/schema/plugin.json:37
 msgctxt "schema"
 msgid "The size in pixel of the font used to render markdown.\n"
 "If `null`, value from current theme is used."
-msgstr "마크다운을 표시할 때 사용하는 글자의 픽셀 크기. 만약 `null`이면 현재 테마의 해당 값이 사용됩니다."
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:4 /packages/markdownviewer-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Markdown Viewer"
-msgstr "마크다운 뷰어"
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:42 /packages/markdownviewer-extension/schema/plugin.json:42
 msgid "Line Height"
-msgstr "줄 간격"
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:43 /packages/markdownviewer-extension/schema/plugin.json:43
 msgctxt "schema"
 msgid "The line height used to render markdown.\n"
 "If `null`, value from current theme is used."
-msgstr "마크다운을 표시할 때 사용하는 줄 간격. 만약 `null`이면 현재 테마의 해당 값이 사용됩니다."
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:48 /packages/markdownviewer-extension/schema/plugin.json:48
 msgid "Line Width"
-msgstr "선 굵기"
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:49 /packages/markdownviewer-extension/schema/plugin.json:49
 msgctxt "schema"
 msgid "The text line width expressed in CSS ch units.\n"
 "If `null`, lines fit the viewport width."
-msgstr "CSS ch 유닛을 사용할 때의 자간 넓이. 만약 ‘null’이면 viewport 넓이에 맞춥니다."
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:5 /packages/markdownviewer-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Markdown viewer settings."
-msgstr "마크다운 뷰어 설정"
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:54 /packages/markdownviewer-extension/schema/plugin.json:54
 msgid "Hide Front Matter"
-msgstr "Front Matter 숨기기"
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:55 /packages/markdownviewer-extension/schema/plugin.json:55
 msgctxt "schema"
@@ -74,27 +74,26 @@ msgid "Whether to hide YAML front matter.\n"
 "The YAML front matter must be placed at the top of the document,\n"
 "started by a line of three dashes (---) and ended by a line of\n"
 "three dashes (---) or three points (...)."
-msgstr "YAML front matter 숨기기.\n"
-"YAML front matter는 문서 최상단에 위치해야하며, 세 개의 하이픈(---) 으로 시작하고, 세 개의 하이픈(---) 혹은 세 개의 마침표(...) 로 끝맺어야 합니다."
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:60 /packages/markdownviewer-extension/schema/plugin.json:60
 msgid "Render Timeout"
-msgstr "렌더링 시간 초과"
+msgstr ""
 
 #: /examples/federated/md_package/./schema/plugin.json:61 /packages/markdownviewer-extension/schema/plugin.json:61
 msgctxt "schema"
 msgid "The render timeout in milliseconds."
-msgstr "밀리초 단위에서 렌더링 초과시간"
+msgstr ""
 
 #: /packages/application-extension/schema/main.json:2
 msgctxt "schema"
 msgid "Application "
-msgstr "어플리케이션 "
+msgstr "Aplikasi "
 
 #: /packages/application-extension/schema/main.json:3
 msgctxt "schema"
 msgid "Main JupyterLab application settings."
-msgstr "JupyterLab 메인 어플리케이션 환경설정"
+msgstr ""
 
 #: /packages/application-extension/schema/sidebar.json:0
 msgctxt "schema"
@@ -105,7 +104,7 @@ msgstr ""
 #: /packages/application-extension/schema/sidebar.json:3
 msgctxt "schema"
 msgid "Sidebar"
-msgstr "사이드바"
+msgstr ""
 
 #: /packages/application-extension/schema/sidebar.json:4
 msgctxt "schema"
@@ -138,17 +137,17 @@ msgstr ""
 #: /packages/apputils-extension/schema/print.json:2
 msgctxt "schema"
 msgid "Print"
-msgstr "인쇄"
+msgstr "Mencetak"
 
 #: /packages/apputils-extension/schema/print.json:3
 msgctxt "schema"
 msgid "Print settings."
-msgstr "인쇄 설정"
+msgstr "Pengaturan cetak."
 
 #: /packages/apputils-extension/schema/themes.json:2
 msgctxt "schema"
 msgid "Theme"
-msgstr "테마"
+msgstr "Tema"
 
 #: /packages/apputils-extension/schema/themes.json:4
 msgctxt "schema"
@@ -157,7 +156,7 @@ msgstr ""
 
 #: /packages/apputils-extension/schema/themes.json:45
 msgid "Selected Theme"
-msgstr "선택한 테마"
+msgstr "Tema yang dipilih"
 
 #: /packages/apputils-extension/schema/themes.json:46
 msgctxt "schema"
@@ -166,12 +165,12 @@ msgstr ""
 
 #: /packages/apputils-extension/schema/themes.json:51
 msgid "Scrollbar Theming"
-msgstr "스크롤바에 테마 적용"
+msgstr ""
 
 #: /packages/apputils-extension/schema/themes.json:52
 msgctxt "schema"
 msgid "Enable/disable styling of the application scrollbars"
-msgstr "어플리케이션의 스크롤바에 테마 적용 여부 선택"
+msgstr ""
 
 #: /packages/apputils-extension/schema/themes.json:56
 msgid "Theme CSS Overrides"
@@ -189,7 +188,7 @@ msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:15 /packages/terminal-extension/schema/plugin.json:52 packages/apputils-extension/src/themesplugins.ts:246
 msgid "Theme"
-msgstr "테마"
+msgstr "Tema"
 
 #: /packages/codemirror-extension/schema/commands.json:16
 msgctxt "schema"
@@ -240,7 +239,7 @@ msgstr ""
 
 #: /packages/codemirror-extension/schema/commands.json:45
 msgid "Ctrl-C"
-msgstr ""
+msgstr "Ctrl-C"
 
 #: /packages/codemirror-extension/schema/commands.json:46
 msgctxt "schema"
@@ -289,12 +288,12 @@ msgstr ""
 #: /packages/console-extension/schema/tracker.json:2
 msgctxt "schema"
 msgid "Code Console"
-msgstr ""
+msgstr "Konsol Kode"
 
 #: /packages/console-extension/schema/tracker.json:3
 msgctxt "schema"
 msgid "Code Console settings."
-msgstr ""
+msgstr "Pengaturan Konsol Kode."
 
 #: /packages/console-extension/schema/tracker.json:35
 msgid "Interaction mode"
@@ -370,12 +369,12 @@ msgstr ""
 #: /packages/docmanager-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Document Manager"
-msgstr ""
+msgstr "Manajer Dokumen"
 
 #: /packages/documentsearch-extension/schema/plugin.json:2
 msgctxt "schema"
 msgid "Document Search"
-msgstr ""
+msgstr "Pencarian Dokumen"
 
 #: /packages/documentsearch-extension/schema/plugin.json:3
 msgctxt "schema"
@@ -394,12 +393,12 @@ msgstr ""
 #: /packages/extensionmanager-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Extension Manager"
-msgstr ""
+msgstr "Manajer Ekstensi"
 
 #: /packages/extensionmanager-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Extension manager settings."
-msgstr ""
+msgstr "Pengaturan manajer ekstensi."
 
 #: /packages/extensionmanager-extension/schema/plugin.json:8
 msgid "Enabled Status"
@@ -442,16 +441,16 @@ msgstr ""
 #: /packages/fileeditor-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Text Editor"
-msgstr ""
+msgstr "Editor Teks"
 
 #: /packages/fileeditor-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Text editor settings."
-msgstr ""
+msgstr "Pengaturan editor teks."
 
 #: /packages/fileeditor-extension/schema/plugin.json:61
 msgid "Editor Configuration"
-msgstr ""
+msgstr "Konfigurasi Editor"
 
 #: /packages/fileeditor-extension/schema/plugin.json:62
 msgctxt "schema"
@@ -521,7 +520,7 @@ msgstr ""
 #: /packages/mainmenu-extension/schema/plugin.json:2
 msgctxt "schema"
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu Utama"
 
 #: /packages/mainmenu-extension/schema/plugin.json:3
 msgctxt "schema"
@@ -531,12 +530,12 @@ msgstr ""
 #: /packages/notebook-extension/schema/tracker.json:221
 msgctxt "schema"
 msgid "Notebook"
-msgstr ""
+msgstr "Notebook"
 
 #: /packages/notebook-extension/schema/tracker.json:222
 msgctxt "schema"
 msgid "Notebook settings."
-msgstr ""
+msgstr "Pengaturan notebook."
 
 #: /packages/notebook-extension/schema/tracker.json:281
 msgid "Code Cell Configuration"
@@ -558,7 +557,7 @@ msgstr ""
 
 #: /packages/notebook-extension/schema/tracker.json:309
 msgid "Shut down kernel"
-msgstr ""
+msgstr "Matikan kernel"
 
 #: /packages/notebook-extension/schema/tracker.json:310
 msgctxt "schema"
@@ -647,7 +646,7 @@ msgstr ""
 
 #: /packages/terminal-extension/schema/plugin.json:34
 msgid "Font family"
-msgstr ""
+msgstr "Keluarga font"
 
 #: /packages/terminal-extension/schema/plugin.json:35
 msgctxt "schema"
@@ -657,11 +656,11 @@ msgstr ""
 #: /packages/terminal-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: /packages/terminal-extension/schema/plugin.json:40
 msgid "Font size"
-msgstr ""
+msgstr "Ukuran font"
 
 #: /packages/terminal-extension/schema/plugin.json:41
 msgctxt "schema"
@@ -680,12 +679,12 @@ msgstr ""
 #: /packages/terminal-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Terminal settings."
-msgstr ""
+msgstr "Pengaturan Terminal."
 
 #: /packages/terminal-extension/schema/plugin.json:53
 msgctxt "schema"
 msgid "The theme for the terminal."
-msgstr ""
+msgstr "Tema untuk terminal."
 
 #: /packages/terminal-extension/schema/plugin.json:58
 msgid "Screen Reader Mode"
@@ -707,7 +706,7 @@ msgstr ""
 
 #: /packages/terminal-extension/schema/plugin.json:70
 msgid "Shut down on close"
-msgstr ""
+msgstr "Matikan saat tutup"
 
 #: /packages/terminal-extension/schema/plugin.json:71
 msgctxt "schema"
@@ -792,12 +791,12 @@ msgstr ""
 #: /packages/translation-extension/schema/plugin.json:4
 msgctxt "schema"
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #: /packages/translation-extension/schema/plugin.json:5
 msgctxt "schema"
 msgid "Language settings."
-msgstr "언어 설정"
+msgstr "Pengaturan bahasa."
 
 #: packages/application-extension/src/index.tsx:147
 msgid "Error Registering Plugins"
@@ -825,7 +824,7 @@ msgstr ""
 
 #: packages/application-extension/src/index.tsx:220 packages/extensionmanager/src/build-helper.tsx:57
 msgid "Save Failed"
-msgstr ""
+msgstr "Gagal Menyimpan"
 
 #: packages/application-extension/src/index.tsx:229 packages/extensionmanager/src/build-helper.tsx:67
 msgid "Build Failed"
@@ -862,7 +861,7 @@ msgstr ""
 
 #: packages/application-extension/src/index.tsx:568 packages/documentsearch-extension/src/index.ts:218 packages/documentsearch-extension/src/index.ts:222 packages/documentsearch-extension/src/index.ts:226 packages/logconsole-extension/src/index.tsx:270 packages/mainmenu-extension/src/index.ts:218 packages/mainmenu-extension/src/index.ts:222 packages/mainmenu-extension/src/index.ts:233 packages/statusbar-extension/src/index.ts:89
 msgid "Main Area"
-msgstr ""
+msgstr "Area utama"
 
 #: packages/application-extension/src/index.tsx:572
 msgid "Shift+Right Click for Browser Menu"
@@ -886,19 +885,19 @@ msgstr ""
 
 #: packages/application-extension/src/index.tsx:696
 msgid "Close Tab"
-msgstr ""
+msgstr "Tutup Tab"
 
 #: packages/application-extension/src/index.tsx:715
 msgid "Close All Tabs"
-msgstr ""
+msgstr "Tutup Semua Tab"
 
 #: packages/application-extension/src/index.tsx:722
 msgid "Close All Other Tabs"
-msgstr ""
+msgstr "Tutup semua tab yang lain"
 
 #: packages/application-extension/src/index.tsx:747
 msgid "Close Tabs to Right"
-msgstr ""
+msgstr "Tutup tab di kanan"
 
 #: packages/application-extension/src/index.tsx:765
 msgid "Show Left Sidebar"
@@ -949,7 +948,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/index.ts:282
 msgid "Print..."
-msgstr ""
+msgstr "Mencetak..."
 
 #: packages/apputils-extension/src/index.ts:407
 msgid "Reset Application State"
@@ -977,7 +976,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/palette.ts:50
 msgid "Command Palette"
-msgstr "명령어 팔레트"
+msgstr ""
 
 #: packages/apputils-extension/src/themesplugins.ts:110
 msgid "Theme Scrollbars"
@@ -985,35 +984,35 @@ msgstr ""
 
 #: packages/apputils-extension/src/themesplugins.ts:117
 msgid "waiting for fonts"
-msgstr ""
+msgstr "mennuggu font"
 
 #: packages/apputils-extension/src/themesplugins.ts:165
 msgid "JupyterLab Theme"
-msgstr ""
+msgstr "Tema JupyterLab"
 
 #: packages/apputils-extension/src/themesplugins.ts:186 packages/apputils-extension/src/themesplugins.ts:262
 msgid "Increase Code Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font Kode"
 
 #: packages/apputils-extension/src/themesplugins.ts:193 packages/apputils-extension/src/themesplugins.ts:270
 msgid "Decrease Code Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font Kode"
 
 #: packages/apputils-extension/src/themesplugins.ts:203 packages/apputils-extension/src/themesplugins.ts:279
 msgid "Increase Content Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font Konten"
 
 #: packages/apputils-extension/src/themesplugins.ts:210 packages/apputils-extension/src/themesplugins.ts:287
 msgid "Decrease Content Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font Konten"
 
 #: packages/apputils-extension/src/themesplugins.ts:220 packages/apputils-extension/src/themesplugins.ts:296
 msgid "Increase UI Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font UI"
 
 #: packages/apputils-extension/src/themesplugins.ts:227 packages/apputils-extension/src/themesplugins.ts:304
 msgid "Decrease UI Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font UI"
 
 #: packages/apputils-extension/src/themesplugins.ts:96
 msgid "Use Theme: %1"
@@ -1029,7 +1028,7 @@ msgstr ""
 
 #: packages/apputils-extension/src/workspacesplugin.ts:286 packages/apputils-extension/src/workspacesplugin.ts:292 packages/docmanager/src/widgetmanager.ts:378 packages/docregistry/src/context.ts:879 packages/docregistry/src/context.ts:886
 msgid "Save"
-msgstr ""
+msgstr "Simpan"
 
 #: packages/apputils-extension/src/workspacesplugin.ts:288 packages/apputils-extension/src/workspacesplugin.ts:91
 msgid "Save Current Workspace As..."
@@ -1049,7 +1048,7 @@ msgstr ""
 
 #: packages/apputils/src/sessioncontext.tsx:1210 packages/filebrowser/src/opendialog.ts:85
 msgid "Select"
-msgstr ""
+msgstr "Pilih"
 
 #: packages/apputils/src/sessioncontext.tsx:1214
 msgid "Select Kernel"
@@ -1089,15 +1088,15 @@ msgstr ""
 
 #: packages/apputils/src/sessioncontext.tsx:1613
 msgid "Name:"
-msgstr ""
+msgstr "Nama:"
 
 #: packages/apputils/src/sessioncontext.tsx:1614
 msgid "Kernel Name:"
-msgstr ""
+msgstr "Nama Kernel:"
 
 #: packages/apputils/src/sessioncontext.tsx:1615
 msgid "Kernel Id:"
-msgstr ""
+msgstr "Id Kernel:"
 
 #: packages/apputils/src/sessioncontext.tsx:953
 msgid "Error Starting Kernel"
@@ -1113,7 +1112,7 @@ msgstr ""
 
 #: packages/apputils/src/thememanager.ts:450 packages/docmanager-extension/src/index.ts:684 packages/extensionmanager/src/companions.tsx:220 packages/extensionmanager/src/dialog.tsx:41 packages/extensionmanager/src/widget.tsx:356 packages/extensionmanager/src/widget.tsx:357
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: packages/apputils/src/toolbar.tsx:386
 msgid "Interrupt the kernel"
@@ -1133,7 +1132,7 @@ msgstr ""
 
 #: packages/celltags/src/addwidget.ts:159 packages/celltags/src/addwidget.ts:31
 msgid "Add Tag"
-msgstr ""
+msgstr "Tambah Tag"
 
 #: packages/celltags/src/tool.ts:198
 msgid "Cell Tags"
@@ -1141,7 +1140,7 @@ msgstr ""
 
 #: packages/codeeditor/src/jsoneditor.ts:313 packages/codeeditor/src/jsoneditor.ts:80
 msgid "No data!"
-msgstr ""
+msgstr "Tidak ada data!"
 
 #: packages/codeeditor/src/jsoneditor.ts:60
 msgid "Revert changes to data"
@@ -1153,7 +1152,7 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:305
 msgid "Text Editor Theme"
-msgstr ""
+msgstr "Tema editor teks"
 
 #: packages/codemirror-extension/src/index.ts:306
 msgid "Text Editor Key Map"
@@ -1201,55 +1200,55 @@ msgstr ""
 
 #: packages/codemirror-extension/src/index.ts:420
 msgid "hopscotch"
-msgstr ""
+msgstr "hopscotch"
 
 #: packages/codemirror-extension/src/index.ts:421
 msgid "material"
-msgstr ""
+msgstr "material"
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr ""
+msgstr "mbo"
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
-msgstr ""
+msgstr "mdn-like"
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr ""
+msgstr "seti"
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
-msgstr ""
+msgstr "gelap solarized"
 
 #: packages/codemirror-extension/src/index.ts:426
 msgid "solarized light"
-msgstr ""
+msgstr "terang solarized"
 
 #: packages/codemirror-extension/src/index.ts:427
 msgid "the-matrix"
-msgstr ""
+msgstr "the-matrix"
 
 #: packages/codemirror-extension/src/index.ts:428
 msgid "xq-light"
-msgstr ""
+msgstr "xq-terang"
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
-msgstr ""
+msgstr "zenburn"
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr ""
+msgstr "sublime"
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1265,11 +1264,11 @@ msgstr ""
 
 #: packages/console-extension/src/foreign.ts:71 packages/console-extension/src/index.ts:170 packages/console-extension/src/index.ts:222 packages/console-extension/src/index.ts:380 packages/console/src/panel.ts:333 packages/launcher/src/index.tsx:159 packages/launcher/src/index.tsx:164
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 #: packages/console-extension/src/index.ts:369
 msgid "New Console"
-msgstr ""
+msgstr "Konsol Baru"
 
 #: packages/console-extension/src/index.ts:404
 msgid "Clear Console Cells"
@@ -1301,7 +1300,7 @@ msgstr ""
 
 #: packages/console-extension/src/index.ts:495
 msgid "Close and Shut Down…"
-msgstr ""
+msgstr "Tutup dan Matikan…"
 
 #: packages/console-extension/src/index.ts:502
 msgid "Shut down the console?"
@@ -1349,15 +1348,15 @@ msgstr ""
 
 #: packages/console/src/panel.ts:316
 msgid "Name: %1\n"
-msgstr ""
+msgstr "Nama:%1\n"
 
 #: packages/console/src/panel.ts:317
 msgid "Directory: %1\n"
-msgstr ""
+msgstr "Direktori:%1\n"
 
 #: packages/console/src/panel.ts:318
 msgid "Kernel: %1"
-msgstr ""
+msgstr "Kernel %1"
 
 #: packages/console/src/panel.ts:321
 msgid "\n"
@@ -1371,7 +1370,7 @@ msgstr ""
 
 #: packages/console/src/panel.ts:69
 msgid "Console %1"
-msgstr ""
+msgstr "Konsol %1"
 
 #: packages/csvviewer-extension/src/index.ts:83
 msgid "Go to Line"
@@ -1379,7 +1378,7 @@ msgstr ""
 
 #: packages/csvviewer/src/toolbar.ts:128
 msgid "tab"
-msgstr ""
+msgstr "tab"
 
 #: packages/csvviewer/src/toolbar.ts:129
 msgid "pipe"
@@ -1399,7 +1398,7 @@ msgstr ""
 
 #: packages/debugger-extension/src/index.ts:439 packages/debugger-extension/src/index.ts:440
 msgid "Continue"
-msgstr ""
+msgstr "Terus"
 
 #: packages/debugger-extension/src/index.ts:452 packages/debugger-extension/src/index.ts:453
 msgid "Terminate"
@@ -1419,7 +1418,7 @@ msgstr ""
 
 #: packages/debugger-extension/src/index.ts:518
 msgid "Debugger"
-msgstr "디버거"
+msgstr ""
 
 #: packages/debugger/src/handler.ts:54 packages/debugger/src/handler.ts:80
 msgid "Enable / Disable Debugger"
@@ -1505,7 +1504,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:512 packages/docmanager-extension/src/index.ts:557 packages/docmanager-extension/src/index.ts:603 packages/docmanager-extension/src/index.ts:610 packages/docmanager-extension/src/index.ts:664 packages/notebook/src/actions.tsx:1405 packages/notebook/src/actions.tsx:1414 packages/notebook/src/actions.tsx:1604 packages/notebook/src/default-toolbar.tsx:69 packages/notebook/src/model.ts:295 packages/notebook/src/panel.ts:208 packages/settingeditor/src/plugineditor.ts:149 packages/settingeditor/src/plugineditor.ts:271 packages/translation-extension/src/index.ts:145
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: packages/docmanager-extension/src/index.ts:518
 msgid "Are you sure you want to reload the %1 from the disk?"
@@ -1525,7 +1524,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:555
 msgid "Cannot Revert"
-msgstr ""
+msgstr "Tidak bisa kembali"
 
 #: packages/docmanager-extension/src/index.ts:570
 msgid "Revert %1 to checkpoint"
@@ -1533,11 +1532,11 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:574 packages/docregistry/src/context.ts:720 packages/docregistry/src/context.ts:736
 msgid "Revert"
-msgstr ""
+msgstr "Kembali"
 
 #: packages/docmanager-extension/src/index.ts:592
 msgid "Save %1"
-msgstr ""
+msgstr "Simpan %1"
 
 #: packages/docmanager-extension/src/index.ts:593
 msgid "Save and create checkpoint"
@@ -1545,7 +1544,7 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:601 packages/docmanager-extension/src/index.ts:608 packages/docmanager-extension/src/index.ts:662 packages/notebook/src/default-toolbar.tsx:67
 msgid "Cannot Save"
-msgstr ""
+msgstr "Tidak Bisa Menyimpan"
 
 #: packages/docmanager-extension/src/index.ts:609 packages/notebook/src/default-toolbar.tsx:68
 msgid "Document is read-only"
@@ -1553,11 +1552,11 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:629
 msgid "Save All"
-msgstr ""
+msgstr "Simpan Semua"
 
 #: packages/docmanager-extension/src/index.ts:630
 msgid "Save all open documents"
-msgstr ""
+msgstr "Simpan semua dokumen yang terbuka"
 
 #: packages/docmanager-extension/src/index.ts:653
 msgid "Save %1 As…"
@@ -1569,15 +1568,15 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:673 packages/filebrowser-extension/src/index.ts:529
 msgid "Download"
-msgstr ""
+msgstr "Mengunduh"
 
 #: packages/docmanager-extension/src/index.ts:674
 msgid "Download the file to your computer"
-msgstr ""
+msgstr "Unduh berkas ke komputer Anda"
 
 #: packages/docmanager-extension/src/index.ts:682
 msgid "Cannot Download"
-msgstr ""
+msgstr "Tidak bisa mengunduh"
 
 #: packages/docmanager-extension/src/index.ts:767
 msgid "New View for %1"
@@ -1589,11 +1588,11 @@ msgstr ""
 
 #: packages/docmanager-extension/src/index.ts:800
 msgid "Delete %1"
-msgstr ""
+msgstr "Hapus %1"
 
 #: packages/docmanager-extension/src/index.ts:810 packages/docmanager-extension/src/index.ts:814 packages/filebrowser-extension/src/index.ts:491 packages/filebrowser/src/listing.ts:419 packages/filebrowser/src/listing.ts:423
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: packages/docmanager-extension/src/index.ts:811
 msgid "Are you sure you want to delete %1"
@@ -1617,7 +1616,7 @@ msgstr ""
 
 #: packages/docmanager/src/dialogs.ts:115
 msgid "Overwrite file?"
-msgstr ""
+msgstr "Menimpa berkas?"
 
 #: packages/docmanager/src/dialogs.ts:116
 msgid "\"%1\" already exists, overwrite?"
@@ -1625,7 +1624,7 @@ msgstr ""
 
 #: packages/docmanager/src/dialogs.ts:119 packages/docregistry/src/context.ts:722 packages/docregistry/src/context.ts:732 packages/docregistry/src/context.ts:754 packages/docregistry/src/context.ts:765
 msgid "Overwrite"
-msgstr ""
+msgstr "Menimpa"
 
 #: packages/docmanager/src/dialogs.ts:183
 msgid "File Path"
@@ -1633,19 +1632,19 @@ msgstr ""
 
 #: packages/docmanager/src/dialogs.ts:188
 msgid "New Name"
-msgstr ""
+msgstr "Nama Baru"
 
 #: packages/docmanager/src/dialogs.ts:54
 msgid "Rename File"
-msgstr ""
+msgstr "Ganti nama berkas"
 
 #: packages/docmanager/src/dialogs.ts:59 packages/filebrowser-extension/src/index.ts:789
 msgid "Rename"
-msgstr ""
+msgstr "Ganti nama"
 
 #: packages/docmanager/src/dialogs.ts:67
 msgid "Rename Error"
-msgstr ""
+msgstr "Ganti Nama Error"
 
 #: packages/docmanager/src/dialogs.ts:69
 msgid "\"%1\" is not a valid name for a file. Names must have nonzero length, and cannot include \"/\", \"\\\", or \":\""
@@ -1653,7 +1652,7 @@ msgstr ""
 
 #: packages/docmanager/src/savingstatus.tsx:50
 msgid "Saving %1"
-msgstr ""
+msgstr "Menyimpan %1"
 
 #: packages/docmanager/src/widgetmanager.ts:278
 msgid "Name: %1\n"
@@ -1686,7 +1685,7 @@ msgstr ""
 
 #: packages/docmanager/src/widgetmanager.ts:385
 msgid "Discard"
-msgstr ""
+msgstr "Buang"
 
 #: packages/docregistry/src/context.ts:557
 msgid "File Save Error for %1"
@@ -1712,7 +1711,7 @@ msgstr ""
 
 #: packages/docregistry/src/context.ts:757
 msgid "File Overwrite?"
-msgstr ""
+msgstr "Menimpa Berkas?"
 
 #: packages/docregistry/src/context.ts:881
 msgid "Save File As.."
@@ -1728,7 +1727,7 @@ msgstr ""
 
 #: packages/docregistry/src/registry.ts:1307 packages/launcher/src/index.tsx:158 packages/launcher/src/index.tsx:163 packages/notebook-extension/src/index.ts:475 packages/notebook-extension/src/index.ts:744 packages/notebook-extension/src/index.ts:785
 msgid "Notebook"
-msgstr ""
+msgstr "Notebook"
 
 #: packages/docregistry/src/registry.ts:1332
 msgid "Directory"
@@ -1792,15 +1791,15 @@ msgstr ""
 
 #: packages/documentsearch/src/searchoverlay.tsx:174 packages/documentsearch/src/searchoverlay.tsx:192
 msgid "Replace"
-msgstr ""
+msgstr "Ganti"
 
 #: packages/documentsearch/src/searchoverlay.tsx:204
 msgid "Replace All"
-msgstr ""
+msgstr "Ganti Semua"
 
 #: packages/extensionmanager-extension/src/index.ts:109 packages/extensionmanager-extension/src/index.ts:58
 msgid "Extension Manager"
-msgstr ""
+msgstr "Manajer Ekstensi"
 
 #: packages/extensionmanager-extension/src/index.ts:139
 msgid "Enable Extension Manager?"
@@ -1891,7 +1890,7 @@ msgstr ""
 
 #: packages/extensionmanager/src/widget.tsx:143
 msgid "Ignore"
-msgstr ""
+msgstr "Abaikan"
 
 #: packages/extensionmanager/src/widget.tsx:195
 msgid "%1 (Developed by Project Jupyter)"
@@ -1994,7 +1993,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:1036
 msgid "Open With"
-msgstr ""
+msgstr "Buka dengan"
 
 #: packages/filebrowser-extension/src/index.ts:1176
 msgid "No browser for path"
@@ -2034,7 +2033,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:581 packages/filebrowser-extension/src/index.ts:583
 msgid "Open %1"
-msgstr ""
+msgstr "Buka %1"
 
 #: packages/filebrowser-extension/src/index.ts:583
 msgid "Open from path"
@@ -2050,7 +2049,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:595 packages/filebrowser-extension/src/index.ts:680
 msgid "Open"
-msgstr ""
+msgstr "Buka"
 
 #: packages/filebrowser-extension/src/index.ts:626
 msgid "Could not find path: %1"
@@ -2058,7 +2057,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:628
 msgid "Cannot open"
-msgstr ""
+msgstr "Tidak bisa buka"
 
 #: packages/filebrowser-extension/src/index.ts:721
 msgid "Copy Download Link"
@@ -2074,7 +2073,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:762
 msgid "New File"
-msgstr ""
+msgstr "Berkas Baru"
 
 #: packages/filebrowser-extension/src/index.ts:777 packages/fileeditor-extension/src/commands.ts:892
 msgid "New Markdown File"
@@ -2118,7 +2117,7 @@ msgstr ""
 
 #: packages/filebrowser/src/crumbs.ts:173
 msgid "Open Error"
-msgstr ""
+msgstr "Buka Error"
 
 #: packages/filebrowser/src/crumbs.ts:281
 msgid "Move Error"
@@ -2132,11 +2131,11 @@ msgstr ""
 #: packages/filebrowser/src/listing.ts:1419
 msgctxt "showErrorMessage"
 msgid "Delete Failed"
-msgstr ""
+msgstr "Gagal Menghapus"
 
 #: packages/filebrowser/src/listing.ts:1450
 msgid "showErrorMessage"
-msgstr ""
+msgstr "showErrorMessage"
 
 #: packages/filebrowser/src/listing.ts:1452
 msgctxt "showErrorMessage"
@@ -2146,11 +2145,11 @@ msgstr ""
 #: packages/filebrowser/src/listing.ts:1476
 msgctxt "showErrorMessage"
 msgid "Rename Error"
-msgstr ""
+msgstr "Ganti Nama Error"
 
 #: packages/filebrowser/src/listing.ts:1781
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: packages/filebrowser/src/listing.ts:1783
 msgid "Last Modified"
@@ -2158,12 +2157,13 @@ msgstr ""
 
 #: packages/filebrowser/src/listing.ts:1926
 msgid "Name: %1"
-msgstr ""
+msgstr "Nama: %1"
 
 #: packages/filebrowser/src/listing.ts:1930
 msgid "\n"
 "Size: %1"
-msgstr ""
+msgstr "\n"
+"Ukuran: %1"
 
 #: packages/filebrowser/src/listing.ts:1938
 msgid "\n"
@@ -2212,17 +2212,18 @@ msgstr ""
 #: packages/filebrowser/src/listing.ts:493
 msgctxt "showErrorMessage"
 msgid "Shut down kernel"
-msgstr ""
+msgstr "Matikan kernel"
 
 #: packages/filebrowser/src/listing.ts:836
 msgid "%1\n"
 "Kernel: %2"
-msgstr ""
+msgstr "%1\n"
+"Kernel: %2"
 
 #: packages/filebrowser/src/listing.ts:981
 msgctxt "showErrorMessage"
 msgid "Open directory"
-msgstr ""
+msgstr "Buka direktori"
 
 #: packages/filebrowser/src/model.ts:100
 msgid "Files still uploading"
@@ -2267,11 +2268,11 @@ msgstr ""
 
 #: packages/fileeditor-extension/src/commands.ts:1025
 msgid "Increase Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font"
 
 #: packages/fileeditor-extension/src/commands.ts:1028
 msgid "Decrease Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font"
 
 #: packages/fileeditor-extension/src/commands.ts:1084
 msgid "Text Editor Indentation"
@@ -2288,11 +2289,11 @@ msgstr[0] ""
 
 #: packages/fileeditor-extension/src/commands.ts:1106
 msgid "Increase Text Editor Font Size"
-msgstr ""
+msgstr "Besarkan Ukuran Font Editor Teks"
 
 #: packages/fileeditor-extension/src/commands.ts:1110
 msgid "Decrease Text Editor Font Size"
-msgstr ""
+msgstr "Kurangi Ukuran Font Editor Teks"
 
 #: packages/fileeditor-extension/src/commands.ts:1200 packages/fileeditor-extension/src/commands.ts:446
 msgid "Create Console for Editor"
@@ -2344,15 +2345,15 @@ msgstr ""
 
 #: packages/fileeditor-extension/src/commands.ts:812
 msgid "Select All"
-msgstr ""
+msgstr "Pilih Semua"
 
 #: packages/fileeditor-extension/src/commands.ts:871
 msgid "New Text File"
-msgstr ""
+msgstr "Berkas Teks Baru"
 
 #: packages/fileeditor-extension/src/commands.ts:871
 msgid "Text File"
-msgstr ""
+msgstr "Berkas Teks"
 
 #: packages/fileeditor-extension/src/commands.ts:872
 msgid "Create a new text file"
@@ -2364,7 +2365,7 @@ msgstr ""
 
 #: packages/fileeditor-extension/src/commands.ts:924 packages/fileeditor-extension/src/commands.ts:938 packages/launcher/src/index.tsx:160 packages/launcher/src/index.tsx:170 packages/launcher/src/index.tsx:443 packages/terminal-extension/src/index.ts:260
 msgid "Other"
-msgstr ""
+msgstr "Lainnya"
 
 #: packages/fileeditor/src/tabspacestatus.tsx:62
 msgid "Spaces"
@@ -2372,7 +2373,7 @@ msgstr ""
 
 #: packages/fileeditor/src/tabspacestatus.tsx:63
 msgid "Tab Size"
-msgstr ""
+msgstr "Ukuran tab"
 
 #: packages/fileeditor/src/tabspacestatus.tsx:68
 msgid "Change Tab indentation…"
@@ -2380,7 +2381,7 @@ msgstr ""
 
 #: packages/help-extension/src/index.tsx:101 packages/mainmenu-extension/src/index.ts:909
 msgid "Help"
-msgstr ""
+msgstr "Membantu"
 
 #: packages/help-extension/src/index.tsx:108
 msgid "JupyterLab Reference"
@@ -2388,7 +2389,7 @@ msgstr ""
 
 #: packages/help-extension/src/index.tsx:112
 msgid "JupyterLab FAQ"
-msgstr ""
+msgstr "JupyterLab FAQ"
 
 #: packages/help-extension/src/index.tsx:117
 msgid "Jupyter Reference"
@@ -2424,7 +2425,7 @@ msgstr ""
 
 #: packages/help-extension/src/index.tsx:340
 msgid "© 2015-2020 Project Jupyter Contributors"
-msgstr ""
+msgstr "© 2015-2020 Project Jupyter Contributors"
 
 #: packages/help-extension/src/index.tsx:387
 msgid "Launch Classic Notebook"
@@ -2436,7 +2437,7 @@ msgstr ""
 
 #: packages/htmlviewer-extension/src/index.tsx:64
 msgid "HTML File"
-msgstr ""
+msgstr "Berkas HTML"
 
 #: packages/htmlviewer-extension/src/index.tsx:73
 msgid "HTML Viewer"
@@ -2581,7 +2582,7 @@ msgstr ""
 
 #: packages/logconsole-extension/src/index.tsx:232
 msgid "Add Checkpoint"
-msgstr "체크포인트 추가"
+msgstr ""
 
 #: packages/logconsole-extension/src/index.tsx:241
 msgid "Clear Log"
@@ -2601,15 +2602,15 @@ msgstr ""
 
 #: packages/logconsole-extension/src/index.tsx:408
 msgid "Critical"
-msgstr "심각"
+msgstr ""
 
 #: packages/logconsole-extension/src/index.tsx:411
 msgid "Info"
-msgstr "정보"
+msgstr "Informasi"
 
 #: packages/logconsole-extension/src/index.tsx:412
 msgid "Debug"
-msgstr "디버그"
+msgstr ""
 
 #: packages/logconsole-extension/src/status.tsx:36
 msgid "%1 new messages, %2 log entries for %3"
@@ -2633,7 +2634,7 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:160
 msgid "Tabs"
-msgstr ""
+msgstr "Tabs"
 
 #: packages/mainmenu-extension/src/index.ts:174
 msgid "Open Edit Menu"
@@ -2677,7 +2678,7 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:252
 msgid "Edit"
-msgstr "편집"
+msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:278
 msgid "Clear"
@@ -2685,23 +2686,23 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:294
 msgid "Clear All"
-msgstr "모두 지우기"
+msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:313
 msgid "Go to Line…"
-msgstr "라인으로 가기"
+msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:330
 msgid "File"
-msgstr "파일"
+msgstr "Berkas"
 
 #: packages/mainmenu-extension/src/index.ts:331
 msgid "New"
-msgstr ""
+msgstr "Baru"
 
 #: packages/mainmenu-extension/src/index.ts:344
 msgid "Close and Shutdown"
-msgstr ""
+msgstr "Tutup dan Matikan"
 
 #: packages/mainmenu-extension/src/index.ts:374
 msgid "New Console for Activity"
@@ -2741,7 +2742,7 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:513
 msgid "Kernel"
-msgstr ""
+msgstr "Kernel"
 
 #: packages/mainmenu-extension/src/index.ts:526
 msgid "Reconnect to Kernel"
@@ -2753,15 +2754,15 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:583
 msgid "Shut Down All Kernels…"
-msgstr ""
+msgstr "Matikan Semua Kernel…"
 
 #: packages/mainmenu-extension/src/index.ts:589
 msgid "Shut Down All?"
-msgstr ""
+msgstr "Matikan Semua?"
 
 #: packages/mainmenu-extension/src/index.ts:590
 msgid "Shut down all kernels?"
-msgstr ""
+msgstr "Matikan semua kernel?"
 
 #: packages/mainmenu-extension/src/index.ts:593 packages/running-extension/src/kernels.ts:46 packages/running/src/index.tsx:228 packages/terminal-extension/src/index.ts:298
 msgid "Shut Down All"
@@ -2793,7 +2794,7 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:805 packages/settingeditor-extension/src/index.ts:145 packages/settingeditor-extension/src/index.ts:155
 msgid "Settings"
-msgstr "설정"
+msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:855
 msgid "Activate Previously Used Tab"
@@ -2833,11 +2834,11 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:1223
 msgid "Close and Shut Down"
-msgstr ""
+msgstr "Tutup dan Matikan"
 
 #: packages/notebook-extension/src/index.ts:1234
 msgid "Shut down the notebook?"
-msgstr ""
+msgstr "Matikan notebook?"
 
 #: packages/notebook-extension/src/index.ts:1248
 msgid "Trust Notebook"
@@ -3077,11 +3078,11 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2149
 msgid "Close and Shutdown Notebook"
-msgstr "노트북을 종료하고 닫기"
+msgstr "Tutup dan Matikan Notebook"
 
 #: packages/notebook-extension/src/index.ts:2153
 msgid "Shut down the Notebook?"
-msgstr ""
+msgstr "Matikan Notebook?"
 
 #: packages/notebook-extension/src/index.ts:2168
 msgid "Export Notebook As…"
@@ -3101,11 +3102,11 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr ""
+msgstr "LaTeX"
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
@@ -3113,7 +3114,7 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
@@ -3337,7 +3338,7 @@ msgstr ""
 
 #: packages/running-extension/src/kernels.ts:36
 msgid "Kernels"
-msgstr "커널"
+msgstr ""
 
 #: packages/running-extension/src/kernels.ts:47
 msgid "Are you sure you want to permanently shut down all running kernels?"
@@ -3354,11 +3355,11 @@ msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr ""
+msgstr "Tutup Semua"
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
@@ -3487,7 +3488,7 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:291
 msgid "Terminals"
-msgstr "터미널"
+msgstr ""
 
 #: packages/terminal-extension/src/index.ts:299
 msgid "Are you sure you want to permanently shut down all running terminals?"
@@ -3495,7 +3496,7 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:341
 msgid "New Terminal"
-msgstr "새 터미널"
+msgstr ""
 
 #: packages/terminal-extension/src/index.ts:341 packages/terminal-extension/src/index.ts:91 packages/terminal/src/widget.ts:76
 msgid "Terminal"
@@ -3515,11 +3516,11 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:412
 msgid "Increase Terminal Font Size"
-msgstr "터미널 글자 크기 크게"
+msgstr "Besarkan Ukuran Font Terminal"
 
 #: packages/terminal-extension/src/index.ts:426
 msgid "Decrease Terminal Font Size"
-msgstr "터미널 글자 크기 작게"
+msgstr "Kurangi Ukuran Font Terminal"
 
 #: packages/terminal-extension/src/index.ts:443
 msgid "Use Terminal Theme: %1"
@@ -3543,7 +3544,7 @@ msgstr ""
 
 #: packages/toc-extension/src/index.ts:67 packages/toc/src/toc.tsx:113
 msgid "Table of Contents"
-msgstr "차례"
+msgstr ""
 
 #: packages/toc/src/generators/markdown/toolbar_generator.tsx:64 packages/toc/src/generators/markdown/toolbar_generator.tsx:65 packages/toc/src/generators/notebook/toolbar_generator.tsx:212 packages/toc/src/generators/notebook/toolbar_generator.tsx:213
 msgid "Toggle Auto-Numbering"
@@ -3551,11 +3552,11 @@ msgstr ""
 
 #: packages/toc/src/generators/notebook/tagstool/index.tsx:186
 msgid "No Tags Available"
-msgstr "이용 가능한 태그 없음"
+msgstr ""
 
 #: packages/toc/src/generators/notebook/tagstool/index.tsx:193
 msgid "Clear Filters"
-msgstr "필터 초기화"
+msgstr ""
 
 #: packages/toc/src/generators/notebook/toolbar_generator.tsx:180 packages/toc/src/generators/notebook/toolbar_generator.tsx:181
 msgid "Toggle Code Cells"
@@ -3571,11 +3572,11 @@ msgstr ""
 
 #: packages/translation-extension/src/index.ts:106
 msgid "Language"
-msgstr "언어"
+msgstr ""
 
 #: packages/translation-extension/src/index.ts:141
 msgid "Change interface language?"
-msgstr "표시 언어를 변경하시겠습니가?"
+msgstr ""
 
 #: packages/translation-extension/src/index.ts:142
 msgid "Are you sure you want to refresh?"

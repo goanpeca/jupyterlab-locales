@@ -8,11 +8,11 @@ msgstr ""
 "X-Crowdin-Project: jupyterlab\n"
 "X-Crowdin-Project-ID: 409874\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /master/extensions/dask_labextension/locale/dask_labextension.pot\n"
-"X-Crowdin-File-ID: 26\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/dask_labextension/locale/dask_labextension.pot\n"
+"X-Crowdin-File-ID: 50\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-11-30 17:38\n"
+"PO-Revision-Date: 2021-06-29 10:08\n"
 
 #: /schema/plugin.json:14
 msgid "Auto-Start Client"
@@ -26,7 +26,7 @@ msgstr "Si défini à vrai, chaque notebook et console aura automatiquement un c
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Dask Dashboard"
-msgstr "Dask Dashboard"
+msgstr ""
 
 #: /schema/plugin.json:5
 msgctxt "schema"
