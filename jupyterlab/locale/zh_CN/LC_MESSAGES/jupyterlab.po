@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-07-05 04:31\n"
+"PO-Revision-Date: 2021-07-05 05:51\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -1207,63 +1207,63 @@ msgstr "abcdef"
 
 #: packages/codemirror-extension/src/index.ts:418
 msgid "base16-dark"
-msgstr ""
+msgstr "base16-dark"
 
 #: packages/codemirror-extension/src/index.ts:419
 msgid "base16-light"
-msgstr ""
+msgstr "base16-light"
 
 #: packages/codemirror-extension/src/index.ts:420
 msgid "hopscotch"
-msgstr ""
+msgstr "hopscotch"
 
 #: packages/codemirror-extension/src/index.ts:421
 msgid "material"
-msgstr ""
+msgstr "material"
 
 #: packages/codemirror-extension/src/index.ts:422
 msgid "mbo"
-msgstr ""
+msgstr "mbo"
 
 #: packages/codemirror-extension/src/index.ts:423
 msgid "mdn-like"
-msgstr ""
+msgstr "mdn-like"
 
 #: packages/codemirror-extension/src/index.ts:424
 msgid "seti"
-msgstr ""
+msgstr "seti"
 
 #: packages/codemirror-extension/src/index.ts:425
 msgid "solarized dark"
-msgstr ""
+msgstr "solarized dark"
 
 #: packages/codemirror-extension/src/index.ts:426
 msgid "solarized light"
-msgstr ""
+msgstr "solarized light"
 
 #: packages/codemirror-extension/src/index.ts:427
 msgid "the-matrix"
-msgstr ""
+msgstr "the-matrix"
 
 #: packages/codemirror-extension/src/index.ts:428
 msgid "xq-light"
-msgstr ""
+msgstr "xq-light"
 
 #: packages/codemirror-extension/src/index.ts:429
 msgid "zenburn"
-msgstr ""
+msgstr "zenburn"
 
 #: packages/codemirror-extension/src/index.ts:440
 msgid "sublime"
-msgstr ""
+msgstr "sublime"
 
 #: packages/codemirror-extension/src/index.ts:441
 msgid "vim"
-msgstr ""
+msgstr "vim"
 
 #: packages/codemirror-extension/src/index.ts:442
 msgid "emacs"
-msgstr ""
+msgstr "emacs"
 
 #: packages/codemirror/src/editor.ts:1079
 msgid "Code Editor out of Sync"
@@ -1467,15 +1467,15 @@ msgstr "变量"
 
 #: packages/debugger/src/panels/variables/index.ts:73
 msgid "Tree View"
-msgstr ""
+msgstr "树状视图"
 
 #: packages/debugger/src/panels/variables/index.ts:80
 msgid "Table View"
-msgstr ""
+msgstr "表格视图"
 
 #: packages/debugger/src/panels/variables/scope.tsx:53
 msgid "Scope"
-msgstr ""
+msgstr "范围"
 
 #: packages/docmanager-extension/src/index.ts:235
 msgid "Overrides for the default viewers for file types.\n"
@@ -1757,7 +1757,7 @@ msgstr "文本"
 
 #: packages/docregistry/src/registry.ts:1307 packages/launcher/src/index.tsx:158 packages/launcher/src/index.tsx:163 packages/notebook-extension/src/index.ts:475 packages/notebook-extension/src/index.ts:744 packages/notebook-extension/src/index.ts:785
 msgid "Notebook"
-msgstr ""
+msgstr "笔记本"
 
 #: packages/docregistry/src/registry.ts:1332
 msgid "Directory"
@@ -2514,7 +2514,7 @@ msgstr "信任的HTML"
 
 #: packages/hub-extension/src/index.ts:103
 msgid "Hub"
-msgstr ""
+msgstr "Hub"
 
 #: packages/hub-extension/src/index.ts:157
 msgid "Server unavailable or unreachable"
@@ -3153,19 +3153,19 @@ msgstr "对 Notebook:"
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: packages/notebook-extension/src/index.ts:2523
 msgid "LaTeX"
-msgstr ""
+msgstr "LaTeX"
 
 #: packages/notebook-extension/src/index.ts:2524 packages/notebook/src/default-toolbar.tsx:344
 msgid "Markdown"
-msgstr ""
+msgstr "Markdown"
 
 #: packages/notebook-extension/src/index.ts:2525 packages/notebook-extension/src/index.ts:472
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: packages/notebook-extension/src/index.ts:2526
 msgid "ReStructured Text"
@@ -3401,7 +3401,7 @@ msgstr "内核"
 
 #: packages/running-extension/src/kernels.ts:47
 msgid "Are you sure you want to permanently shut down all running kernels?"
-msgstr ""
+msgstr "您确定要永久关闭所有正在运行的内核吗？"
 
 #: packages/running-extension/src/kernels.ts:86
 msgid "Path: %1\n"
@@ -3415,15 +3415,15 @@ msgstr "开启的标签页"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: packages/running-extension/src/opentabs.ts:95
 msgid "Close All"
-msgstr ""
+msgstr "关闭全部"
 
 #: packages/running-extension/src/opentabs.ts:96
 msgid "Are you sure you want to close all open tabs?"
-msgstr ""
+msgstr "您确定要关闭所有打开的标签页吗？"
 
 #: packages/running/src/index.tsx:294
 msgid "Refresh List"
@@ -3505,11 +3505,11 @@ msgstr "注意，要禁用系统默认的快捷键\n"
 
 #: packages/statusbar-extension/src/index.ts:377
 msgid "Simple Interface (%1)"
-msgstr ""
+msgstr "简易界面（%1）"
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr ""
+msgstr "简易的"
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
@@ -3565,7 +3565,7 @@ msgstr "终端"
 
 #: packages/terminal-extension/src/index.ts:299
 msgid "Are you sure you want to permanently shut down all running terminals?"
-msgstr ""
+msgstr "您确定要永久关闭所有正在运行的终端吗？"
 
 #: packages/terminal-extension/src/index.ts:341
 msgid "New Terminal"
