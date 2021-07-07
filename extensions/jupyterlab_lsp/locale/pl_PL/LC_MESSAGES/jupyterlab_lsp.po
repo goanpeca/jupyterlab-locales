@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 62\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-07-07 22:06\n"
+"PO-Revision-Date: 2021-07-07 23:26\n"
 
 #: /packages/jupyterlab-lsp/schema/completion.json:12
 msgctxt "schema"
@@ -491,7 +491,7 @@ msgstr ""
 
 #: packages/jupyterlab-lsp/src/features/rename.ts:68
 msgid "Rename failed: %1"
-msgstr ""
+msgstr "Zmiana nazwy nie powiodła się: %1"
 
 #: packages/jupyterlab-lsp/src/features/rename.ts:75
 msgid "Rename to"
@@ -499,7 +499,7 @@ msgstr ""
 
 #: packages/jupyterlab-lsp/src/features/rename.ts:77
 msgid "Rename"
-msgstr ""
+msgstr "Zmień nazwę"
 
 #: packages/jupyterlab-lsp/src/features/rename.ts:78
 msgid "Cancel"
@@ -511,5 +511,5 @@ msgstr ""
 
 #: packages/jupyterlab-lsp/src/features/syntax_highlighting.ts:150
 msgid "Syntax highlighting"
-msgstr ""
+msgstr "Podświetlanie składni"
 
