@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 52\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2021-06-29 10:07\n"
+"PO-Revision-Date: 2021-07-07 22:07\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
@@ -118,20 +118,20 @@ msgstr ""
 msgid "Commit from the Commit Box"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:1172
+#: src/commandsAndMenu.tsx:118
+msgid "Submit the commit using the summary and description from commit box"
+msgstr ""
+
+#: src/commandsAndMenu.tsx:1180
 msgid "Git credentials required"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:1175 src/widgets/CredentialsBox.tsx:14
+#: src/commandsAndMenu.tsx:1183 src/widgets/CredentialsBox.tsx:15
 msgid "Enter credentials for remote repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:1176
+#: src/commandsAndMenu.tsx:1184
 msgid "Incorrect username or password."
-msgstr ""
-
-#: src/commandsAndMenu.tsx:118
-msgid "Submit the commit using the summary and description from commit box"
 msgstr ""
 
 #: src/commandsAndMenu.tsx:129
@@ -142,362 +142,362 @@ msgstr ""
 msgid "Open a New Terminal to the Git Repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:159
+#: src/commandsAndMenu.tsx:161
 msgid "Git Interface"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:160
+#: src/commandsAndMenu.tsx:162
 msgid "Go to Git user interface"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:172 src/commandsAndMenu.tsx:179
+#: src/commandsAndMenu.tsx:174 src/commandsAndMenu.tsx:181
 msgid "Initialize a Repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:173
+#: src/commandsAndMenu.tsx:175
 msgid "Create an empty Git repository or reinitialize an existing one"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:180
+#: src/commandsAndMenu.tsx:182
 msgid "Do you really want to make this directory a Git Repo?"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:182 src/commandsAndMenu.tsx:295 src/commandsAndMenu.tsx:743 src/commandsAndMenu.tsx:786
+#: src/commandsAndMenu.tsx:184 src/commandsAndMenu.tsx:297 src/commandsAndMenu.tsx:751 src/commandsAndMenu.tsx:794
 msgid "Cancel"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:183
+#: src/commandsAndMenu.tsx:185
 msgid "Yes"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:189
+#: src/commandsAndMenu.tsx:191
 msgid "Initializing..."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:196
+#: src/commandsAndMenu.tsx:198
 msgid "Git repository initialized."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:201
+#: src/commandsAndMenu.tsx:203
 msgid "Encountered an error when initializing the repository. Error: "
 msgstr ""
 
-#: src/commandsAndMenu.tsx:207
+#: src/commandsAndMenu.tsx:209
 msgid "Failed to initialize the Git repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:228
+#: src/commandsAndMenu.tsx:230
 msgid "Simple staging"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:237
+#: src/commandsAndMenu.tsx:239
 msgid "Double click opens diff"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:246
+#: src/commandsAndMenu.tsx:248
 msgid "Add Remote Repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:247
+#: src/commandsAndMenu.tsx:249
 msgid "Add a Git remote repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:252
+#: src/commandsAndMenu.tsx:254
 msgid "Not in a Git repository. Unable to add a remote."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:261
+#: src/commandsAndMenu.tsx:263
 msgid "Add a remote repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:262
+#: src/commandsAndMenu.tsx:264
 msgid "Remote Git repository URL"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:276
+#: src/commandsAndMenu.tsx:278
 msgid "Error when adding remote repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:286
+#: src/commandsAndMenu.tsx:288
 msgid "Clone a Repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:287
+#: src/commandsAndMenu.tsx:289
 msgid "Clone a repository from a URL"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:291
+#: src/commandsAndMenu.tsx:293
 msgid "Clone a repo"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:296
+#: src/commandsAndMenu.tsx:298
 msgid "CLONE"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:303
+#: src/commandsAndMenu.tsx:305
 msgid "Cloning..."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:313
+#: src/commandsAndMenu.tsx:315
 msgid "Successfully cloned"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:324
+#: src/commandsAndMenu.tsx:326
 msgid "Failed to clone"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:335 src/commandsAndMenu.tsx:336
+#: src/commandsAndMenu.tsx:337 src/commandsAndMenu.tsx:338
 msgid "Open .gitignore"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:345
+#: src/commandsAndMenu.tsx:347
 msgid "Push to Remote"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:346
+#: src/commandsAndMenu.tsx:348
 msgid "Push code to remote repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:351
+#: src/commandsAndMenu.tsx:353
 msgid "Pushing..."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:360
+#: src/commandsAndMenu.tsx:362
 msgid "Successfully pushed"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:366
+#: src/commandsAndMenu.tsx:368
 msgid "Encountered an error when pushing changes. Error: "
 msgstr ""
 
-#: src/commandsAndMenu.tsx:370
+#: src/commandsAndMenu.tsx:372
 msgid "Failed to push"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:380
+#: src/commandsAndMenu.tsx:382
 msgid "Pull from Remote"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:381
+#: src/commandsAndMenu.tsx:383
 msgid "Pull latest code from remote repository"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:386
+#: src/commandsAndMenu.tsx:388
 msgid "Pulling..."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:395
+#: src/commandsAndMenu.tsx:397
 msgid "Successfully pulled"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:405
+#: src/commandsAndMenu.tsx:407
 msgid "Failed to pull"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:421
+#: src/commandsAndMenu.tsx:423
 msgid "Show Diff"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:422
+#: src/commandsAndMenu.tsx:424
 msgid "Display a file diff."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:468
+#: src/commandsAndMenu.tsx:470
 msgid "Refresh"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:473
+#: src/commandsAndMenu.tsx:475
 msgid "Refresh diff widget"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:496
+#: src/commandsAndMenu.tsx:498
 msgid "Diff Not Supported"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:497
+#: src/commandsAndMenu.tsx:499
 msgid "Diff is not supported for %1 files."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:511
+#: src/commandsAndMenu.tsx:513
 msgid "Open"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:513
+#: src/commandsAndMenu.tsx:515
 msgid "Open selected file"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:514
+#: src/commandsAndMenu.tsx:516
 msgid "Open selected files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:522
+#: src/commandsAndMenu.tsx:524
 msgid "Open File Failed"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:523
+#: src/commandsAndMenu.tsx:525
 msgid "This file has been deleted!"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:544
+#: src/commandsAndMenu.tsx:546
 msgid "Diff"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:546
+#: src/commandsAndMenu.tsx:548
 msgid "Diff selected file"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:547
+#: src/commandsAndMenu.tsx:549
 msgid "Diff selected files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:651
+#: src/commandsAndMenu.tsx:659
 msgid "Add"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:653
+#: src/commandsAndMenu.tsx:661
 msgid "Stage or track the changes to selected file"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:654
+#: src/commandsAndMenu.tsx:662
 msgid "Stage or track the changes of selected files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:666
+#: src/commandsAndMenu.tsx:674
 msgid "Stage"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:668
+#: src/commandsAndMenu.tsx:676
 msgid "Stage the changes of selected file"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:669
+#: src/commandsAndMenu.tsx:677
 msgid "Stage the changes of selected files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:681
+#: src/commandsAndMenu.tsx:689
 msgid "Track"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:683
+#: src/commandsAndMenu.tsx:691
 msgid "Start tracking selected file"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:684
+#: src/commandsAndMenu.tsx:692
 msgid "Start tracking selected files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:696
+#: src/commandsAndMenu.tsx:704
 msgid "Unstage"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:698
+#: src/commandsAndMenu.tsx:706
 msgid "Unstage the changes of selected file"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:699
+#: src/commandsAndMenu.tsx:707
 msgid "Unstage the changes of selected files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:722 src/commandsAndMenu.tsx:744
+#: src/commandsAndMenu.tsx:730 src/commandsAndMenu.tsx:752
 msgid "Delete"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:724
+#: src/commandsAndMenu.tsx:732
 msgid "Delete this file"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:725
+#: src/commandsAndMenu.tsx:733
 msgid "Delete these files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:732
+#: src/commandsAndMenu.tsx:740
 msgid "Delete Files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:735
+#: src/commandsAndMenu.tsx:743
 msgid "Are you sure you want to permanently delete the following files?               This action cannot be undone."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:754
+#: src/commandsAndMenu.tsx:762
 msgid "Deleting %1 failed."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:755 src/commandsAndMenu.tsx:810 src/index.ts:128
+#: src/commandsAndMenu.tsx:763 src/commandsAndMenu.tsx:818 src/index.ts:128
 msgid "DISMISS"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:765 src/commandsAndMenu.tsx:787
+#: src/commandsAndMenu.tsx:773 src/commandsAndMenu.tsx:795
 msgid "Discard"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:767
+#: src/commandsAndMenu.tsx:775
 msgid "Discard recent changes of selected file"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:768
+#: src/commandsAndMenu.tsx:776
 msgid "Discard recent changes of selected files"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:775
+#: src/commandsAndMenu.tsx:783
 msgid "Discard changes"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:778
+#: src/commandsAndMenu.tsx:786
 msgid "Are you sure you want to permanently discard changes to the following files?               This action cannot be undone."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:808
+#: src/commandsAndMenu.tsx:816
 msgid "Discard changes for %1 failed."
 msgstr ""
 
-#: src/commandsAndMenu.tsx:821 src/commandsAndMenu.tsx:825
+#: src/commandsAndMenu.tsx:829 src/commandsAndMenu.tsx:833
 msgid "Ignore this file (add to .gitignore)"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:822 src/commandsAndMenu.tsx:826
+#: src/commandsAndMenu.tsx:830 src/commandsAndMenu.tsx:834
 msgid "Ignore these files (add to .gitignore)"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:844
+#: src/commandsAndMenu.tsx:852
 msgid "Ignore %2 extension (add to .gitignore)"
 msgid_plural "Ignore %2 extensions (add to .gitignore)"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: src/commandsAndMenu.tsx:852
+#: src/commandsAndMenu.tsx:860
 msgid "Ignore this file extension (add to .gitignore)"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:853
+#: src/commandsAndMenu.tsx:861
 msgid "Ignore these files extension (add to .gitignore)"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:862
+#: src/commandsAndMenu.tsx:870
 msgid "Ignore file extension"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:863
+#: src/commandsAndMenu.tsx:871
 msgid "Are you sure you want to ignore all %1 files within this git repository?"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:869 src/commandsAndMenu.tsx:872
+#: src/commandsAndMenu.tsx:877 src/commandsAndMenu.tsx:880
 msgid "Ignore"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:889
+#: src/commandsAndMenu.tsx:897
 msgid "No actions available"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:908
+#: src/commandsAndMenu.tsx:916
 msgid "Set Up Remotes"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:912
+#: src/commandsAndMenu.tsx:920
 msgid "Git Documentation"
 msgstr ""
 
-#: src/commandsAndMenu.tsx:943
+#: src/commandsAndMenu.tsx:951
 msgid " Help "
 msgstr ""
 
@@ -553,11 +553,11 @@ msgstr ""
 msgid "Git server extension is unavailable. Please ensure you have installed the JupyterLab Git server extension by running: pip install --upgrade jupyterlab-git. To confirm that the server extension is installed, run: jupyter server extension list."
 msgstr ""
 
-#: src/widgets/CredentialsBox.tsx:36
+#: src/widgets/CredentialsBox.tsx:37
 msgid "username"
 msgstr ""
 
-#: src/widgets/CredentialsBox.tsx:37
+#: src/widgets/CredentialsBox.tsx:38
 msgid "password / personal access token"
 msgstr ""
 
