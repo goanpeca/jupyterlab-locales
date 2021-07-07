@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jupyterlab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: jupyterlab\n"
+"X-Crowdin-Project-ID: 409874\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_lsp/locale/jupyterlab_lsp.pot\n"
+"X-Crowdin-File-ID: 62\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2021-07-07 22:05\n"
+
+#: /packages/jupyterlab-lsp/schema/completion.json:12
+msgctxt "schema"
+msgid "Whether to show documentation box next to the completion suggestions."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:15
+msgid "Continuous hinting"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:18
+msgctxt "schema"
+msgid "Whether to enable continuous hinting (Hinterland mode)."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:21
+msgid "Suppress invoke continuous hinting in specific code fragments"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:27
+msgctxt "schema"
+msgid "An array of CodeMirror tokens for which the continuous hinting should be suppressed. The token names vary between languages (modes)."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:30
+msgid "Suppress invoke via trigger character in specific code fragments"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:36
+msgctxt "schema"
+msgid "An array of CodeMirror tokens for which the auto-invoke after entering a trigger (e.g. `.` in Python or `::` in R) character should be suppressed. The token names vary between languages (modes)."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:39
+msgid "Kernel completion response timeout"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:4
+msgctxt "schema"
+msgid "Code Completion"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:42
+msgctxt "schema"
+msgid "The time to wait for the kernel completions suggestions in milliseconds. Set to 0 to disable kernel completions, or to -1 to wait indefinitely (not recommended)."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:45
+msgctxt "schema"
+msgid "The sources from which to exclude completion from. Possible values include 'Kernel', 'LSP'."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:5
+msgctxt "schema"
+msgid "LSP Completion settings."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:51
+msgid "Wait for kernel if busy"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:54
+msgctxt "schema"
+msgid "Should an attempt to get the kernel response (with timeout as specified by kernelResponseTimeout) be made if kernel is busy? If you often write code in notebook while computations are running for long time (e.g. training models), turning this off might give you faster response times."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:57
+msgid "Completer theme"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:60
+msgctxt "schema"
+msgid "The identifier of a completer theme with icons which indicate the kind of completion. Set to null to disable icons. Search for 'completer themes' in the command palette for a command displaying available themes."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:63
+msgid "Prioritize completions from kernel"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:65
+msgctxt "schema"
+msgid "In case of ties when sorting completions, should the kernel completions receive higher priority than the language server completions?"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:68
+msgid "Case-sensitive filtering"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:71
+msgctxt "schema"
+msgid "Should completion filtering be case-sensitive?"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:74
+msgid "Include perfect matches"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:77
+msgctxt "schema"
+msgid "Should perfect matches be included in the completion suggestions list?"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:80
+msgid "Text to display next to completion label"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:84
+msgctxt "schema"
+msgid "What to display next to the completion label, one of: 'detail', 'type', 'source', 'auto'. The default 'auto' will display whichever information is available."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:87
+msgid "Mapping of custom kernel types to valid completion kind names"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:88
+msgctxt "schema"
+msgid "Mapping used for icon selection. The kernel types (keys) are case-insensitive. Accepted values are the names of CompletionItemKind and 'Kernel' literal. The defaults aim to provide good initial experience for Julia, Python and R kernels."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/completion.json:9
+msgid "Show documentation box"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/diagnostics.json:13
+msgctxt "schema"
+msgid "Default level of the severity for diagnostics without severity provided by the language server."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/diagnostics.json:16
+msgid "Diagnostic codes to ignore"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/diagnostics.json:22
+msgctxt "schema"
+msgid "Codes of diagnostics which should not be shown in the panel nor highlighted in the editor."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/diagnostics.json:25
+msgid "Diagnostic messages to ignore"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/diagnostics.json:31
+msgctxt "schema"
+msgid "Regular expressions matching messages of diagnostics which should not be shown in the panel nor highlighted in the editor."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/diagnostics.json:4
+msgctxt "schema"
+msgid "Code Diagnostics"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/diagnostics.json:5
+msgctxt "schema"
+msgid "LSP Diagnostics (linter results) settings."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/diagnostics.json:9
+msgid "Default severity level"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/highlights.json:12
+msgctxt "schema"
+msgid "Number of milliseconds to delay sending out the highlights request to the language server; you can get better responsiveness adjusting this value, but setting it to zero can actually slow it down as the server might get overwhelmed when moving the cursor."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/highlights.json:15
+msgid "Remove highlights on editor (e.g. cell) blur"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/highlights.json:18
+msgctxt "schema"
+msgid "Whether the highlights should disappear after the focus leaves the editor/cell"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/highlights.json:4
+msgctxt "schema"
+msgid "Code Highlights"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/highlights.json:5
+msgctxt "schema"
+msgid "LSP highlights of the variable under the cursor settings."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/highlights.json:9
+msgid "Debouncer delay"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/hover.json:13
+msgctxt "schema"
+msgid "Keyboard key which activates the tooltip on hover. The allowed keys are Alt, Control, Shift, and AltGraph. Linux user: Meta key is also supported. Safari users: Meta key is also supported, AltGraph is not supported. To see which physical keys are mapped, visit: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/getModifierState"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/hover.json:16
+msgid "Throttler delay"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/hover.json:19
+msgctxt "schema"
+msgid "Number of milliseconds to delay sending out the hover request to the language server; you can get better responsiveness adjusting this value, but setting it to zero can actually slow it down as the server might get overwhelmed when moving the mouse over the code."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/hover.json:22
+msgid "Cache size"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/hover.json:25
+msgctxt "schema"
+msgid "Up to how many hover responses should be cached at any given time. The cache being is invalidated after any change in the editor."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/hover.json:4
+msgctxt "schema"
+msgid "Code Hover"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/hover.json:5
+msgctxt "schema"
+msgid "LSP Hover over the code tooltip settings."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/hover.json:9 /packages/jupyterlab-lsp/schema/jump_to.json:9
+msgid "Modifier key"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/jump_to.json:13
+msgctxt "schema"
+msgid "Keyboard key which needs to be pressed with click to jump. The allowed keys are Alt, Control, Shift, Accel, and AltGraph. Accel corresponds to Control or Meta (Command on Mac). Linux user: Meta key is also supported. Safari users: Meta key is also supported, AltGraph is not supported. To see which physical keys are mapped, visit: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/getModifierState"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/jump_to.json:5 /packages/jupyterlab-lsp/schema/jump_to.json:5
+msgctxt "schema"
+msgid "Code Jump"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:0
+msgctxt "schema"
+msgid "Language-server specific configuration, keyed by implementation, e.g: \n\n"
+"pyls: {\n"
+"  serverSettings: {\n"
+"    pyls: {\n"
+"      plugins: {\n"
+"        pydocstyle: {\n"
+"          enabled: true\n"
+"        },\n"
+"        pyflakes: {\n"
+"          enabled: false\n"
+"        },\n"
+"        flake8: {\n"
+"          enabled: true\n"
+"        }\n"
+"      }\n"
+"    }\n"
+"  }\n"
+"}\n\n"
+"Alternatively, using VSCode's naming convention:\n\n"
+"pyls: {\n"
+"  serverSettings: {\n"
+"    \"pyls.plugins.pydocstyle.enabled\": true,\n"
+"    \"pyls.plugins.pyflakes.enabled\": false,\n"
+"    \"pyls.plugins.flake8.enabled\": true\n"
+"  }\n"
+"}"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:0
+msgctxt "schema"
+msgid "Whether to ask server to send logs with execution trace (for debugging). To see these messages, set loggingLevel to debug or log. Accepted values are: \"off\", \"messages\", \"verbose\". Servers are allowed to ignore this request."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:32
+msgctxt "schema"
+msgid "Language Server"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:32
+msgid "Language Server"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:5
+msgctxt "schema"
+msgid "Language Server Protocol settings."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:51
+msgid "Logging console type"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:55
+msgctxt "schema"
+msgid "The console to use for debugging problems with this extension. Allowed values are: browser, floating."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:58
+msgid "Logging console verbosity level"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:62
+msgctxt "schema"
+msgid "The verbosity of the console for debugging problems with this extension. Allowed values are: debug, log, warn, error."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:65
+msgid "Log all LSP communication with the LSP servers"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:68
+msgctxt "schema"
+msgid "Whether all messages sent to and received from LSP servers should be logged into the console. To see these messages, set loggingLevel to debug or log. Note: Only messages handled by the new API will be shown."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/plugin.json:71
+msgid "Ask servers to send trace notifications"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/rename.json:4
+msgctxt "schema"
+msgid "Code Rename"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/rename.json:5
+msgctxt "schema"
+msgid "LSP Rename settings."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/syntax_highlighting.json:12
+msgctxt "schema"
+msgid "If a code editor includes a code fragment in another language (for example a %%markdown magic in IPython) with appropriate foreign code extractor defined, and the extend of this code (coverage of the editor) passes the threshold, the syntax highlighting (i.e. the mode) will change to provide highlighting for the language of the foreign code."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/syntax_highlighting.json:4
+msgctxt "schema"
+msgid "Code Syntax"
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/syntax_highlighting.json:5
+msgctxt "schema"
+msgid "LSP code syntax highlighting settings."
+msgstr ""
+
+#: /packages/jupyterlab-lsp/schema/syntax_highlighting.json:9
+msgid "Threshold of foreign code coverage for changing the mode in an editor"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/manager.py:236
+msgid "Failed to load language server spec finder `{}`: \n"
+"{}"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/manager.py:248
+msgid "Skipping non-installed server: `{}`"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/manager.py:254
+msgid "Failed to fetch commands from language server spec finder `{}`:\n"
+"{}"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/manager.py:267
+msgid "Failed to validate commands from language server spec finder `{}`:\n"
+"{}"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/manager.py:41
+msgid "extra language server specs, keyed by implementation, from conf.d"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/manager.py:46
+msgid "a dict of language server specs, keyed by implementation"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/manager.py:52
+msgid "try to find known language servers in sys.prefix (and elsewhere)"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/types.py:193
+msgid "path to nodejs executable"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/types.py:195
+msgid "absolute paths in which to seek node_modules"
+msgstr ""
+
+#: /python_packages/jupyter_lsp/jupyter_lsp/types.py:200
+msgid "additional absolute paths to seek node_modules first"
+msgstr ""
+
+#: packages/completion-theme/src/about.tsx:47
+msgid " (current)"
+msgstr ""
+
+#: packages/completion-theme/src/about.tsx:54
+msgid "Licence: "
+msgstr ""
+
+#: packages/completion-theme/src/about.tsx:60
+msgid "Includes dedicated dark mode icons set"
+msgstr ""
+
+#: packages/completion-theme/src/index.ts:189
+msgid "Display the completer themes"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:150
+msgid "Troubleshooting"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:154
+msgid "In case of issues with installation feel welcome to ask a question on GitHub."
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:158
+msgid "Installation"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:168
+msgid "No installation instructions were provided with this specification."
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:183
+msgid "No language server for %1 detected"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:192
+msgid "There is %1 language server you can easily install that supports %2."
+msgid_plural "There are %1 language servers you can easily install that supports %2."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:211
+msgid "We do not have an auto-detection ready for a language servers supporting %1 yet."
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:217
+msgid "You may contribute a specification for auto-detection as described in our "
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/components/statusbar.tsx:225
+msgid "documentation"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/diagnostics/index.ts:42
+msgid "Show diagnostics panel"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/diagnostics/listing.tsx:230
+msgid "No issues detected, great job!"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/highlights.ts:39
+msgid "Highlight references"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/highlights.ts:47
+msgid "Highlight type definition"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/jump_to.ts:129
+msgid "No jump targets found"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/jump_to.ts:260
+msgid "Jump to definition"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/jump_to.ts:270
+msgid "Jump back"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/rename.ts:103
+msgid "Rename symbol"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/rename.ts:68
+msgid "Rename failed: %1"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/rename.ts:75
+msgid "Rename to"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/rename.ts:77
+msgid "Rename"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/rename.ts:78
+msgid "Cancel"
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/rename.ts:88
+msgid "Renaming %1 to %2..."
+msgstr ""
+
+#: packages/jupyterlab-lsp/src/features/syntax_highlighting.ts:150
+msgid "Syntax highlighting"
+msgstr ""
+
