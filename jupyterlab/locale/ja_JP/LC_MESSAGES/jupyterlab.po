@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"PO-Revision-Date: 2021-07-07 22:06\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -3630,14 +3630,4 @@ msgstr "インターフェイスの言語を変更しますか?"
 #: packages/translation-extension/src/index.ts:142
 msgid "Are you sure you want to refresh?"
 msgstr "更新してよろしいですか?"
-
-#. obsolete
-#: packages/fileeditor-extension/src/commands.ts:1200
-msgid "Editor"
-msgstr "エディタ"
-
-#. obsolete
-#: packages/debugger/src/panels/variables/index.ts:70
-msgid "Table / Tree View"
-msgstr "表 / ツリービュー"
 
