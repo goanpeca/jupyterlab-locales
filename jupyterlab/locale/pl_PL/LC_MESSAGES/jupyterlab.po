@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-06-30 19:08\n"
+"PO-Revision-Date: 2021-07-07 22:06\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -3623,14 +3623,4 @@ msgstr "Zmienić język interfejsu?"
 #: packages/translation-extension/src/index.ts:142
 msgid "Are you sure you want to refresh?"
 msgstr "Czy na pewno chcesz odświeżyć?"
-
-#. obsolete
-#: packages/fileeditor-extension/src/commands.ts:1200
-msgid "Editor"
-msgstr "Edytor"
-
-#. obsolete
-#: packages/debugger/src/panels/variables/index.ts:70
-msgid "Table / Tree View"
-msgstr "Widok tabeli / drzewa"
 
