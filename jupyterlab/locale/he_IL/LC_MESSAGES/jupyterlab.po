@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"PO-Revision-Date: 2021-07-07 22:06\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -3668,14 +3668,4 @@ msgstr "להחליף את שפת המנשק?"
 #: packages/translation-extension/src/index.ts:142
 msgid "Are you sure you want to refresh?"
 msgstr "לרענן?"
-
-#. obsolete
-#: packages/fileeditor-extension/src/commands.ts:1200
-msgid "Editor"
-msgstr "עורך"
-
-#. obsolete
-#: packages/debugger/src/panels/variables/index.ts:70
-msgid "Table / Tree View"
-msgstr "תצוגת טבלה / עץ"
 
