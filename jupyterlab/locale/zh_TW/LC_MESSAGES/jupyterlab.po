@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2021-06-29 10:08\n"
+"PO-Revision-Date: 2021-07-07 22:06\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -3597,14 +3597,4 @@ msgstr "切換界面語言?"
 #: packages/translation-extension/src/index.ts:142
 msgid "Are you sure you want to refresh?"
 msgstr "確定要重新整理嗎?"
-
-#. obsolete
-#: packages/fileeditor-extension/src/commands.ts:1200
-msgid "Editor"
-msgstr "編輯器"
-
-#. obsolete
-#: packages/debugger/src/panels/variables/index.ts:70
-msgid "Table / Tree View"
-msgstr "表格/樹狀檢視"
 
