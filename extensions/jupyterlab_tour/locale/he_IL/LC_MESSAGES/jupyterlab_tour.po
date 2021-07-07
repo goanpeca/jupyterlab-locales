@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jupyterlab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Crowdin-Project: jupyterlab\n"
+"X-Crowdin-Project-ID: 409874\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-File: /[jupyterlab.language-packs] master/extensions/jupyterlab_tour/locale/jupyterlab_tour.pot\n"
+"X-Crowdin-File-ID: 64\n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"PO-Revision-Date: 2021-07-07 22:05\n"
+
+#: /schema/user-tours.json:10
+msgctxt "schema"
+msgid "An array of a tours. Each requires an `id`, `label` and `steps[]`, and may have `options`, see https://docs.react-joyride.com"
+msgstr ""
+
+#: /schema/user-tours.json:3
+msgctxt "schema"
+msgid "Configuration for user-defined tours. This schema is generated from https://github.com/gilbarbara/react-joyride/blob/master/types/index.d.ts"
+msgstr ""
+
+#: /schema/user-tours.json:5
+msgctxt "schema"
+msgid "Tours"
+msgstr ""
+
+#: src/tourManager.ts:139
+msgid "Fail to add tour '%1' (%2)"
+msgstr ""
+
+#: src/tourManager.ts:166
+msgid "Error creating new tour. TourHandler id's must be unique.\n"
+"Tutorial with the id: '%1' already exists."
+msgstr ""
+
+#: src/tourManager.ts:249
+msgid "Try the %1."
+msgstr ""
+
+#: src/tourManager.ts:253
+msgid "Start now"
+msgstr ""
+
+#: src/tourManager.ts:257
+msgid "Don't show me again"
+msgstr ""
+
+#: src/tourManager.ts:41
+msgid "Back"
+msgstr ""
+
+#: src/tourManager.ts:42
+msgid "Close"
+msgstr ""
+
+#: src/tourManager.ts:43
+msgid "Done"
+msgstr ""
+
+#: src/tourManager.ts:44
+msgid "Next"
+msgstr ""
+
+#: src/tourManager.ts:45
+msgid "Open"
+msgstr ""
+
+#: src/tourManager.ts:46
+msgid "Skip"
+msgstr ""
+
+#: src/userTourManager.ts:69
+msgid "Error encountered adding user tour %1 (%2)"
+msgstr ""
+
