@@ -12,29 +12,29 @@ msgstr ""
 "X-Crowdin-File-ID: 52\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-07-07 22:05\n"
+"PO-Revision-Date: 2021-07-08 04:14\n"
 
 #: /schema/plugin.json:10
 msgid "Suspend user interaction until commands finish"
-msgstr ""
+msgstr "Tangguhkan interaksi pengguna hingga perintah selesai"
 
 #: /schema/plugin.json:11
 msgctxt "schema"
 msgid "Suspend JupyterLab user interaction until Git commands (e.g., commit, pull, reset, revert) finish executing. Setting this to true helps mitigate potential race conditions leading to data loss, conflicts, and a broken Git history. Unless running a slow network, UI suspension should not interfere with standard workflows. Setting this to false allows for actions to trigger multiple concurrent Git actions."
-msgstr ""
+msgstr "Tangguhkan interaksi pengguna JupyterLab hingga perintah Git (misalnya, commit, pull, reset, revert) selesai dieksekusi. Mengatur ini ke TRUE membantu mengurangi kondisi balapan potensial yang menyebabkan hilangnya data, konflik, dan riwayat Git yang rusak. Kecuali menjalankan jaringan yang lambat, penangguhan UI tidak akan mengganggu alur kerja standar. Mengatur ini ke FALSE memungkinkan tindakan untuk memicu beberapa tindakan Git bersamaan."
 
 #: /schema/plugin.json:16
 msgid "Cancel pull merge conflict"
-msgstr ""
+msgstr "Batalkan konflik gabungan tarik"
 
 #: /schema/plugin.json:17
 msgctxt "schema"
 msgid "If true, when fetching and integrating changes from a remote repository, a conflicting merge is canceled and the working tree left untouched."
-msgstr ""
+msgstr "Jika TRUE, ketika mengambil dan mengintegrasikan perubahan dari repositori remote, gabungan yang saling bertentangan dibatalkan dan pohon kerja tidak terentuh."
 
 #: /schema/plugin.json:22
 msgid "Disable branch with changes"
-msgstr ""
+msgstr "Nonaktifkan cabang dengan perubahan"
 
 #: /schema/plugin.json:23
 msgctxt "schema"
@@ -43,7 +43,7 @@ msgstr ""
 
 #: /schema/plugin.json:28
 msgid "Display Git status updates"
-msgstr ""
+msgstr "Menampilkan pembaruan status Git"
 
 #: /schema/plugin.json:29
 msgctxt "schema"
@@ -52,26 +52,26 @@ msgstr ""
 
 #: /schema/plugin.json:34
 msgid "Show diff on double click"
-msgstr ""
+msgstr "Tampilkan diff saat klik ganda"
 
 #: /schema/plugin.json:35
 msgctxt "schema"
 msgid "If true, doubling clicking a file in the list of changed files will open a diff."
-msgstr ""
+msgstr "Jika TRUE, mengklik ganda sebuah file didalam daftar file yang diubah akan membuka diff."
 
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Git"
-msgstr ""
+msgstr "Git"
 
 #: /schema/plugin.json:40
 msgid "History count"
-msgstr ""
+msgstr "Hitungan riwayat"
 
 #: /schema/plugin.json:41
 msgctxt "schema"
 msgid "Number of (most recent) commits shown in the history log"
-msgstr ""
+msgstr "Jumlah komit (terbaru) yang diperlihatkan dalam log riwayat"
 
 #: /schema/plugin.json:46
 msgid "Refresh if the Git tab is hidden"
@@ -85,7 +85,7 @@ msgstr ""
 #: /schema/plugin.json:5
 msgctxt "schema"
 msgid "jupyterlab-git settings."
-msgstr ""
+msgstr "pengaturan jupyterlab-git."
 
 #: /schema/plugin.json:52
 msgid "Refresh interval"
@@ -340,19 +340,19 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:546
 msgid "Diff"
-msgstr ""
+msgstr "Diff"
 
 #: src/commandsAndMenu.tsx:548
 msgid "Diff selected file"
-msgstr ""
+msgstr "Diff berkas pilihan"
 
 #: src/commandsAndMenu.tsx:549
 msgid "Diff selected files"
-msgstr ""
+msgstr "Diff berkas-berkas pilihan"
 
 #: src/commandsAndMenu.tsx:659
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #: src/commandsAndMenu.tsx:661
 msgid "Stage or track the changes to selected file"
@@ -400,27 +400,27 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:730 src/commandsAndMenu.tsx:752
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: src/commandsAndMenu.tsx:732
 msgid "Delete this file"
-msgstr ""
+msgstr "Hapus berkas ini"
 
 #: src/commandsAndMenu.tsx:733
 msgid "Delete these files"
-msgstr ""
+msgstr "Hapus berkas-berkas ini"
 
 #: src/commandsAndMenu.tsx:740
 msgid "Delete Files"
-msgstr ""
+msgstr "Hapus Berkas"
 
 #: src/commandsAndMenu.tsx:743
 msgid "Are you sure you want to permanently delete the following files?               This action cannot be undone."
-msgstr ""
+msgstr "Apakah Anda yakin ingin menghapus berkas-berkas berikut secara permanen? Tindakan ini tidak dapat dibatalkan."
 
 #: src/commandsAndMenu.tsx:762
 msgid "Deleting %1 failed."
-msgstr ""
+msgstr "Gagal hapus %1."
 
 #: src/commandsAndMenu.tsx:763 src/commandsAndMenu.tsx:818 src/index.ts:128
 msgid "DISMISS"
@@ -428,7 +428,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:773 src/commandsAndMenu.tsx:795
 msgid "Discard"
-msgstr ""
+msgstr "Buang"
 
 #: src/commandsAndMenu.tsx:775
 msgid "Discard recent changes of selected file"
@@ -440,7 +440,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:783
 msgid "Discard changes"
-msgstr ""
+msgstr "Membuang perubahan"
 
 #: src/commandsAndMenu.tsx:786
 msgid "Are you sure you want to permanently discard changes to the following files?               This action cannot be undone."
@@ -473,7 +473,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:870
 msgid "Ignore file extension"
-msgstr ""
+msgstr "Abaikan exstensi berkas"
 
 #: src/commandsAndMenu.tsx:871
 msgid "Are you sure you want to ignore all %1 files within this git repository?"
@@ -481,7 +481,7 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:877 src/commandsAndMenu.tsx:880
 msgid "Ignore"
-msgstr ""
+msgstr "Abaikan"
 
 #: src/commandsAndMenu.tsx:897
 msgid "No actions available"
@@ -493,15 +493,15 @@ msgstr ""
 
 #: src/commandsAndMenu.tsx:920
 msgid "Git Documentation"
-msgstr ""
+msgstr "Dokumentasi Git"
 
 #: src/commandsAndMenu.tsx:951
 msgid " Help "
-msgstr ""
+msgstr " Membantu "
 
 #: src/components/BranchMenu.tsx:51
 msgid "Unable to switch branch"
-msgstr ""
+msgstr "Tidak bisa mangganti cabang"
 
 #: src/components/BranchMenu.tsx:55 src/components/TagMenu.tsx:49
 msgid "Your changes to the following files would be overwritten by switching:"
