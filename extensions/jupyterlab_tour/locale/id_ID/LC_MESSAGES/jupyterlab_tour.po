@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 64\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-07-07 22:05\n"
+"PO-Revision-Date: 2021-07-08 04:14\n"
 
 #: /schema/user-tours.json:10
 msgctxt "schema"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: src/tourManager.ts:253
 msgid "Start now"
-msgstr ""
+msgstr "Mulai sekarang"
 
 #: src/tourManager.ts:257
 msgid "Don't show me again"
@@ -56,11 +56,11 @@ msgstr ""
 
 #: src/tourManager.ts:42
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 #: src/tourManager.ts:43
 msgid "Done"
-msgstr ""
+msgstr "Selesai"
 
 #: src/tourManager.ts:44
 msgid "Next"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: src/tourManager.ts:45
 msgid "Open"
-msgstr ""
+msgstr "Buka"
 
 #: src/tourManager.ts:46
 msgid "Skip"
