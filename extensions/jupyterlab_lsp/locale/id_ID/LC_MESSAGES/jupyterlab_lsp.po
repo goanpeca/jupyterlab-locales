@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 62\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-07-07 22:05\n"
+"PO-Revision-Date: 2021-07-08 04:14\n"
 
 #: /packages/jupyterlab-lsp/schema/completion.json:12
 msgctxt "schema"
@@ -452,7 +452,7 @@ msgstr ""
 
 #: packages/jupyterlab-lsp/src/components/statusbar.tsx:225
 msgid "documentation"
-msgstr ""
+msgstr "dokumentasi"
 
 #: packages/jupyterlab-lsp/src/features/diagnostics/index.ts:42
 msgid "Show diagnostics panel"
@@ -500,7 +500,7 @@ msgstr ""
 
 #: packages/jupyterlab-lsp/src/features/rename.ts:78
 msgid "Cancel"
-msgstr ""
+msgstr "Batalkan"
 
 #: packages/jupyterlab-lsp/src/features/rename.ts:88
 msgid "Renaming %1 to %2..."
