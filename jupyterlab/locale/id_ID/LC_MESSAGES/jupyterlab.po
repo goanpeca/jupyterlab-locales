@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-07-07 22:06\n"
+"PO-Revision-Date: 2021-07-08 04:14\n"
 
 #: /examples/federated/md_package/./schema/plugin.json:30 /packages/markdownviewer-extension/schema/plugin.json:30
 msgid "Font Family"
@@ -2085,7 +2085,7 @@ msgstr ""
 
 #: packages/filebrowser-extension/src/index.ts:852 packages/mainmenu-extension/src/index.ts:577
 msgid "Shut Down Kernel"
-msgstr ""
+msgstr "Matikan kernel"
 
 #: packages/filebrowser-extension/src/index.ts:871
 msgid "Show Active File in File Browser"
@@ -2413,7 +2413,7 @@ msgstr ""
 
 #: packages/help-extension/src/index.tsx:298
 msgid "Version %1"
-msgstr ""
+msgstr "Versi %1"
 
 #: packages/help-extension/src/index.tsx:326
 msgid "CONTRIBUTOR LIST"
@@ -2766,11 +2766,11 @@ msgstr "Matikan semua kernel?"
 
 #: packages/mainmenu-extension/src/index.ts:593 packages/running-extension/src/kernels.ts:46 packages/running/src/index.tsx:228 packages/terminal-extension/src/index.ts:298
 msgid "Shut Down All"
-msgstr ""
+msgstr "Matikan Semua"
 
 #: packages/mainmenu-extension/src/index.ts:634
 msgid "View"
-msgstr ""
+msgstr "Lihat"
 
 #: packages/mainmenu-extension/src/index.ts:637
 msgid "Show Line Numbers"
@@ -2794,7 +2794,7 @@ msgstr ""
 
 #: packages/mainmenu-extension/src/index.ts:805 packages/settingeditor-extension/src/index.ts:145 packages/settingeditor-extension/src/index.ts:155
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 #: packages/mainmenu-extension/src/index.ts:855
 msgid "Activate Previously Used Tab"
@@ -2846,7 +2846,7 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:1262
 msgid "Export Notebook: %1"
-msgstr ""
+msgstr "Ekspor Notebook: %1"
 
 #: packages/notebook-extension/src/index.ts:1297 packages/notebook-extension/src/index.ts:2228
 msgid "Restart Kernel and Clear All Outputs…"
@@ -3094,11 +3094,11 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:2436
 msgid "For Notebook: %1"
-msgstr ""
+msgstr "Untuk Notebook: %1"
 
 #: packages/notebook-extension/src/index.ts:2437
 msgid "For Notebook:"
-msgstr ""
+msgstr "Untuk Notebook:"
 
 #: packages/notebook-extension/src/index.ts:2522
 msgid "HTML"
@@ -3146,7 +3146,7 @@ msgstr ""
 
 #: packages/notebook-extension/src/index.ts:742
 msgid "New Notebook"
-msgstr ""
+msgstr "Notebook Baru"
 
 #: packages/notebook-extension/src/index.ts:746
 msgid "Create a new notebook"
@@ -3218,11 +3218,11 @@ msgstr ""
 
 #: packages/notebook/src/default-toolbar.tsx:343
 msgid "Code"
-msgstr ""
+msgstr "Kode"
 
 #: packages/notebook/src/default-toolbar.tsx:345
 msgid "Raw"
-msgstr ""
+msgstr "Mentah"
 
 #: packages/notebook/src/default-toolbar.tsx:85
 msgid "Save the notebook contents and create checkpoint"
@@ -3290,7 +3290,7 @@ msgstr ""
 
 #: packages/notebook/src/notebooktools.ts:891
 msgid "Notes"
-msgstr ""
+msgstr "Catatan"
 
 #: packages/notebook/src/notebooktools.ts:929
 msgid "Raw NBConvert Format"
@@ -3338,7 +3338,7 @@ msgstr ""
 
 #: packages/running-extension/src/kernels.ts:36
 msgid "Kernels"
-msgstr ""
+msgstr "Kernels"
 
 #: packages/running-extension/src/kernels.ts:47
 msgid "Are you sure you want to permanently shut down all running kernels?"
@@ -3351,7 +3351,7 @@ msgstr ""
 
 #: packages/running-extension/src/opentabs.ts:78
 msgid "Open Tabs"
-msgstr ""
+msgstr "Tab Terbuka"
 
 #: packages/running-extension/src/opentabs.ts:94
 msgid "Close"
@@ -3436,7 +3436,7 @@ msgstr ""
 
 #: packages/statusbar-extension/src/index.ts:387
 msgid "Simple"
-msgstr ""
+msgstr "Sederhana"
 
 #: packages/statusbar-extension/src/index.ts:93
 msgid "Show Status Bar"
@@ -3468,7 +3468,7 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:179
 msgid "Terminal Theme"
-msgstr ""
+msgstr "Tema Terminal"
 
 #: packages/terminal-extension/src/index.ts:184 packages/terminal-extension/src/index.ts:240
 msgid "Inherit"
@@ -3476,19 +3476,19 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:192 packages/terminal-extension/src/index.ts:247
 msgid "Light"
-msgstr ""
+msgstr "Terang"
 
 #: packages/terminal-extension/src/index.ts:198 packages/terminal-extension/src/index.ts:252
 msgid "Dark"
-msgstr ""
+msgstr "Gelap"
 
 #: packages/terminal-extension/src/index.ts:217
 msgid "Shutdown Terminal"
-msgstr ""
+msgstr "Matikan Terminal"
 
 #: packages/terminal-extension/src/index.ts:291
 msgid "Terminals"
-msgstr ""
+msgstr "Terminals"
 
 #: packages/terminal-extension/src/index.ts:299
 msgid "Are you sure you want to permanently shut down all running terminals?"
@@ -3496,11 +3496,11 @@ msgstr ""
 
 #: packages/terminal-extension/src/index.ts:341
 msgid "New Terminal"
-msgstr ""
+msgstr "Baru Terminal"
 
 #: packages/terminal-extension/src/index.ts:341 packages/terminal-extension/src/index.ts:91 packages/terminal/src/widget.ts:76
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 #: packages/terminal-extension/src/index.ts:342
 msgid "Start a new terminal session"
@@ -3532,19 +3532,19 @@ msgstr ""
 
 #: packages/terminal/src/widget.ts:97
 msgid "Terminal %1"
-msgstr ""
+msgstr "Terminal %1"
 
 #: packages/theme-dark-extension/src/index.ts:32
 msgid "JupyterLab Dark"
-msgstr ""
+msgstr "JupyterLab Gelap"
 
 #: packages/theme-light-extension/src/index.ts:32
 msgid "JupyterLab Light"
-msgstr ""
+msgstr "JupyterLab Terang"
 
 #: packages/toc-extension/src/index.ts:67 packages/toc/src/toc.tsx:113
 msgid "Table of Contents"
-msgstr ""
+msgstr "Daftar Isi"
 
 #: packages/toc/src/generators/markdown/toolbar_generator.tsx:64 packages/toc/src/generators/markdown/toolbar_generator.tsx:65 packages/toc/src/generators/notebook/toolbar_generator.tsx:212 packages/toc/src/generators/notebook/toolbar_generator.tsx:213
 msgid "Toggle Auto-Numbering"
@@ -3572,7 +3572,7 @@ msgstr ""
 
 #: packages/translation-extension/src/index.ts:106
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #: packages/translation-extension/src/index.ts:141
 msgid "Change interface language?"
