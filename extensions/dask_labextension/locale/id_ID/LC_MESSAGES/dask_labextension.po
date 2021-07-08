@@ -12,28 +12,28 @@ msgstr ""
 "X-Crowdin-File-ID: 50\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-06-29 10:07\n"
+"PO-Revision-Date: 2021-07-08 04:14\n"
 
 #: /schema/plugin.json:14
 msgid "Auto-Start Client"
-msgstr ""
+msgstr "Klien Pengasutan Otomatik"
 
 #: /schema/plugin.json:15
 msgctxt "schema"
 msgid "If set to true, every notebook and console will automatically have a dask client for the active cluster injected into the kernel under the name 'client'"
-msgstr ""
+msgstr "Jika disetel ke TRUE, setiap komputer notebook dan konsol akan secara otomatis memiliki klien Dask untuk kluster aktif yang disuntikkan ke kernal dengan nama 'klien'"
 
 #: /schema/plugin.json:4
 msgctxt "schema"
 msgid "Dask Dashboard"
-msgstr ""
+msgstr "Dasbor Dask"
 
 #: /schema/plugin.json:5
 msgctxt "schema"
 msgid "Settings for the Dask Dashboard plugin."
-msgstr ""
+msgstr "Pengaturan untuk pengaya Dasbor Dask."
 
 #: /schema/plugin.json:9
 msgid "Default URL for the Dask Dashboard Webserver"
-msgstr ""
+msgstr "URL Bawaan untuk Dasbor Dask Server Web"
 
