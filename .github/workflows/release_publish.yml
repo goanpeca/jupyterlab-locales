@@ -3,7 +3,8 @@ name: Create Release and publish packages
 on:
   push:
     tags:
-    # Tags in the form, es-ES-vmajor.minor.patch
+    # Tags in the form: es-ES-vmajor.minor.patch
+    # e.g. zh-CN@v0.0.1
     - '*'
 
 jobs:
@@ -20,33 +21,30 @@ jobs:
         python -m pip install --upgrade -r requirements/release.txt
     - name: Prepare env variables
       run: |
-        export CURRENT_TAG=`python .github/scripts/parse_ref.py`
-        echo ::set-env name=CURRENT_TAG::$CURRENT_TAG
-        export CURRENT_LOCALE_DIR=`python .github/scripts/parse_release.py`
-        echo ::set-env name=CURRENT_LOCALE_DIR::$CURRENT_LOCALE_DIR
+        echo "CURRENT_TAG=$(python .github/scripts/parse_ref.py)" >> $GITHUB_ENV
+        echo "CURRENT_LOCALE_DIR=$(python .github/scripts/parse_release.py)" >> $GITHUB_ENV
     - name: Build release artefacts
       run: |
-        cd $CURRENT_LOCALE_DIR
+        cd ${{ env.CURRENT_LOCALE_DIR }}
         check-manifest -v
         python setup.py sdist bdist_wheel
         python -m twine check dist/*
         ls
     - name: Create Release
-      id: create_release
-      uses: ncipollo/release-action@v1
+      run: |
+        hub release create \
+        ${{ env.CURRENT_TAG }} \
+        -m Release ${{ env.CURRENT_TAG }} \
+        -m Release ${{ env.CURRENT_TAG }} \
+        -a ${{ env.CURRENT_LOCALE_DIR }}/dist/* 
       env:
+        GITHUB_USER: ${{ secrets.GITHUB_USER }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag: ${{ env.CURRENT_TAG }}
-        name: Release ${{ env.CURRENT_TAG }}
-        artifacts: ${{ env.CURRENT_LOCALE_DIR }}/dist/*
-        body: Release ${{ env.CURRENT_TAG }}
-        token: ${{ secrets.GITHUB_TOKEN }}
     - name: Publish PyPI Package
       env:
         TWINE_USERNAME: __token__
         TWINE_PASSWORD: ${{ secrets.PYPI_TOKEN }}
       run: |
-        cd $CURRENT_LOCALE_DIR
+        cd ${{ env.CURRENT_LOCALE_DIR }}
         python -m twine upload dist/*
         ls
